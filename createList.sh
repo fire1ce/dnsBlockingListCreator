@@ -1,4 +1,5 @@
 #!/bin/bash
+DATE=$(date '+%Y%m%d.%H%M')
 
 # Sets Working Dir as Real A Script Location
 if [ -z $(which realpath) ]; then
