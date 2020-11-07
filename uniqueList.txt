@@ -9132,6 +9132,7 @@ d1rgnfh960lz2b.cloudfront.net
 d1rguclfwp7nc8.cloudfront.net
 d1rkf0bq85yx06.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
+d1rsh847opos9y.cloudfront.net
 d1s18kaechs9c9.cloudfront.net
 d1s5n6wuwgnxf4.cloudfront.net
 d1sj3yrs7ojvv7.cloudfront.net
@@ -9249,6 +9250,7 @@ d2i5pngfrazn5t.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2is3w689nunba.cloudfront.net
 d2izezc8ujpkba.cloudfront.net
+d2j042cj1421wi.cloudfront.net
 d2jn12r3o7an7z.cloudfront.net
 d2k4es4l94a3cv.cloudfront.net
 d2k7b1tjy36ro0.cloudfront.net
