@@ -38600,6 +38600,7 @@ tracking.easyzic.com
 tracking.ecookie.fr
 tracking.ehavior.net
 tracking.emsmobile.de
+tracking.epicgames.com
 tracking.eurosport.com
 tracking.fanbridge.com
 tracking.feedperfect.com
