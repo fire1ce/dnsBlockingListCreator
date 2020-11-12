@@ -6554,6 +6554,7 @@ cdnads.com
 cdn.adultsadv.com
 cdn-alliancegravity.s3.amazonaws.com
 cdn-analytics.ladmedia.fr
+cdn-bk.ligastavok.ru
 cdn.cpex.cz
 cdneurope.com
 cdnmr.net
@@ -12465,6 +12466,7 @@ engagesrvr.filefactory.com
 engageya.com
 engdirectdirec.com
 engepool.com.br
+engine-bk.ligastavok.ru
 engine.fxempire.com
 engine.laweekly.com
 engine-pmbk.ligastavok.ru
