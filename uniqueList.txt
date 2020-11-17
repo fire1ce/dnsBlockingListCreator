@@ -4454,6 +4454,7 @@ beacon.thred.woven.com
 beacon.tingyun.com
 beacon.toyota.co.jp
 beacon.viewlift.com
+beacon.walmart.com
 beacon.wikia-services.com
 beacon.www.theguardian.com
 beacyoryjkbhqb.com
@@ -35050,6 +35051,7 @@ site.elkhabar.com
 sitegoto.com
 sitegovernanceinc.000webhostapp.com
 siteinfo.libero.it
+siteintercept.allegiancetech.com
 sitelife.ehow.com
 siteliz.com
 sitemanpaintanddec.co.uk
@@ -39164,12 +39166,14 @@ ttanger.000webhostapp.com
 tta-property.fi
 ttauri.bikeperfect.com
 ttauri.creativebloq.com
+ttauri.digitalcameraworld.com
 ttauri.guitarworld.com
 ttauri.laptopmag.com
 ttauri.livescience.com
 ttauri.loudersound.com
 ttauri.musicradar.com
 ttauri.nexttv.com
+ttauri.realhomes.com
 ttauri.space.com
 ttauri.t3.com
 ttauri.tomsguide.com
