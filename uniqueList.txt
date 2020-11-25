@@ -9528,6 +9528,7 @@ d3id4jppiyyek8.cloudfront.net
 d3iouejux1os58.cloudfront.net
 d3ithbwcmjcxl7.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
+d3j3yrurxcqogk.cloudfront.net
 d3jnni91martf0.cloudfront.net
 d3jw53rnbzs7gr.cloudfront.net
 d3k5fl0ycdyj0l.cloudfront.net
@@ -18199,6 +18200,7 @@ hzm6.com
 hzmiyou.cn
 hznvtg.com
 hzptm5cmvg.ua3opqyvf2.madpendesign.com.au
+hzqzxf.com
 hz.shouyoutv.com
 hz-sllace.com
 hzsmmfohtye.com
@@ -30380,6 +30382,7 @@ prctxexizzpp.com
 prcymjchczmbjj.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
+prd-collector-auth.playbuzz.com
 precallege.com
 precisiongraphics.us
 precision-machining-tw.com
@@ -37272,6 +37275,7 @@ tag.rmp.rakuten.com
 tags2.adshell.net
 tags.bkrtx.com
 tags.cdn.circlesix.co
+tags.creativille.co.uk
 tags.crwdcntrl.net
 tag.shopping-feed.com
 tags.master-perf-tools.com
@@ -37664,6 +37668,7 @@ telemetry.art19.com
 telemetry.jivosite.com
 telemetry.reembed.com
 telemetry.soundcloud.com
+telemetry.tableausoftware.com
 telemetry.tradingview.com
 telesaldo.com
 telestarinc.com
@@ -38739,6 +38744,7 @@ track.derbund.ch
 track.dictionary.com
 track.digitalriver.com
 track.e7r.com.br
+track.eadv.it
 track.engagesciences.com
 tracker.520call.me
 tracker.affiliate.iqoption.com
