@@ -13202,6 +13202,7 @@ event.riolabz.com
 events.air.tv
 events.apester.com
 events.attentivemobile.com
+events.audiate.me
 events.avantisvideo.com
 events.brightline.tv
 events.chaordicsystems.com
@@ -23482,6 +23483,7 @@ logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
 log.snapdeal.com
+logs.naukri.com
 logs-qos.tf1.fr
 logs.spilgames.com
 logstat.caixin.com
