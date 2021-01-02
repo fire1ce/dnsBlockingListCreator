@@ -644,6 +644,7 @@ ad.bwise.ch
 adc.9news.com.au
 adc.api.nine.com.au
 adcast.ru
+ad.ccement.com
 ad.ccmbg.com
 adccoo.cn
 ad.cdnjm.cn
@@ -7861,6 +7862,7 @@ cloudintelligentbd.com
 cloudminerpro.com
 cloudon.ml
 cloud.pdf.sukunstays.com
+cloudpsvn.com
 cloudserver090070.home.net.pl
 clouds-pros-services.goo.vg
 clous.altervista.org
@@ -35344,6 +35346,7 @@ shuccn.com
 shuffele.com
 shuhahom.net
 shukaimp.com
+shukongshebei.net
 shunlige.com
 shunxinyuancaiwu.cn
 shutdown.cgffood.vn
