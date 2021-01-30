@@ -6200,6 +6200,7 @@ events.privy.com
 events.realgravity.com
 events.reddit.com
 events.redditmedia.com
+events.shareably.net
 events.sk.ht
 events.tubecup.org
 events.turbosquid.com
@@ -17340,6 +17341,7 @@ szdzbx.com
 szfaq.com
 szggdw.com
 szh6.xyz
+szhgmd.com
 szimh.com
 s.zixuntop.com
 szjianxin.net
