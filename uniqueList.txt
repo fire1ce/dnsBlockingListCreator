@@ -1041,7 +1041,6 @@ analyticcdn.globalmailer.com
 analytic.imlive.com
 analytics00.meride.tv
 analytics.163.com
-analytics2.socialblade.com
 analytics.30m.com
 analytics.aasaam.com
 analytics.adfreetime.com
@@ -1174,7 +1173,6 @@ analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.smallpdf.com
 analytics.snidigital.com
-analytics.socialblade.com
 analytics.solidbau.at
 analytics.sonymusic.com
 analytics.sportybet.com
@@ -3007,6 +3005,7 @@ cdn.taboola.com
 cdn.teads.tv
 cdntlz.cn
 cdn-t.xyz
+cdn.usefathom.com
 cdn.wuyou.ca
 cdooewrzvec.com
 cdouj.com
@@ -3586,6 +3585,7 @@ collectrom.com
 collectrum.com
 collect.state.centrum24.pl
 collect.tianya.cn
+collect.usefathom.com
 colorofgod.cn
 coltagainst.pro
 colupoqy.xyz
@@ -3968,6 +3968,7 @@ cumshagnun.com
 cuoas.com
 cuortwomnr.com
 cuoss.com
+cupid.socialblade.com
 curated.fieldtest.cc
 curedonswab.com
 curiousblogs.com
@@ -16862,6 +16863,7 @@ stardatis.com
 stargoug.com
 starkunfinisheddestroyed.com
 starlizard.com.cn
+starman.fathomdns.com
 starsearchtool.com
 stars.manystars.ru
 starsvanslimpid.com
