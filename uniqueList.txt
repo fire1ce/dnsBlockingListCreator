@@ -18251,8 +18251,6 @@ tracker.winload.de
 tracker.wordstream.com
 tracker.wpserveur.net
 track.express.de
-trackfox2.com
-trackfox.com
 track.fxstreet.com
 track.hubspot.com
 tracking1.brandmentions.com
