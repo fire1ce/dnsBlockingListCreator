@@ -4744,7 +4744,6 @@ datadbs.com
 datadog-service.mvfglobal.com
 data.econa.com
 data.glamour.ru
-datalayer.p7s1.io
 data.mic.com
 data.minute.ly
 data.neuroxmedia.com
