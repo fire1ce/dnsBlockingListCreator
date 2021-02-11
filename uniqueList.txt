@@ -1119,6 +1119,7 @@ analytics.jst.ai
 analytics.kaggle.io
 analytics.kaltura.com
 analytics.kapost.com
+analytics.kraken.com
 analytics.ladmedia.fr
 analytics.linktr.ee
 analytics.liveact.cri-mw.jp
@@ -7193,6 +7194,7 @@ fyoqltiztjbdd.com
 fyrafi.ru
 fyrsbckgi-c.global.ssl.fastly.net
 fyrvxydxsrww.com
+fyvvm.com
 fyzyf.com
 fz5akngy5o6r.com
 fzbymy.com
@@ -17388,6 +17390,7 @@ swqlzufnbngw.com
 swstkrihg.com
 swtkc.cn
 swwpush.com
+swyhome.com
 swzhaohuo.com.cn
 sxbhzs.net
 sxcol.cn
@@ -17485,6 +17488,7 @@ szpengliye.com
 szpl0.com
 szprhglyodqj.com
 szqifu.com
+szqipin.cn
 szrk3.com
 szshouzhai.com
 sztbjs.com
