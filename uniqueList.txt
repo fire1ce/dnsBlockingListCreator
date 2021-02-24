@@ -3396,6 +3396,7 @@ cnt.rate.ru
 cntr.lookmovie.io
 cnt.vivatube.com
 cntvxymwesggem.com
+cnwywgyfrm.com
 cnxad.net
 cnxmyb.cn
 cnyibs.com
@@ -3825,6 +3826,7 @@ ct1985.com
 ct5m.citadium.com
 ctc.weather.com.cn
 ctdhylltfighs.com
+ctjvkaqiekquag.com
 ct.needlive.com
 ct.pinterest.com
 ctrhfd.top
@@ -8016,6 +8018,7 @@ hljhufengling.cn
 hljyjm.cn
 h-l.xyz
 hmecfqhj.com
+hmfcyy.com
 hmikw.com
 hmnjf.com
 hmonstabb.fun
@@ -17159,6 +17162,7 @@ trafficclub-nde.netdna-ssl.com
 trafficdok.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 traffic-king.ru
+trafficmoose.com
 trafficoverus.com
 traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
@@ -19189,7 +19193,6 @@ xcjy876.com
 xclgusxcdjd.com
 xclofrfa.com
 xc.macd.cn
-xcmxsw.com
 xc.mydrivers.com
 xcqgkkccjjucf.com
 xcsaz.com
