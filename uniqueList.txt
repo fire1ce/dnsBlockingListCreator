@@ -1049,7 +1049,6 @@ analytics.ceneo.pl
 analytics.chase.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
-analytics.cmg.net
 analytics-cms.whitebeard.me
 analytics.cocolog-nifty.com
 analytics.codigo.se
@@ -2873,6 +2872,7 @@ cbs.wondershare.com
 cbvjddh.23txt.com
 cby521.com
 cbyzgxhbovgwju.com
+cc2e81e8f9.com
 cc380535d9ca0.com
 cc599.com
 c.caijing123.com
@@ -3605,7 +3605,6 @@ coograma.net
 cookies.livepartners.com
 cookies.reedbusiness.nl
 cookie.sync.usonar.jp
-cookietracker.cloudapp.net
 cookiex.ngd.yahoo.com
 coolbook.cc
 coolcpms.com
@@ -4279,7 +4278,6 @@ d2q039yelpk33c.cloudfront.net
 d2q52i8yx3j68p.cloudfront.net
 d2qz7ofajpstv5.cloudfront.net
 d2r3rw91i5z1w9.cloudfront.net
-d2r7bmv6l6bnd1.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
@@ -4307,7 +4305,6 @@ d2wl3qmk54t3ha.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2xcimzl9ytdi0.cloudfront.net
-d2xgf76oeu9pbh.cloudfront.net
 d2xsy1lxezptdm.cloudfront.net
 d2xvc2nqkduarq.cloudfront.net
 d2xxqqn3tj9nf3.cloudfront.net
@@ -4354,7 +4351,6 @@ d35r45qhjmgs3g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d366o5iwycvbsk.cloudfront.net
 d36gyu.cn
-d36lvucg9kzous.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
 d37abonb6ucrhx.cloudfront.net
@@ -4368,7 +4364,6 @@ d39hdzmeufnl50.cloudfront.net
 d39iocnrk5rxnb.cloudfront.net
 d39yds8oe4n4jq.cloudfront.net
 d3a152d8cojds7.cloudfront.net
-d3a2okcloueqyx.cloudfront.net
 d3a42c7xs4vn3.cloudfront.net
 d3a49eam5ump99.cloudfront.net
 d3ahinqqx1dy5v.cloudfront.net
@@ -4703,6 +4698,7 @@ dcdilhaybpzkvj.com
 dcdvie.cn
 dcdz5xfv4nws.com
 dceni.com
+dcfkalvbcs.com
 dcfnihzg81pa.com
 dcjg1gv1px1h.cloudfront.net
 dc.letv.com
@@ -5649,7 +5645,6 @@ edchargina.pro
 eddrpnykbofjln.com
 e-demx.com
 edfsqfaeenij.com
-edge.sqweb.com
 edgyconnaterag.com
 ediun.com
 edmarketts.fun
@@ -7821,7 +7816,6 @@ harridan.cc
 harriscote.pro
 hartaim.com
 harvester.eu.square-enix.com
-harvester.ext.square-enix-europe.com
 harvester.hbpl.co.uk
 harveysarv.com
 hascosafety.com
@@ -9549,7 +9543,6 @@ keyboardinvolvedspacious.com
 keymaris.com
 keyrolan.com
 keyword.daumdn.com
-keywords.complex.com
 keyyou.net
 kf3msfm.com
 kfd3sm2c.com
@@ -11036,12 +11029,10 @@ metrics.n-tv.de
 metrics.readme.io
 metrics.scribblelive.com
 metrics.slite.com
-metrics.sonymusicd2c.com
 metrics.ted.com
 metrics.toptenreviews.com
 metrics.uol.com.br
 metrics.washingtonpost.com
-metrics.wikinvest.com
 metrix.emagister.com
 metrixlablw.customers.luna.net
 metro114.com
@@ -11444,7 +11435,6 @@ mtezigrrabk.com
 mtmuhcmpz.com
 mtqys.com
 m.trb.com
-mtrcs.samba.tv
 mts-ws.rueducommerce.fr
 mtzenhigqg.com
 mu722.com
@@ -12793,7 +12783,6 @@ peanuttolerate.com
 pearerinven.fun
 peatoc.cn
 pebadu.com
-pebed.dm.gg
 peckshadowlousy.com
 pedailyu.com
 pedestalturner.com
@@ -13509,7 +13498,6 @@ ptoushoa.com
 ptowhafuzi.pro
 ptpefoctzmmvd.com
 ptracker.nurturehq.com
-p.travelsmarter.net
 ptredir.com
 ptsc.shoplocal.com
 pttsite.com
@@ -14446,6 +14434,7 @@ rollad.ru
 rollersadnessstranded.com
 rolloversl.net
 rollovervk.net
+rolmscvzkp.com
 romashk9arfk10.com
 romgv.com
 romilit.com
@@ -14541,7 +14530,6 @@ rta2.metro.co.uk
 rta.dailymail.co.uk
 rt.awstaticdn.net
 r-tb.com
-rtb.connatix.com
 rtbinternet.com
 rtbme24.com
 rtbtraf.com
@@ -14978,6 +14966,7 @@ serdce-volgi.ru
 sereendipit.com
 sergh34ds.com
 serg.pics-money.ru
+seriouslylargestnewsletter.com
 seriy2sviter11o9.com
 serv1swork.com
 servantpantomimematch.com
@@ -16548,7 +16537,6 @@ t.felmat.net
 tfg8.com
 tfiph.com
 tfjqjhcwlfhicn.com
-t.flux.com
 tfncnhd8p95c.com
 tfpayjwjphuk.com
 tfqexqeldxjvet.com
@@ -17138,6 +17126,7 @@ tracking.s24.com
 tracking.scenepass.com
 tracking.searchmarketing.com
 tracking.sezzle.com
+tracking.sharplink.us
 tracking.shopstyle.com
 tracking.shoptogether.buy.com
 tracking.smartmeapp.com
@@ -17297,7 +17286,6 @@ trckr.nordiskemedier.dk
 trck.spoteffects.net
 trclfonj.com
 tr.cloud-media.fr
-tr.connatix.com
 trc.pushnami.com
 tr.discuss.com.hk
 trecker.aklamio.com
@@ -17325,7 +17313,6 @@ trk.absuite.com.br
 trk.adbutter.net
 trk.bhs4.com
 trk.cloudsna.com
-trk.connatix.com
 trk.email.dynect.net
 trk.flazio.com
 trk.freepik.com
@@ -18357,6 +18344,7 @@ vvnna.com
 vvpcdke43x.com
 vv.ricardo.ch
 vvv.ieduw.com
+vvyhhrjigq.com
 vwb4p.cn
 vws.vidcoin.com
 vwuyuahqf.com
@@ -18775,6 +18763,7 @@ winnodtea.com
 win.staticstuff.net
 winterrowd.com
 winvestern.com.cn
+wipedstuffed.com
 wipeneighbour.com
 wipowaxe.com
 wirefined.com
@@ -20220,6 +20209,7 @@ zcwjasfrog.com
 zcyclbncgubccl.com
 zd2i6k4qi1.com
 zdajdudqfq.com
+zdcuivnen.com
 zdenochary.com
 zdgmhsahttsj.com
 zdhnepeadrwetg.com
