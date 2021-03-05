@@ -183,7 +183,12 @@ a.78yx.net
 a7b4bc0ebab.com
 a7t89g4a.cn
 a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
+a8clk.xserver.ne.jp
+a8cv.amiami.jp
+a8.cyclemarket.jp
+a8.eonet.jp
 a8ht.hipp.fr
+a8.print-netsquare.com
 a907907.com
 a.91nets.cn
 a.91zhongkao.com
@@ -738,6 +743,7 @@ affodilyrecruis.fun
 aff.svjump.com
 afftraff.net
 afieldfluxplead.com
+afi.ssl.gmobb.jp
 afj0.com
 afjlb.com
 a.fobos.tv
