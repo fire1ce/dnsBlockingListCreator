@@ -844,7 +844,6 @@ ahbcagaazvtuh.com
 ahbdsply.com
 ahcdsply.com
 ahd.ruten.com.tw
-aheadmachine.com
 ahhrtt.bnext.com.tw
 ahhrtt.managertoday.com.tw
 ahhrtt.pixnet.net
@@ -10637,6 +10636,7 @@ log.plinga.de
 log.popin.cc
 log.prezi.com
 logql.yahoo.co.jp
+log.quora.com
 logragdressy.com
 log.reformal.ru
 log.ren.tv
