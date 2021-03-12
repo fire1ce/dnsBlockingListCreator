@@ -2373,6 +2373,7 @@ bidder.criteo.com
 bidder.mediams.mb.softbank.jp
 bid.g.doubleclick.net
 bidiology.com
+bids.concert.io
 bidswitch.net
 bidtraffic.ru
 bidverdrd.com
@@ -3109,6 +3110,7 @@ cdnativepush.com
 cdnaz.win
 cdn-bk.ligastavok.ru
 cdnbqw.com
+cdn-channels-pixel.ex.co
 cdncontentdelivery.com
 cdn.cpex.cz
 cdneurope.com
@@ -3338,6 +3340,7 @@ chronicleisoconfused.com
 ch.sharpmarketing.eu
 chspracteri.fun
 chsrkred.com
+chuangjulm.cn
 chuangyixi.com
 chucity.com
 chugagre.com
@@ -3834,6 +3837,7 @@ core.unit-sense.net
 corkysound.com
 cornfloweramnesty.com
 cornplus.cn
+coroplastsheet.cn
 cosimolaugh.pro
 cosimotable.pro
 cosmosblogs.com
@@ -5630,6 +5634,7 @@ dstik9906m659.cloudfront.net
 dstxhvmgkg.com
 dsufferent.top
 dszan.com
+dt02kc9.cn
 dt0ok92rg7r8.com
 dt1pxsve3tgas.cloudfront.net
 dtakdb1z5gq7e.cloudfront.net
@@ -8172,6 +8177,7 @@ gxxcbj.com
 gxymlqcnu.com
 gybdtg.com
 g.yccdn.com
+gycy2.com
 gycyms.backmarket.de
 gydag.com
 gyeet.com
@@ -10385,6 +10391,7 @@ kutjilsi.com
 kuuad.com
 kuwoyy.com
 kuxinqi.com
+kuzexinxi.com
 kvcdn.cf
 kvhwrotf.com
 kvidcdn.cf
@@ -11303,6 +11310,7 @@ maipoted.com
 make6pain.com
 make.cohesionapps.com
 makeupworddisparage.com
+makzidhq.com
 malakoffrockholds.com
 malharpossible.pro
 malharvoice.pro
@@ -12474,6 +12482,7 @@ moshangflower.cn
 moshervillethawville.com
 mo.spaces.ru
 mosslagoonbookcase.com
+mossyitalian.com
 motbw.com
 motherehoom.pro
 motherhoodenhanced.com
