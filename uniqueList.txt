@@ -1445,6 +1445,7 @@ app.response.siemens-info.com
 approvalglamourduly.com
 appsha1.cointraffic.io
 apps.thinkdigital.ro
+appstreets.com
 app.thomsonreuters.com
 app.updates.digicert.com
 apreces.com
@@ -4109,6 +4110,7 @@ curedonswab.com
 curiousblogs.com
 currepush.com
 curriculture.com
+custom.plausible.io
 customplus.top
 custos.twitchcdn.net
 cutduepar.com
@@ -8709,6 +8711,7 @@ hot-news-bloggers.ru
 houanjijuxie.cn
 houdini.haaretz.co.il
 houdodoo.net
+houfang8.com
 houghtdespe.fun
 houmekredit.ru
 hounicuy.com
@@ -9545,6 +9548,7 @@ j1.piaobing.com
 j1vtm.top
 j1ybkf.cn
 j4a73n7v5k.com
+j5sq8.com
 j7rzxe098g5m.com
 j94kp2o.com
 j9j6l.top
@@ -12559,6 +12563,7 @@ msg.71.am
 msgose.com
 ms.informaengage.com
 mskjf.com
+ms.markosaric.com
 msspgw.cn
 mstorer.net
 msufcu.actonservice.com
@@ -15093,6 +15098,7 @@ qhdfxkj.com
 qhdmqzc.cn
 qhdop.com
 qhkhchjqawst.com
+qhmrasvwzbwjpz.com
 qhnwj.com
 qhqofqeivtno.com
 qhxcdmfj.cn
@@ -18296,6 +18302,7 @@ stats.tou.tv
 stats.townnews.com
 statstracker.celebrity-gossip.net
 stats.tunt.lv
+stats.twhl.xyz
 stats.twistage.com
 stats.ulixes.pl
 stats.united-domains.de
@@ -22820,6 +22827,7 @@ yoomanies.com
 yootui19999.com
 yoqpnkhl.com
 yoredi.com
+yotta.scrolller.com
 youearrid.com
 youformobile.ru
 youfumei.com
