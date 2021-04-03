@@ -3919,6 +3919,7 @@ collector.kstptv5.com
 collector.mazeberry.com
 collector-medium.lightstep.com
 collector.ozeex.com
+collector.pi.spectrum.net
 collector.prod.expedia.com
 collector-px0py5pczn.octopart.com
 collector.rn.de
@@ -5039,7 +5040,6 @@ d4d48974197052ea.com
 d4fed03105c9f65b.com
 d4ngwggzm3w7j.cloudfront.net
 d4q8zgf756.com
-d533eecf3a7.com
 d58bf31082fa97.com
 d59fa492f75f520.com
 d5em5plenp2k5.cloudfront.net
@@ -6203,6 +6203,7 @@ dwq4do82y8xi7.cloudfront.net
 dwqe0j5428eu5.cloudfront.net
 dwtpxq.karaca-home.com
 dwtracking.sdo.com
+dwtroouhdh.com
 dwx1guhcvx8gs.cloudfront.net
 dx6uy6q3udhkj.cloudfront.net
 dx82u1pulx6jk.cloudfront.net
@@ -6307,7 +6308,6 @@ e8934fbbed0495.com
 e94a941778d.com
 e9976b21f1b2775b.com
 e9c1khhwn4uf.com
-e9e21762138.com
 e9emh.cn
 e9geolgzk6.com
 e9kv7bhnzt.com
@@ -7252,7 +7252,6 @@ f7ds.liberation.fr
 f8260adbf8558d6.com
 f8316b45436f.com
 f853150605ccb.com
-f97f1e91da5e2.com
 f9c6cdb754b7.com
 fabrkrup.com
 fabrouter.com
@@ -7717,6 +7716,7 @@ fogbigcourt.com
 fog.pixual.co
 fogspubsoapy.com
 fogzyads.com
+foheltou.com
 fokgwuoft.com
 folksattunewig.com
 folkstonelizabethtown.com
@@ -8594,6 +8594,7 @@ go.morningstar.com.au
 go.mvtec.com
 go.netbet.ro
 gonews1.net
+gonextpage.ru
 gongeeta.net
 gongfanglong.cn
 gongxifacai21.top
@@ -8734,6 +8735,7 @@ greetingscompassbough.com
 greetpanda.org
 greget3.com
 gregnobs.com
+gremsaup.net
 grensauy.com
 grergoch.net
 gresokie.com
@@ -9397,6 +9399,7 @@ hoofstepfather.com
 hoohavoa.com
 hooify.com
 hoolyfy.com
+hoophaub.com
 hooptaik.net
 hoortols.org
 hoosorie.com
@@ -9643,7 +9646,6 @@ i99i.org
 ia22.com
 ia.51.la
 iabusprivacy.pmc.com
-iadc.qwapi.com
 iads.iltrovatore.it
 iads.xinmin.cn
 i-adv.biz
@@ -9676,6 +9678,7 @@ ice-media.ru
 icemf.com
 icheb.ru
 ichhar.sante-dz.com
+ichimaip.net
 icjbnnjiung.com
 icjvfvoh.com
 iclbkrgjdstqt.com
@@ -11026,6 +11029,7 @@ koe-dv.net
 koemrbflufm.com
 koertf.com
 kofcq5.cn
+kogutcho.net
 kohlermetrics.kohler.com
 kohlermetricssecure.kohler.com
 kohx3.ru
@@ -14248,6 +14252,7 @@ nxwly.com
 nxyycsyy.com
 ny8yoo2ro5aa.com
 nyacampwk.com
+nyadra.com
 nyceov.life.ru
 nychemicallun.fun
 nyctrl32.com
@@ -16181,6 +16186,7 @@ qianggou8.top
 qianmeiby.com
 qianyuntengyue.com
 qiaopiguniang.com
+qichetuoyun.com.cn
 qiditrade.com
 qifake.com
 qiheptnm80.com
@@ -19648,6 +19654,7 @@ striete.com
 stringroadway.com
 strokenail.com
 strongexplain.com
+strongholdtommycouncilman.com
 stroyka-direct.ru
 stsdv.com
 sts.eccmp.com
@@ -20329,6 +20336,7 @@ tgvbwjbnxz.com
 th21333.com
 thaickoo.net
 thamsais.com
+thaninncoos.com
 thankfuladdress.com
 thanksinhabitedregretful.com
 thaqyl.mediamarkt.nl
@@ -20439,6 +20447,7 @@ tiglesoshi.pro
 tilanalytics.timesinternet.in
 tilili007.ru
 tilltucked.com
+timai-mao.com
 timbercooling.com
 time4news.net
 timedirect.ru
@@ -20591,6 +20600,7 @@ tnarzc.com
 t.nativendo.de
 tnbyhwawsh.com
 tncexvzu.com
+tncomg.com
 tncred.com
 tngmn.com
 tnl808z.cn
@@ -20599,6 +20609,7 @@ tns.simba.taobao.com
 tnx.net
 tnzjsphdird.com
 toapsira.net
+toateeli.net
 tochgw.com
 tockhsfluqjniu.com
 tocontent.net
@@ -21447,6 +21458,7 @@ tsunam.ru
 tsundedhimse.fun
 tsyndolls.com
 tszritnomuy.com
+tsztzjvpex.com
 tt123.eastday.com
 ttauri.bikeperfect.com
 ttauri.creativebloq.com
@@ -22173,7 +22185,6 @@ vidsplay.net
 vidustal.com
 vietalle.com
 viewablemedia.net
-view-ads.de
 viewclc.com
 views.cancan.ro
 viglir.ru
@@ -22323,6 +22334,7 @@ votetraffic.ru
 vouceeco.com
 vouhecem.net
 vovhiwr.com
+vowcertainly.com
 vowifeba.xyz
 vownixsofa.cam
 voxfind.com
@@ -22623,6 +22635,7 @@ web.900.la
 webair.com
 webanalyticsnossl.websense.com
 webasm.com
+webatam.com
 web-bars.com
 webbc.fivecdm.com
 web.care.sheppardpratt.org
