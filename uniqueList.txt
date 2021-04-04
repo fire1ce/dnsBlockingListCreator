@@ -109,7 +109,6 @@ a02342.yourlocalguardian.co.uk
 a02.uadexchange.com
 a03674778d27211eabe260a5fac8573f-298900439.eu-central-1.elb.amazonaws.com
 a03.uadexchange.com
-a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
 a04.uadexchange.com
 a05.uadexchange.com
 a0675c1160de6c6.com
@@ -424,12 +423,14 @@ adaog.com
 ad.aorta-net.com
 ad-api.cnblogs.com
 adaptingtova.biz
+ad.aquamediadirect.com
 adaranth.com
 adb.azet.sk
 adbd.liuxue86.com
 ad-beacon-v01.uliza.jp
 adbee.com.ua
 adbidgo.com
+ad.bitbay.net
 ad.bitmedia.io
 adbmetrics.diariosur.es
 adbmetrics.diariovasco.com
@@ -480,9 +481,7 @@ adfangxiang.com
 ad.fantiki.net
 adf.dahe.cn
 adfill.me
-ad.flux.com
 adforce.ru
-ad.foxnetworks.com
 adfox.yandex.ru
 adfoz.com
 adfpoint.com
@@ -526,7 +525,6 @@ ad.khan.co.kr
 adland.ru
 ad.leongaming.com
 ad.liveburst.com
-ad.livere.co.kr
 adlog.com.com
 ad-log.dable.io
 adm.265g.com
@@ -540,7 +538,6 @@ admd.housefun.com.tw
 admd.yam.com
 ad.mediabong.com
 admenhost.com
-ad.mesomorphosis.com
 admez.com
 ad.minecraft-mods.ru
 ad.missena.io
@@ -583,7 +580,6 @@ ado.icorp.ro
 adomv.com
 ad.one.lv
 adopalstroy.com
-ad.openmultimedia.biz
 adoperatorx.com
 adopexchange.com
 adornmadeup.com
@@ -593,7 +589,6 @@ adpai.thepaper.cn
 adpatrof.com
 adp.cnki.net
 adp.cnool.net
-ad.pickple.net
 adpix.ru
 adplexo.com
 ad.prismamediadigital.com
@@ -628,7 +623,6 @@ adsc.wasu.tv
 adsdepressing.com
 ad.search.ch
 adsellers.net
-ad.sensismediasmart.com.au
 adserver.pandora.com
 adservice.google.ro
 adservi.com
@@ -642,6 +636,7 @@ ads.itv.com
 ads.leovegas.com
 adslop.com
 adsmansion.com
+ad.smartmediarep.com
 adsmeda.com
 ads.one.co.il
 adsorg.com
@@ -714,6 +709,7 @@ ad.utop.ir
 aduwoc.footeo.com
 ad.vacanceo.com
 advaction.ru
+ad.valuecalling.com
 advancedtracker.appspot.com
 advast.sibnet.ru
 adv.bokra.net
@@ -753,6 +749,7 @@ adward.ru
 ad.webnext.ru
 adwhirl.com
 adwile.com
+ad.wsod.com
 ad.wurangxian.top
 adxadserv.com
 adxite.com
@@ -824,7 +821,6 @@ affiliatetxt.nextmediaweb.com
 affiliatewindow.com
 affiliati.bet2bet.it
 affiliation.fotovista.com
-affiliationjs.s3.amazonaws.com
 affiliation.porn.fr
 affiliationv4.porn.fr
 affiliclk.org
@@ -961,7 +957,6 @@ aintyjarde.top
 aipofeem.net
 airairgu.com
 airpush.com
-airpushmarketing.s3.amazonaws.com
 airtoump.com
 aishake.cn
 aishangcan.com
@@ -1776,7 +1771,6 @@ auxml.com
 avalancheofnews.com
 avalhukof.com
 avbpaaypbe.com
-a.vdo.ai
 a.velvet.by
 avenuehuminterpretation.com
 avfgoatbyyerys.com
@@ -2570,7 +2564,6 @@ blacknessversiondan.com
 blacktri-a.akamaihd.net
 blacurlik.com
 bladswetis.com
-blamads-assets.s3.amazonaws.com
 blamper-novosti.ru
 blamper-portal.ru
 blanketmemorize.com
@@ -6896,7 +6889,6 @@ epnredirect.ru
 epnycpszmpvft.com
 epochokaypeerless.com
 epoquels.com
-epowernetworktrackerimages.s3.amazonaws.com
 eppingtoluca.com
 eproof.drudgereport.com
 epro.sogou.com
@@ -8188,7 +8180,6 @@ gateway-04.com
 gateway-banner.eravage.com
 gateway.foresee.com
 gateway.fortunelounge.com
-gateways.s3.amazonaws.com
 gatgirl.com
 gaulauvi.net
 gavnogeeygaika.com
@@ -8353,7 +8344,6 @@ geuniveruls.top
 geusihivdqkwzf.com
 gexlwn.com
 gf108.com
-gfaf-banners.s3.amazonaws.com
 gfbrfqfwwis.com
 gfcowlrmdt.com
 gfd80.com
@@ -10844,7 +10834,6 @@ kbaomelffq.com
 kbdstwnruc.com
 kbifqgyugzo.com
 kbirdsind.top
-kbnetworkz.s3.amazonaws.com
 kbqebfcubeiaa.com
 kbstyn.com
 kbugxeslbjc8.com
@@ -11327,6 +11316,7 @@ laynews.ru
 layouttransparent.com
 layshyjar.com
 lazy8krti.com
+lbaetmvw.com
 lbgchljyhjmev.com
 lbjuhtxkx.com
 lbnwrunyfupe.com
@@ -11355,7 +11345,6 @@ ldutvi.com
 ldvatxaqcd.com
 le4le.com
 leabd.douguo.com
-leaddyno-client-images.s3.amazonaws.com
 leadtracking.plumvoice.com
 leadzutw.com
 leakypatgoo.com
@@ -17544,7 +17533,6 @@ sec-cloud.cn
 seceive.pro
 seclctpsih.com
 secrecycommotionaspirin.com
-secretmedia.s3.amazonaws.com
 secure-12.com
 secureclicks.geaviation.com
 securecloud-dt.com
@@ -17991,7 +17979,6 @@ smart.styria-digital.com
 smarttopchain.nl
 smashedwhichever.com
 smashseek.com
-smblock.s3.amazonaws.com
 sm.edweek.org
 smenqskfmpfxnb.bid
 smetc.banfield.com
@@ -19696,7 +19683,6 @@ stsunfulnoth.top
 stsywl.com
 st.tmgrup.com.tr
 stuffedprofessional.com
-stuff-nzwhistleout.s3.amazonaws.com
 stumbledabetsuburb.com
 stunninglover.com
 st.upmc.com
@@ -22856,7 +22842,6 @@ whickeen.net
 whimsoplynx.com
 whipcrack.org
 whispercustom.com
-whistleout.s3.amazonaws.com
 whistlingenrapturereprint.com
 whiteboardnez.com
 whitection.com
