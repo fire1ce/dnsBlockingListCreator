@@ -423,6 +423,7 @@ adaog.com
 ad.aorta-net.com
 ad-api.cnblogs.com
 adaptingtova.biz
+adaptv.advertising.com
 ad.aquamediadirect.com
 adaranth.com
 adb.azet.sk
@@ -650,7 +651,6 @@ adspyglass.com
 adsrefundattempts.com
 adsrv.me
 adsrv.wtf
-adss.dotdo.net
 ads.servebom.com
 ads-sg.tiktok.com
 ads.sohu.com
@@ -727,7 +727,6 @@ advertrtb.com
 advertte.com
 adv-first.ru
 advgoods.com
-advice-ads-cdn.vice.com
 advicethrew.com
 advinci.uno
 adv-links.com
@@ -799,11 +798,9 @@ afficent.com
 affilate.hh.ru
 affilates.doktordick.com
 affiliate6.com
-affiliate-api.ti-media.net
 affiliate.dtiserv.com
 affiliate.heureka.cz
 affiliate.iamplify.com
-affiliateprogram.keywordspy.com
 affiliate.resellerclub.com
 affiliates.allposters.com
 affiliates.cupidplc.com
@@ -826,7 +823,6 @@ affiliationv4.porn.fr
 affiliclk.org
 aff-jp.dxlive.com
 affluencepaymentlandscape.com
-aff.marathonbet.com
 aff.mediarotate.com
 affodilyrecruis.fun
 afftraff.net
@@ -982,6 +978,7 @@ akamai.smartadserver.com
 akashy.com
 akatracking.esearchvision.com
 akiyvjiy1z.com
+aklglpwljiv.com
 aklm.cc
 akrazappi.com
 ak.sail-horizon.com
@@ -5463,6 +5460,7 @@ desr.fkapi.net
 dessertcount.com
 destinationurl.com
 destricso.com
+deswhatlike.biz
 det8214mmc717.cloudfront.net
 detailyesgrip.com
 detaires.com
@@ -14079,6 +14077,7 @@ noglolra.com
 noiselesscatching.com
 nolix.ru
 nol.yahoo.com
+nomadpertexcess.com
 nomer1.ru.ru
 nomicidenti.top
 nomkb.com
@@ -15543,6 +15542,7 @@ polkoa.com
 pollscoopiffy.com
 polyfill.io
 pompeyperspire.com
+pomposityretainerparish.com
 pomtiy.com
 ponchowafesargb.com
 ponderaura.com
@@ -15717,6 +15717,7 @@ proactive.base.de
 probanzfbbdix.com
 problogrus.ru
 probrabeuo.xyz
+processlockdownagree.com
 processor.asccommunications.com
 procheb.ru
 prod.demand.intelsecurity.com
@@ -17036,6 +17037,7 @@ rtg-endpoint.global.ssl.fastly.net
 rtkrtb.com
 rtmain.com
 rtmark.net
+rtnaticama.fun
 rtnews.pro
 rtn.thestar.com
 rtpdn10.com
@@ -24290,6 +24292,7 @@ zeqtblok.com
 zercenius.com
 zerezas.com
 zerg.pro
+zeroao.cn
 zeroidtech.com
 zerolullaby.com
 zestzqhrwsvwcq.com
@@ -24353,6 +24356,7 @@ zhit-zdorovo.com
 zhivalley.cn
 zhixd.cn
 zhixiuchang.com
+zhizhunbao.top
 zhizones.com
 zhjfad.com
 zhkbjqtstd.com
