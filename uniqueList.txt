@@ -4521,6 +4521,7 @@ d11lt3e1lizkg0.cloudfront.net
 d1.1ppt.com
 d11tybz5ul8vel.cloudfront.net
 d11w14257901lw.cloudfront.net
+d12ysuoljjyfqa.cloudfront.net
 d1.3158.cn
 d134s3bx3cib14.cloudfront.net
 d138am4hd4ke4y.cloudfront.net
@@ -4641,6 +4642,7 @@ d1nmxiiewlx627.cloudfront.net
 d1nnhbi4g0kj5.cloudfront.net
 d1nx2jii03b4ju.cloudfront.net
 d1o3ws1znr0uv8.cloudfront.net
+d1oxccu2k3w6jx.cloudfront.net
 d1p3zboe6tz3yy.cloudfront.net
 d1p7elpjrt6qav.cloudfront.net
 d1pozdfelzfhyt.cloudfront.net
@@ -4992,6 +4994,7 @@ d3p27nzp3rc51k.cloudfront.net
 d3p2b5qewrnsyv.cloudfront.net
 d3pb9zw46rm6zr.cloudfront.net
 d3pe8wzpurrzss.cloudfront.net
+d3pk579obpqv7b.cloudfront.net
 d3pob6t6w1ul0e.cloudfront.net
 d3pphfzjkpjgfn.cloudfront.net
 d3prygw1dnamj9.cloudfront.net
@@ -5037,6 +5040,7 @@ d4q8zgf756.com
 d58bf31082fa97.com
 d59fa492f75f520.com
 d5em5plenp2k5.cloudfront.net
+d5g0nxmbdku6r.cloudfront.net
 d5ou3dytze6uf.cloudfront.net
 d5pb47xzjz3fc.cloudfront.net
 d5z42oph1suk.cloudfront.net
@@ -5786,6 +5790,7 @@ dlfvgndsdfsn.com
 dlfxsmbetx.com
 dlhygj.com
 dlive.pagesjaunes.fr
+dlkfm8bqz0bpx.cloudfront.net
 dlkjgjmy.com
 dl.meliacloud.com
 dlne6myudrxi1.cloudfront.net
@@ -12946,6 +12951,7 @@ metrics.southwest.com
 metrics.speedousa.com
 metrics.spencersonline.com
 metrics.spirithalloween.com
+metrics.spkt.io
 metrics.sportsbusinessdaily.com
 metrics.startribune.com
 metrics.starwoodhotels.com
