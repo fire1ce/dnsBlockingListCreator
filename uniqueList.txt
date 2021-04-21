@@ -1185,6 +1185,7 @@ allownotification.com
 allownotifications.com
 allowpush.com
 allowsscaffold.com
+allow-to-continue.com
 allpurposefrigilityfrigility.com
 allseason.development.net.daraz.com
 allseason.dogfood.net.daraz.com
