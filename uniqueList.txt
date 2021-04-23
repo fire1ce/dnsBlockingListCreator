@@ -16100,7 +16100,6 @@ partners.tremorhub.com
 partnersuccess.cisco.com
 partnersuccessmetrics.cisco.com
 partners.xpertmarket.com
-partner.teufel.de
 partner.toutiao.com
 partner-ts.groupon.fr
 partouba.com
@@ -16935,7 +16934,6 @@ promos.trustedtours.com
 promo.teenthais.com
 promote.pair.com
 promotionmaterial.betacash.com
-promotion.mmxlive.com
 promotions.iasbet.com
 promotions.stationcasinos.com
 promo.vador.com
