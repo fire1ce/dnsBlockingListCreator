@@ -3090,7 +3090,6 @@ browserlite2018.ru
 browserlite-free.ru
 browserlitefree.ru
 browser-lite.ru
-browser.sentry-cdn.com
 browsertelemetry.tk
 browser-updater.yandex.net
 browsobsolete.com
@@ -9480,6 +9479,7 @@ googlsyndication.com
 go.oracle.com
 go.oroinc.com
 goossb.com
+go.pardot.com
 gopejk.com
 gopfltvoiflf.com
 go.phhlending.com
@@ -24301,6 +24301,7 @@ watchesbrow.com
 watchingthat.com
 watchingthat.net
 watchsk.com
+waterincloud.cn
 waterserver.cn
 wat.gogoinflight.com
 watgzh.com
@@ -25563,6 +25564,7 @@ yesnexus.com
 yesra.xyz
 yetseefad.com
 yeyajipp.com
+yeyushe.cn
 yf898.com
 yfbiwkxjkaw.com
 yfcxzvdyrnp.com
@@ -25773,6 +25775,7 @@ ys3e965d.top
 ysgsq.cn
 ysjkbk.com
 ysjwj.com
+yskanba.com
 yslvynerwkdls.com
 ysmhcwwvgtcx.com
 ys.muhoujiemi.com
