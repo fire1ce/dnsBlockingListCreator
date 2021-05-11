@@ -5440,6 +5440,7 @@ d1tygkkxabxtvv.cloudfront.net
 d1u3772ihhjzwu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
 d1ukp4rdr0i4nl.cloudfront.net
+d1upt0rqzff34l.cloudfront.net
 d1uvhm532ipx9t.cloudfront.net
 d1uy7uzra011au.cloudfront.net
 d1uydqzj7b9nt9.cloudfront.net
