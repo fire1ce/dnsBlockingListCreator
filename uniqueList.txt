@@ -1559,6 +1559,7 @@ analytics.dvidshub.net
 analytics.ecosia.org
 analytics.edgekey.net
 analytics.edgesuite.net
+analytics.eggoffer.com
 analytics.eip.telegraph.co.uk
 analyticsengine.s3.amazonaws.com
 analytics.erepublic.com
@@ -1641,6 +1642,7 @@ analytics.orenshmu.com
 analytics.ostr.io
 analytics.ovh.com
 analytics.paddle.com
+analytics.pagefly.io
 analytics.performable.com
 analytics.pgatour.com
 analytics.photorank.me
@@ -11094,6 +11096,7 @@ imneinei.com
 imonitor.dhgate.com
 imounsos.com
 im.ov.yahoo.co.jp
+imp.accesstra.de
 impactaffirm.com
 impactlaterhand.com
 imp.ad-plus.cn
