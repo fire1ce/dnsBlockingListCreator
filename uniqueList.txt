@@ -1497,6 +1497,7 @@ analytic.ae.com
 analyticcdn.globalmailer.com
 analytic.cibc.com
 analytic.imlive.com
+analytic.rollout.io
 analytics00.meride.tv
 analytics.163.com
 analytics.30m.com
