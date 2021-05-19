@@ -4905,6 +4905,7 @@ counter.packa2.cz
 counter.people.cn
 counter.photopulse.ru
 counter.pixplug.in
+counter.plos.org
 counter.powweb.com
 counter.pr-cy.ru
 counter.proxycrawl.com
@@ -15425,6 +15426,7 @@ mjlsiopjesbn.com
 mjnpya.marktplaats.nl
 mjnzmb.jasmine.ua
 mjtowot.cn
+mjvmypr.cn
 mjx123.com
 mk1lyl406xmp.com
 mka8vaj2ru.com
@@ -18615,6 +18617,7 @@ qgmpdq.otto.nl
 qgnadfdluev.com
 qgnlbjkxrzb.com
 qgnqsebea.com
+qgogogox.com
 qgss8.com
 qgumjp.joins.com
 qgzskk.sunset-hill.jp
@@ -24754,6 +24757,7 @@ vashflebolog.ru
 vashoaft.net
 vasstycom.com
 vast.alloha.tv
+vastshmast.com
 vast.videocdn.tv
 vatizon.com
 vatlodesim.com
@@ -26220,6 +26224,7 @@ xmvoodgr.com
 xmwbplpgjc.com
 xmxxwl.com
 xmysinter.com
+xmzwdgm.com
 xn--2qu92fhtx4ff.icu
 xn--2qu92fhtx4ff.ink
 xn--2qu92fhtx4ff.ren
@@ -26602,6 +26607,7 @@ yldbt.com
 yldmgrimg.net
 ylflwbj.cn
 ylicxdkgkvfc.com
+ylppppp.cn
 ylqbiljjlyq.com
 ylskyueqya.com
 yltcgyud.com
