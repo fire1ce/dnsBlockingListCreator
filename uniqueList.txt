@@ -1746,6 +1746,7 @@ analytics.us.archive.org
 analytics.valheimgamer.com
 analytics.valiuz.com
 analytics.vanillaforums.com
+analytics.vdo.ai
 analytics.vendemore.com
 analytics.verizon.com
 analytics.verizonwireless.com
@@ -22660,6 +22661,7 @@ t.appsflyer.com
 tarabustasses.xyz
 tareinlettartar.com
 targetan.com
+targeting.vdo.ai
 targeting.voxus.tv
 target.mirtesen.ru
 target.nejm.org
