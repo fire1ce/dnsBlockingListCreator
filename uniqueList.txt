@@ -953,6 +953,7 @@ adrunnr.com
 ads2.evz.ro
 ads2rtb.com
 ad.samsungadhub.com
+ads.audio.thisisdax.com
 ads.bid
 adscarrot.com
 adsclick.yx.js.cn
@@ -6033,6 +6034,7 @@ data1.virginmobile.ca
 data.adlermode.com
 data.alexa.com
 data.all-in.de
+data.beop.io
 data.circulate.com
 data.collectandgo.be
 data.collishop.be
@@ -10149,6 +10151,7 @@ h8bjfdcu.com
 h8brccv4zf5h.com
 h8vzwpv.com
 habitualbasin.com
+habyc.com
 hackelevensol.com
 hackesie.net
 hacmoone.net
