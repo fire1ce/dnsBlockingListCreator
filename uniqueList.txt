@@ -164,7 +164,6 @@ a1.firefoxchina.cn
 a1.gexing.me
 a1.lshou.com
 a1.q6u.com
-a1.qqjay.com
 a1.qqtn.com
 a1.shusanqi.com
 a1.sumiaowang.com
@@ -2360,6 +2359,7 @@ b1f6fe5e3f0c3c8ba6.com
 b1fb813dc806b7d.com
 b1fe8a95ae27823.com
 b1g1w7wic0.com
+b1.qqjay.com
 b1wb3fjea1.com
 b1.xiao84.com
 b23588fa72b90.com
