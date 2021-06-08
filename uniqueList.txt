@@ -3801,7 +3801,6 @@ cc-dt.com
 ccexperimentsstatic.oracleoutsourcing.com
 cchfjz.com
 ccjxybj.cn
-c.cloudwp.io
 ccmd.coveredca.com
 ccmdgg.com
 ccqgkbnbpdrxf.com
@@ -4468,6 +4467,7 @@ cloudioo.net
 cloud-miner.de
 cloud-miner.eu
 cloudpsvn.com
+cloudwp.io
 clownsong.com
 clrpdhptoddatj49.pro
 clrstm.com
@@ -9924,6 +9924,7 @@ gokliks.ru
 goldenbettingefforlessefforless.com
 goldendalepremont.com
 goldfishkapartners.com
+gold-splits.speedrun.com
 gold.szonline.net
 go.loveshaw.com
 golp4elik.com
@@ -13170,7 +13171,6 @@ libreriamedina.com
 libsegny.com
 libs.tvmao.cn
 licenseblindnessbureau.com
-licensing.bitmovin.com
 licensinginsights.ascap.com
 licertle.co
 lichawadre.xyz
@@ -20545,6 +20545,7 @@ sensationdetermined.com
 sensitivenesscrummytea.com
 sentexoticoncoming.com
 sentphysically.com
+sentry.arc.io
 separatedcoffin.com
 septembership.com
 sequestrassent.xyz
@@ -22109,7 +22110,6 @@ stats.christianpost.com
 stats.clear-media.com
 stats.clickability.com
 stats.clickforknowledge.com
-stats.cloudwp.io
 stats.cmcigroup.com
 stats.code-it-studio.de
 stats.cohere.so
