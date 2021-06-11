@@ -2811,9 +2811,11 @@ beacon.watch.impress.co.jp
 beacon.wikia-services.com
 beacon.www.theguardian.com
 beakedpissod.com
+beam.giraffe360.com
 beamigo.pw
 beamigo.ru
 beam.mjhlifesciences.com
+beam-ws.giraffe360.com
 beap-bc.yahoo.com
 beap.gemini.yahoo.com
 bearad.com
