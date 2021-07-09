@@ -1176,7 +1176,6 @@ affiliates.goodvibes.com
 affiliates.londonmarketing.com
 affiliatesmedia.sbobet.com
 affiliates.mgmmirage.com
-affiliates.mozy.com
 affiliates.myfax.com
 affiliates.thrixxx.com
 affiliates.treasureisland.com
@@ -1569,7 +1568,6 @@ analytics.aweber.com
 analytics.behaheaters.co.uk
 analytics.belgacom.be
 analytics.betterplaces.nl
-analytics.bhaskar.com
 analytics.bigcommerce.com
 analytics.bleacherreport.com
 analytics.bloomberg.com
@@ -1676,7 +1674,6 @@ analytics.nascar.com
 analytics.navyfederal.org
 analytics.ncaa.com
 analytics.newscred.com
-analytics.ngfiles.com
 analytics.nike.com
 analytics.nordea.com
 analytics.nordea.dk
@@ -1725,7 +1722,6 @@ analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
 analytics.schoolwires.com
-analytics-script.ad-shield.io
 analytics-scripts.cablelabs.com
 analytics-secure.dollargeneral.com
 analytics-sg.tiktok.com
@@ -3587,7 +3583,6 @@ bycixeba.com
 bydonline.com
 byduthacho.com
 by.dyq.cn
-byebye.ml
 byeej.com
 byfoongusor.com
 bymotofyd.ru
@@ -4171,7 +4166,6 @@ chiuhua.com.cn
 chivalrouspeacockgreatly.com
 chivoufe.com
 chkfdt.com
-chkpt.zdnet.com
 chkwwg.cn
 chmproxy.bid
 choanabethump.com
@@ -4517,7 +4511,6 @@ closureevaporatefume.com
 closuremammalfury.com
 clotezar.com
 cloud.aspiresys.com
-cloudcoins.co
 clouderrorreporting.googleapis.com
 cloudfront-labs.amazonaws.com
 cloudhosting.actonservice.com
@@ -4708,7 +4701,6 @@ collector.githubapp.com
 collector.ksax.com
 collector.kstptv5.com
 collector.mazeberry.com
-collector-medium.lightstep.com
 collector.ozeex.com
 collector.pi.spectrum.net
 collector.prod.expedia.com
@@ -5559,7 +5551,6 @@ d1byvlfiet2h9q.cloudfront.net
 d1c0l5ws9ddltf.cloudfront.net
 d1c4d437f10.com
 d1cdnlzf6usiff.cloudfront.net
-d1cerpgff739r9.cloudfront.net
 d1ckj42q07f9s3.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
 d1cr9zxt7u0sgu.cloudfront.net
@@ -6912,7 +6903,6 @@ dlswzw.cn
 dltags.com
 dltinaozs.com
 dlvds9i67c60j.cloudfront.net
-dlvkf5067xruv.cloudfront.net
 dlxrlc2ni2.com
 dlyatizera.ru
 dlyazdorovia.ru
@@ -8691,7 +8681,6 @@ fastpopunder.com
 fastsearcher.ru
 fate-xy.com
 fathom.app.silverbeak.com
-fathom.pixeldrain.com
 fathom.status.im
 fathom.tdvm.net
 fathuntsgall.com
@@ -18275,7 +18264,6 @@ pixel.yola.com
 pixel.zumby.io
 pix.gfycat.com
 pixiedust.buzzfeed.com
-pix.impdesk.com
 pixkny.dressa.com.ua
 pix.nbcuni.com
 pix.revjet.com
@@ -18574,7 +18562,6 @@ poutswepttaco.com
 povtotse.ru
 powercount.jswelt.de
 powerfulrumbleshrewd.com
-powersearch.us.com
 poxaharap.com
 poxeemso.com
 poxtebnltkehh.com
@@ -20731,7 +20718,6 @@ sedativesandhandbook.com
 s.edeka.de
 seducehandbookspecific.com
 seedallegation.com
-seed.bitcoin.jonasschnelli.ch
 seed.bitcoin.sipa.be
 seed.bitcoin.sprovoost.nl
 seed.bitcoinstats.com
@@ -22323,7 +22309,6 @@ stat.novinky.cz
 stat.nyheter24.se
 stat.ouedkniss.com
 stat.ovh
-stat.pladform.ru
 stat.ppstream.com
 stat.pravmir.ru
 stat.prawo.pl
@@ -22363,7 +22348,6 @@ stats.biblionumericus.fr
 stats.big-boards.com
 stats.bildconnect.de
 stats.binki.es
-stats.bitban.com
 stats.bitdefender.com
 stats.bitgravity.com
 stats.blogg.se
@@ -22373,7 +22357,6 @@ stats.bmw.de
 stats.bookingbuddy.com
 stats.breadtube.tv
 stats.briskoda.net
-stats.buzzea.com
 stats.c0cc.com
 stats.cardschat.com
 stats.carecredit.com
@@ -24289,7 +24272,6 @@ tracking.dsmmadvantage.com
 tracking.easyzic.com
 tracking.ecookie.fr
 tracking.edb.gov.sg
-tracking.ehavior.net
 tracking.ehrintelligence.com
 tracking.eloqua.modernize.com
 tracking.email-mandrill.pushd.com
