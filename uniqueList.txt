@@ -1897,6 +1897,7 @@ analytics.kaltura.com
 analytics.kapost.com
 analytics.kraken.com
 analytics.ladmedia.fr
+analytics.laregione.ch
 analytics.linktr.ee
 analytics.liveact.cri-mw.jp
 analytics.live.com
@@ -4228,6 +4229,7 @@ cdn.cpex.cz
 cdncqw.com
 cdndqw.com
 cdneurope.com
+cdnfjz.com
 cdngain.com
 cdn.imvkan.com
 cdnjke.com
@@ -8866,6 +8868,7 @@ evokeframingimpossible.com
 evokeseverextremity.com
 evrget.nikkan-gendai.com
 evsembu.com
+evzimlox.cn
 ew740.cn
 ewatch.ro
 ewecanhag.com
@@ -14584,6 +14587,7 @@ lylfj.cn
 lylifa.com
 lymstsc.com
 lynbrookoriska.com
+lynmo.cn
 lynr.com
 lytubaobao.com
 lyunsd.cn
@@ -14767,6 +14771,7 @@ mapuchesystem.com
 marateathe.cam
 marbil24.co.za
 marchedcredulity.com
+marchtools.cn
 ma.redhat.com
 ma.register.it
 marerajahcopied.com
@@ -16734,6 +16739,7 @@ miniatureabhor.com
 miniban.ru
 mini.hao123.com
 miniholiday.cn
+miniling.cn
 minimizeglanceanyway.com
 minimumgold.com
 minimumkilledupdated.com
