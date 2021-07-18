@@ -5907,6 +5907,7 @@ d19uh5b0umbjrr.cloudfront.net
 d1a3jb5hjny5s4.cloudfront.net
 d1ac2du043ydir.cloudfront.net
 d1aezk8tun0dhm.cloudfront.net
+d1af033869koo7.cloudfront.net
 d1af165twk0zgn.cloudfront.net
 d1afet533lf7zs.cloudfront.net
 d1aqvw7cn4ydzo.cloudfront.net
@@ -6611,6 +6612,7 @@ data.neuroxmedia.com
 datanoticias.prisasd.com
 data.queryly.com
 data.reactandshare.com
+data.segugio.it
 data-ssl.pnet.co.za
 data-ssl.stepstone.at
 data-ssl.stepstone.be
@@ -29903,6 +29905,7 @@ zinrora.pw
 zion.api.cnn.io
 zionismscarrow.com
 ziopemmjh3.com
+zio.xcar.com.cn
 ziphoumt.net
 zipovoma.com
 zipropyl.com
