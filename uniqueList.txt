@@ -2463,7 +2463,6 @@ at98.com
 ataijeeg.net
 atanx.alicdn.com
 atax.gamermetrics.com
-atax.teamxbox.com
 atbs.actonservice.com
 atcbju.silvergoldbull.ca
 at-cddc.actu-juridique.fr
@@ -3078,6 +3077,7 @@ bdoaustralia.bdo.com.au
 bdpuaw.com
 bdros.com
 bd-s.baixing.net
+bdt.123rf.com
 bdtongfei.cn
 bdu1.coozhi.cn
 bdu.focus.cn
@@ -5068,6 +5068,7 @@ collector.tescocompare.com
 collector.trendmd.com
 collector.viki.io
 collector.wallapop.com
+collector.xhamster2.com
 collect.rewardstyle.com
 collectrom.com
 collectrum.com
@@ -5792,6 +5793,7 @@ cws.conviva.com
 cwwzubqasdqayf.com
 cx.atdmt.com
 cxb4.cn
+c.xbox.com
 cxcxt.com
 cxepp.com
 cxfzw.cn
@@ -24636,7 +24638,6 @@ stat.wolterskluwer.com
 stat.wolterskluwer.es
 stat.wolterskluwer.pl
 stat.ws.126.net
-stat.xhamsterpremium.com
 stat.xiaomi.com
 statystyki.panelek.com
 stat.zol.com.cn
