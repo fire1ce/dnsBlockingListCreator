@@ -4960,6 +4960,7 @@ collector.trendmd.com
 collector.viki.io
 collector.wallapop.com
 collector.xhamster2.com
+collector.xhamster.com
 collect.rewardstyle.com
 collectrom.com
 collectrum.com
@@ -10078,6 +10079,7 @@ geoip.syracuse.com
 geoip.viamichelin.com
 geo.kontagent.net
 geolocation.forbes.com
+geolocation.outreach.com
 geo.metronews.ca
 geo.mezr.com
 geo.mtvnn.com
