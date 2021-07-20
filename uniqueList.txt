@@ -1922,6 +1922,7 @@ analytics.wildtangent.com
 analytics.winter.ink
 analytics.witglobal.net
 analytics.worldtable.co
+analytics.yahoo.com
 analytics.yext-static.com
 analytics.yolacdn.net
 analytics.yola.net
