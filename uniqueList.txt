@@ -3889,7 +3889,6 @@ capsfogpeck.com
 capsheirspages.com
 captainad.com
 capture.condenastdigital.com
-capture.crutchfield.com
 capyestern.com
 caragots.com
 cardinalimprovementscartrige.com
@@ -3993,7 +3992,6 @@ cbs.hb-api.omtrdc.net
 cbsinteractive.hb.omtrdc.net
 cbsnews-dev.hb-api.omtrdc.net
 cbsnews.hb-api.omtrdc.net
-cbs.wondershare.com
 cbxe1r.cn
 cbyckdf.cn
 cc380535d9ca0.com
@@ -4088,7 +4086,6 @@ cdn-rtb.sape.ru
 cdn.sendpulse.com
 cdn-server.top
 cdnspace.io
-cdnstats.tube8.com
 cdn.taboola.com
 cdn.teads.tv
 cdntlz.cn
@@ -4124,7 +4121,6 @@ celeritascdn.com
 celigo.actonservice.com
 ce.lijit.com
 cellstats.mako.co.il
-cem.hotelsapi.io
 cennter.com
 cenonc.bobochicparis.com
 cenovik.net
@@ -4402,7 +4398,6 @@ cimoghuk.net
 cinemapub.top
 cineplex.hb.omtrdc.net
 cintent.streanplay.cc
-c.ipaddress.com
 ciqguphollyj.com
 ci.quickbooks.com
 circumferencefurfavour.com
@@ -4486,10 +4481,7 @@ cl.canva.com
 clcassd.com
 clcknads.pro
 clcknipop.com
-clck.yandex.com
-clck.yandex.ru
 clckysudks.com
-clc.stackoverflow.com
 clctraffic.com
 cldlr.com
 cldom.com
@@ -4509,7 +4501,6 @@ clerrrep.com
 cleverjump.org
 clevernt.com
 clevv.com
-cl.expedia.com
 clfxjrlui.com
 clgserv.pro
 clic2pub.com
@@ -10413,6 +10404,7 @@ gopejk.com
 go.peppermarketing.com.au
 go.pgx.com
 go.pheasant.com
+gophykopta.com
 go.polarkingmobile.com
 go.pornav.net
 go.psentertainment.com
@@ -11469,6 +11461,7 @@ huayi65.com
 hub.firestonecompleteautocare.com
 hub.hubfinancial.com
 hub.hubinternational.com
+hublosk.com
 hubmaydaybrow.com
 hubmetric.samsclub.com
 hubmetrics.samsclub.com
@@ -12832,6 +12825,7 @@ juhuandian.com
 juicycash.net
 jukyshyze.com
 julitenj.com
+jullyambery.net
 jullycn.com
 julrdr.com
 jumbitr.com
@@ -13022,6 +13016,7 @@ kegsandremembrance.com
 keilb.xyz
 kejiadoor.cn
 kele4.com
+kellyfight.com
 kelopronto.com
 kelpwengad.com
 kelsaurt.com
@@ -20338,6 +20333,7 @@ rand.com.ru
 randoom.ru
 rangparenting.com
 rangsunbaa.com
+rankhit.china.com
 ranking.apis.sankei-digital.co.jp
 ranpenbuy.com
 ranqibio.com
