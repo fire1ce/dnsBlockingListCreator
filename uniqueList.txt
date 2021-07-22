@@ -1668,6 +1668,7 @@ amuseer.com
 analitica.webrpp.com
 analy.qq.com
 analyse.bcovery.com
+analyselog.dx.com
 analyse.weather.com.cn
 analysis.shinobi.jp
 analytic20.detik.com
@@ -6488,10 +6489,8 @@ dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dc.allianz.de
 dc.audi.com
-dc.banggood.com
 dcclaa.bunte.de
 dcclaa.daskochrezept.de
-dccss.banggood.com
 dcdilhaybpzkvj.com
 dcdz5xfv4nws.com
 dce0k0.cn
@@ -6620,7 +6619,6 @@ delightfulold.com
 deligrassdull.com
 deline-sunction.com
 deliver.ifeng.com
-deliver.oztam.com.au
 deliver.ptgncdn.com
 delivery45.com
 delivery47.com
@@ -6833,7 +6831,6 @@ dialogue.mazda.sk
 dialogue.nl.mazda.be
 diametertwelfthvending.com
 diamondtraff.com
-diamond.transfermarkt.de
 diamongs.com
 diandongchetoukui.com
 diangezan.me
@@ -7023,6 +7020,7 @@ distilled.ie
 distillery.wistia.com
 distinctcoherentmean.com
 distinctionlatent.com
+distinctleftmargaret.com
 distractchafe.com
 distraughtbudge.com
 distressedsensesmanage.com
@@ -7097,7 +7095,6 @@ dlive.pagesjaunes.fr
 dlkfm8bqz0bpx.cloudfront.net
 dlkjgjmy.com
 dl.mail.express-scripts.com
-dl.meliacloud.com
 dlne6myudrxi1.cloudfront.net
 dlnsjjyzvi1x.com
 dl.orders.express-scripts.com
@@ -7147,7 +7144,6 @@ dm.linternaute.com
 dmm.aizhan.com
 dmmzkfd82wayn.cloudfront.net
 dmpcdn.el-mundo.net
-dmp.marketgid.com
 dmpsj.cn
 dm.pw0.cn
 dmqapp.com
@@ -7539,11 +7535,9 @@ dw1cdf.ru
 dw998.com
 dw9uc6c6b8nwx.cloudfront.net
 dwbotr.ssg.com
-dw.cnet.com
 dw-eu.com.com
 dwf6crl4raal7.cloudfront.net
 dwglgp.dunelm.com
-dwh-tracking.it.auth0.com
 d.wi-fi.ru
 dwnm2295blvjq.cloudfront.net
 dwp3ce9c.top
@@ -7907,12 +7901,10 @@ edu-us.schneider-electric.com
 eduzzjy.com
 edvaor.estro.ua
 edvfwlacluo.com
-edw.edmunds.com
 edxlewni.com
 edysn.cn
 ee6a35c1eeee.com
 ee8a4dd81b.com
-eec.crunchyroll.com
 eecd179r3b.com
 eee3a05c040fef3.com
 eeer.ren
@@ -8183,7 +8175,6 @@ email.wirexapp.com
 emanpro.fun
 emarketing.landisgyr.com
 emarketing.moveo.com
-emarketing.rmauctions.com
 embassychopassembled.com
 embesognassent.xyz
 embraceforgivingfrenzy.com
@@ -8490,7 +8481,6 @@ esf397vsf1nk.com
 eshncdkjp.com
 espn.hb-api.omtrdc.net
 espn.hb.omtrdc.net
-es.puritan.com
 esri.nl.actonservice.com
 essdhn.makuake.com
 es.sharpmarketing.eu
@@ -8666,7 +8656,6 @@ evgywgur.com
 eviclick.pro
 evidentlycaricatureinside.com
 evisit.exeter.ac.uk
-ev.kck.st
 evngfyljnes.com
 evnt.iol.it
 evokeelbowsoil.com
@@ -12236,6 +12225,7 @@ ip.cliphunter.com
 ipfmbexfdzb.com
 ip.hivps.xyz
 iphufr.circleline.com
+iphumiki.com
 ipiech.com
 ipmarte.ru
 ipmbnqqaon.com
@@ -20431,6 +20421,7 @@ reasonzoodeport.com
 reasulty.com
 reauthenticator.com
 rebdy.com
+rebiraert.com
 rebuildcroakdeployment.com
 receiptfastestparameter.com
 recentlycollectannihilate.com
@@ -22315,7 +22306,6 @@ sitegoto.com
 siteinfo.libero.it
 siteintercept.allegiancetech.com
 site.johnlewis.com
-sitelife.ehow.com
 sitemnk.com
 sitemobia.com
 siterdm.com
