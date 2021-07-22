@@ -3736,6 +3736,7 @@ bxumze.dispatch.com
 by.bollore-logistics.com
 bycixeba.com
 bydonline.com
+bydst.com
 byduthacho.com
 by.dyq.cn
 byeej.com
@@ -4511,7 +4512,6 @@ clicadu.com
 click1.e.radio.com
 click1.e.thechive.com
 click1.mail.paltalkpeople.com
-click2.cafepress.com
 click2.email.ticketmaster.com
 click4wm.ru
 click.aabacosmallbusiness.com
@@ -4546,7 +4546,6 @@ click.emails.creditonebank.com
 click.email.soundhound.com
 click.email-stubhub.com
 click.em.soothe.com
-click.engage.xbox.com
 click.e.progressive.com
 clickequations.net
 click.e.tdbank.com
@@ -4632,7 +4631,6 @@ clicvortex.com
 cliennes.com
 client.88tours.com
 client-analytics.braintreegateway.com
-client-event-reporter.twitch.tv
 client-log.box.com
 clierets.com
 clievise.com
@@ -4645,13 +4643,11 @@ clipcanvas.actonservice.com
 cliquesteria.net
 c.live.com
 clixsense.com
-clk.about.com
 clk.boulanger.com
 clknrtrg.pro
 clkrev.com
 clksecure.com
 clksite.com
-clkstat.china.cn
 clkstat.qihoo.com
 cllckdomain.com
 clmbtech.com
@@ -4666,7 +4662,6 @@ clnk.me
 cloakac.com
 cloakroomobsceneredress.com
 clodsplit.com
-clog.go.com
 clogrecord.com
 clo.lv
 closestfantasticpoll.com
@@ -4703,7 +4698,6 @@ clunder.net
 cluodlfare.com
 clusterhurriedly.com
 clutchsavage.com
-clvk.viki.io
 clxgmlpfkoj.com
 clxxkz.com.cn
 cmass.massmedian.co.jp
@@ -4732,7 +4726,6 @@ cmp.vidcoin.com
 cmrdr.com
 cms.hardloopaanbiedingen.nl
 cmstool.youku.com
-cmstrendslog.timesnow.tv
 cm-trk3.com
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
@@ -4779,7 +4772,6 @@ cnt.krasland.ru
 cnt.logoslovo.ru
 cnt.mastorage.net
 cnt.my
-cnt.nicemix.com
 cnt.nov.ru
 cnt.nuvid.com
 cntrafficpro.com
@@ -4874,13 +4866,9 @@ collection.saga.co.uk
 collect.meilleurtaux.com
 collector-api.99designs.com
 collector.automote.co.nz
-collector-cdn.github.com
 collector.clareity.net
-collector.fiverr.com
 collector.getyourguide.com
 collector.githubapp.com
-collector.ksax.com
-collector.kstptv5.com
 collector.mazeberry.com
 collector.ozeex.com
 collector.pi.spectrum.net
@@ -4891,10 +4879,7 @@ collector.roistat.com
 collector.schibsted.io
 collector.sspinc.io
 collector.statowl.com
-collector.tescocompare.com
-collector.trendmd.com
 collector.viki.io
-collector.wallapop.com
 collector.xhamster2.com
 collector.xhamster.com
 collect.rewardstyle.com
@@ -4910,6 +4895,7 @@ colonistnobilityheroic.com
 colouredcavity.com
 coltagainst.pro
 colupoqy.xyz
+colvk.viki.io
 comacheerlesslump.com
 comalonger.com
 combatmootcrucial.com
@@ -4969,7 +4955,6 @@ companycouncilbreeze.com
 companywebcast.actonservice.com
 compare.easyviaggio.com
 compare.easyviajar.com
-compare.liligo.com
 compartmentnutsnovember.com
 compensions.pro
 comp-ex.ru
@@ -5007,7 +4992,6 @@ conduit-services.com
 conferencesing.com
 confiant-integrations.global.ssl.fastly.net
 confiant.msn.com
-confirm-referer.glrsales.com
 conflictslashact.com
 conflictwhatcrew.com
 confoundcoinghosts.com
@@ -5098,7 +5082,6 @@ contact.sjdaccountancy.com
 contact.tsr-net.co.jp
 contact-us.adp.ca
 contadd.com
-contadores.bolsamania.com
 contadores.miarroba.com
 contadores.miarroba.es
 contagionrugby.com
@@ -5188,7 +5171,6 @@ coolbook.cc
 coolcpms.com
 cooleefbaldw.uk.to
 cooleightds.eu
-coolertracks.emailroi.com
 coolfenxi.com
 coollcloud.com
 coolstreamsearch.com
@@ -5255,7 +5237,6 @@ counter.cam-content.com
 counter.cnw.cz
 counter.digits.com
 counter.drom.ru
-counter.entertainmentwise.com
 counterfeitafloatcondolences.com
 counter.hackers.lv
 counter.hyipexplorer.com
@@ -5271,7 +5252,6 @@ counter.packa2.cz
 counter.people.cn
 counter.photopulse.ru
 counter.pixplug.in
-counter.plos.org
 counter.powweb.com
 counter.pr-cy.ru
 counter.proxycrawl.com
@@ -5280,12 +5260,10 @@ counter.scribblelive.com
 counter.search.bg
 counters.freewebs.com
 counter.sibnet.ru
-counter.sina.com.cn
 counter.snackly.co
 counter.sparklit.com
 counter.star.lg.ua
 counter.subtitlebee.com
-counter.theconversation.edu.au
 counter.tldw.me
 counter.top.ge
 counter.tovarro.com
@@ -5294,14 +5272,12 @@ counter.ukr.net
 counter.wapstart.ru
 counter.webmart.de
 counter.yadro.ru
-counter.zerohedge.com
 count.kandian.com
 countly.stackvaults.com
 count.merian.de
 count.me.uk
 count.munhwa.com
 count.paycounter.com
-count.prx.org
 count.rin.ru
 count.rtl.de
 country.yepshare.com
@@ -5488,7 +5464,6 @@ crtracklink.com
 crudestoctdra.cam
 crushedwhistle.com
 crutchsnobcat.com
-cryo.socialblade.com
 cryptotax.efscle.com
 crystalproducerhurried.com
 crytyingcrutch.com
@@ -5526,7 +5501,6 @@ csr.onet.pl
 cs-serva.net
 css.huvmi.com
 css.juqingba.cn
-cstats.sankakucomplex.com
 cstoa.com
 csvideos.ru
 csxsyp.cn
@@ -6003,7 +5977,6 @@ d2od2b2huvmzuj.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2ojfulajn60p5.cloudfront.net
 d2ov8u95yeeh5v.cloudfront.net
-d2p3zdq8vjvnxd.cloudfront.net
 d2pc0q32fod0ha.cloudfront.net
 d2pppxxtaciku9.cloudfront.net
 d2psf55e0gm6yv.cloudfront.net
@@ -6439,10 +6412,10 @@ data.leipzig.de
 data.lifesize.com
 data.mainpost.de
 data.mapp.com
-data.mic.com
 data.minute.ly
 data.netweaver.uk
 data.neuroxmedia.com
+data.nexxt.com
 datanoticias.prisasd.com
 data.queryly.com
 data.reactandshare.com
@@ -6483,7 +6456,6 @@ dauntlessomelette.com
 dauphinelles.xyz
 daurmonb.com
 davarello.com
-da.virginmedia.com
 dawmal.com
 dawn3host.com
 dax3x3wqpt2q3.cloudfront.net
@@ -6798,7 +6770,6 @@ dfw.bakerbrothersplumbing.com
 dfzenk6ej1plw.cloudfront.net
 dgafgadsgkjg.top
 dgaoz.com
-d.ghostery.com
 dg.irco.com
 dgkpzy.2ch2.net
 dgkytklfjrqkb.cloudfront.net
