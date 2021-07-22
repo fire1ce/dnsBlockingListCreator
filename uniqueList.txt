@@ -510,6 +510,7 @@ abdicatenoise.com
 abds.pingpingw.com
 abedwest.com
 a.beliefnet.com
+ab.fanatical.com
 abgeobalancer.com
 abgligarchan.com
 abie14.top
@@ -8589,23 +8590,19 @@ eventapi.libring.com
 event-api.reverb.com
 eventcapture03.com
 eventcapture06.com
-event-collector.udsrv.com
 event.dkb.de
 event.edb.gov.sg
 eventgateway.soundcloud.com
 event.getblue.io
 eventifiederik.pro
 event-listener.air.tv
-eventlogger.soundcloud.com
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventos.lp.deloittecomunicacao.com.br
-event-reporting-dot-webylytics.appspot.com
 events.air.tv
 events.apester.com
 events.attentivemobile.com
 events.audiate.me
-events.avantisvideo.com
 events.brightline.tv
 events.chaordicsystems.com
 events.demand.intelsecurity.com
@@ -8615,7 +8612,6 @@ events.guesttoguest.com
 events.il.fi
 events.ingatlan.com
 events.jokerly.com
-events.jora.com
 events.jotform.com
 events.matterport.com
 events.medio.com
@@ -8626,7 +8622,6 @@ events.onet.pl
 events.practo.com
 events.privy.com
 events.realgravity.com
-events.reddit.com
 events.redditmedia.com
 events.santander.co.uk
 events.shareably.net
@@ -8637,7 +8632,6 @@ events.splunk.com
 events.strategic-i.com
 events.tubecup.org
 events.turbosquid.com
-events.uber.com
 events.whisk.com
 events.yourcx.io
 event.webcollage.net
@@ -8655,7 +8649,6 @@ evewrite.net
 evgywgur.com
 eviclick.pro
 evidentlycaricatureinside.com
-evisit.exeter.ac.uk
 evngfyljnes.com
 evnt.iol.it
 evokeelbowsoil.com
@@ -8663,6 +8656,7 @@ evokeframingimpossible.com
 evokeseverextremity.com
 evrget.nikkan-gendai.com
 evsembu.com
+evt.houzz.com
 evzimlox.cn
 ew740.cn
 ewatch.ro
@@ -8711,8 +8705,6 @@ exonews.ru
 exoprsdds.com
 exosrv.com
 expansionwrinkle.com
-expbl2ro.xbox.com
-expdb2.msn.com
 expedientlonesome.com
 expenditurebaneopenly.com
 expendituredefeated.com
@@ -9002,6 +8994,7 @@ fdrgtt9edmej010.com
 fdrptpyxchzjk.com
 fdrschv.ru
 fdsur.com
+fdt.kraken.com
 fdwbhggm.com
 fe7qygqi2p2h.com
 fe95a992e6afb.com
@@ -9046,7 +9039,6 @@ feisia1.cn
 feizailin.com
 fejla.com
 felicitysupermarketmounted.com
-felitb.rightinthebox.com
 feljack.com
 felonyhawkants.com
 f-emc.ngsp.gov.vn
@@ -9434,7 +9426,6 @@ foxrevenue.com
 foxsports.hb.omtrdc.net
 foxypp.com
 foyilhardburly.com
-fpa-events.arstechnica.com
 fpb1.apple886.com
 fpb1.tabuzhe.com
 fpb8.esce.fr
@@ -9528,7 +9519,6 @@ freewm.ru
 frenchequal.pro
 fresh8.co
 freshborne.com
-fresh.techdirt.com
 fresnel-events.vimeocdn.com
 frevi.net
 freychang.fun
@@ -9562,7 +9552,6 @@ fryniporc.com
 fryoresbawl.com
 fsbozl.dillards.com
 fsb-russia.dtdns.net
-f.schemeflood.com
 fs-client-logger.herokuapp.com
 fsegfy.lepoint.fr
 fsi.seek.intel.com
@@ -9573,7 +9562,6 @@ fsm.lapresse.ca
 fsnitg.axelarigato.com
 fsresidential.actonservice.com
 fst360.com
-f.staticlp.com
 fstaw.com
 fstredirr.com
 fsxzbs.cn
@@ -9613,7 +9601,6 @@ funie.xyz
 funklicks.com
 funkscar.com
 funnelchair.com
-funn.graphiq.com
 funnyweb.fun
 fun.ynet.com
 fuqifyb.xyz
@@ -9758,7 +9745,6 @@ gabbleplacidcelery.com
 gabblerpawners.com
 ga-beacon.appspot.com
 gabrielsmidfield.com
-ga.canoe.ca
 gadfaros.com
 gadsabs.com
 gadsabz.com
@@ -9881,7 +9867,6 @@ gcdnsl.com
 gcjehafhajjhcdicaeb.ru
 gc.newsweek.com
 gconfirmat.fun
-gcpdata.telegraph.co.uk
 gcqdiydpfytvn.com
 gcwubi.happypancake.fi
 gcxjczooe.com
@@ -10083,7 +10068,6 @@ giddinessfeintsum.com
 giddyattendant.com
 gift2pair.com
 gigamega.ru
-g.ign.com
 gilfordboyers.com
 gillheapsyears.icu
 gimpybedderump.com
@@ -10210,7 +10194,6 @@ gmidkz5tgm.com
 g.mnw.cn
 gmnzaneslia.com
 gmonitor.aliimg.com
-g.msn.com
 gmufag.e1.ru
 gmufag.elle.ru
 gmufag.fontanka.ru
@@ -14135,6 +14118,7 @@ lolxm.xyz
 lomkgojdoeffl.com
 loneday.com
 lonefutzloop.com
+longbaojiachen.top
 longchengtg.com
 longkoupeanut.cn
 loobusir.com
@@ -18215,7 +18199,6 @@ ooiqvr.bayer.jp
 oolufhbdabqce.com
 o-oo.ooo
 o.opentable.com
-oops.redditmedia.com
 ooq5z.com
 ooredi.com
 ooredrr.com
