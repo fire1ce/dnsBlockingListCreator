@@ -1599,6 +1599,7 @@ als-svc.nytimes.com
 alstrome9riya10.com
 alternativecpmgate.com
 alternativeprofitablegate.com
+altopd.com
 altowriestwispy.com
 altraf.com
 altronopubacc.com
@@ -1857,7 +1858,6 @@ analytics.rogersmedia.com
 analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
-analytics.schoolwires.com
 analytics-scripts.cablelabs.com
 analytics-secure.dollargeneral.com
 analytics.sejlguide.dk
@@ -1943,7 +1943,6 @@ analyzeagg.com
 analyze.full-marke.com
 analyzer2.fc2.com
 analyzer51.fc2.com
-analyzer52.fc2.com
 analyzer.fc2.com
 anamaembush.com
 a.nanhuwang.com
@@ -9926,8 +9925,6 @@ geobanner.alt.com
 geobanner.hornywife.com
 geobanner.passion.com
 geobar.ziffdavisinternational.com
-geo.battle.net
-geobeacon.ign.com
 geo.bluedot.io
 geo.connexionsecure.com
 geo.emol.cl
@@ -9936,31 +9933,16 @@ geo.frtya.com
 geo.frtyd.com
 geo.gfycat.com
 geo.gorillanation.com
-geo.homepage-web.com
 geoinventory.com
-geoip.al.com
 geoip.ativo.com
 geoip.boredpanda.com
-geoip.cleveland.com
-geoip.gulflive.com
 geoip.hmageo.com
 geoip.ifunny.co
-geoip.lehighvalleylive.com
-geoip-lookup.vice.com
-geoip.masslive.com
-geoip.mlive.com
 geoip.nekudo.com
-geoip.nj.com
-geoip.nola.com
-geoip.oregonlive.com
-geoip.pennlive.com
-geoip.silive.com
-geoip.syracuse.com
 geoip.viamichelin.com
 geo.kontagent.net
 geolocation.forbes.com
 geolocation.outreach.com
-geo.metronews.ca
 geo.mezr.com
 geo.mtvnn.com
 geo.nbcsports.com
@@ -10072,6 +10054,7 @@ giddinessfeintsum.com
 giddyattendant.com
 gift2pair.com
 gigamega.ru
+g.ign.com
 gilfordboyers.com
 gillheapsyears.icu
 gimpybedderump.com
@@ -10121,7 +10104,6 @@ glareart.com
 glaresling.com
 glargoun.uk
 glassmilheart.com
-glassmoni.researchgate.net
 glauvoob.com
 glavrich.com
 glazegha.com
@@ -10198,6 +10180,7 @@ gmidkz5tgm.com
 g.mnw.cn
 gmnzaneslia.com
 gmonitor.aliimg.com
+g.msn.com
 gmufag.e1.ru
 gmufag.elle.ru
 gmufag.fontanka.ru
@@ -10834,8 +10817,6 @@ harriscote.pro
 harryticket.com
 hartaim.com
 hartlocalgod.com
-harvester.eu.square-enix.com
-harvester.hbpl.co.uk
 harveysarv.com
 hascosafety.com
 hasdarot.co
@@ -10900,7 +10881,6 @@ hchik.com
 hcjpbc.okmagazine.com
 hcjpbc.radaronline.com
 hcjpbc.usmagazine.com
-h.cliphunter.com
 hcowzr7dedquas.ru
 hcrhymydx.com
 hcwaxejunyzvxt.com
@@ -10945,7 +10925,6 @@ hear8crew.com
 hearewe.com
 hearfromyou.biz
 hearob.klix.ba
-heartbeat.flickr.com
 heartbrokendilapidation.com
 heat6have.com
 heatonnikolski.com
@@ -10996,7 +10975,6 @@ herb7calk.com
 herdcowhas.icu
 herdethi.net
 hereditaryductserum.com
-hermes.theglobeandmail.com
 hero6bell.com
 heroinnever.com
 heroismyouroutnumber.com
@@ -11134,7 +11112,6 @@ hit-star.ru
 hits.zdnet.co.kr
 hittoadv.com
 h.itvnet.lv
-hitweb2.chosun.com
 hiug862dj0.com
 hiuplq.flashscore.com
 hiuplq.flashscore.nl
@@ -11378,7 +11355,6 @@ hrs.actonservice.com
 hrsstrokecocoon.com
 hrthvf.xyz
 hrtye.com
-hrum.hotelsapi.io
 hruyiq.auction.co.kr
 hsasqc.randewoo.ru
 hsbkr.com
@@ -11786,18 +11762,15 @@ imglov.com
 img.meipic.net
 img.petit.lv
 imgstat.baidu.com
-imgtrack.domainmarket.com
 imgxb.top
 img.yangshengtang123.com
 img.zuowen8.com
 img.zuowenwang.net
 imiek.com
 imim.me
-immassets.s3.amazonaws.com
 immersedcopythinking.com
 immunepine.com
 imneinei.com
-imonitor.dhgate.com
 imounsos.com
 im.ov.yahoo.co.jp
 imp.accesstra.de
@@ -11814,7 +11787,6 @@ imp.go.sohu.com
 implementedinstalled.com
 implementtransmitted.com
 implicationdownloadpercy.com
-imp-media-lab.thenewslens.com
 impoliteyarddisciplinary.com
 imp.optaim.com
 importcat.com
@@ -11831,7 +11803,6 @@ imstks.com
 imu.tvplst.com
 imwhite.ru
 imwinnerkur.com
-imx.comedycentral.com
 imxfck.varusteleka.com
 in6ej4pbpnih.com
 inabsolor.com
@@ -25351,6 +25322,7 @@ tghbn12.com
 tglzqw.cn
 tg.mybb.ru
 tgtgzo.otelz.com
+tgt.maep.ibm.com
 tgvbwjbnxz.com
 tgvrfc4.com
 tgzobwoutuwn.com
@@ -25567,6 +25539,7 @@ tjgxzs.com
 tjhhr.com
 tjiaa.com
 tjlms.cn
+t.jobsyn.org
 t.jossandmain.com
 tjqonline.cn
 tjys88.com
@@ -25951,6 +25924,7 @@ track.e7r.com.br
 track.eadv.it
 track.engagesciences.com
 tracker.520call.me
+tracker.adbinead.com
 tracker.affiliate.iqoption.com
 tracker.affirm.com
 tracker.anandtech.com
@@ -25967,6 +25941,7 @@ tracker.cdnbye.com
 tracker.cds-tracking.com
 tracker.cpapath.com
 tracker.data-vp.com
+tracker.digitalcamp.co.kr
 tracker.downdetector.com
 tracker.esputnik.com
 tracker.euroweb.net
@@ -27508,6 +27483,7 @@ videotraff.ru
 video.videonow.ru
 vidgoinc.hb.omtrdc.net
 vidhos.com
+vid.me
 vidmonday.com
 vidmoskan.com
 vidonelove.com
