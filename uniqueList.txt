@@ -748,7 +748,6 @@ action.raadword.com
 actionrtb.com
 activation.depop.com
 activealibi.com
-activities.niagara.comedycentral.com
 activity.asce.org
 act.lanap.com
 act-news.com
@@ -792,6 +791,7 @@ adactioner.com
 adadmin.house365.com
 adagiobanner.s3.amazonaws.com
 adagropro.bid
+ad.aloodo.com
 adaog.com
 ad.aorta-net.com
 ad-api.cnblogs.com
@@ -1304,12 +1304,12 @@ affilates.doktordick.com
 affiliate6.com
 affiliate.dtiserv.com
 affiliate.heureka.cz
-affiliate.iamplify.com
 affiliates.allposters.com
 affiliates.cupidplc.com
 affiliates.goodvibes.com
 affiliatesmedia.sbobet.com
 affiliates.mgmmirage.com
+affiliates.minglematch.com
 affiliates.thrixxx.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
@@ -8457,6 +8457,7 @@ erovinmo.com
 erpito.ru
 erp.qwic.nl
 errednickhail.com
+error.fc2.com
 errors.snackly.co
 error.videonow.ru
 errsensordiscourse.com
