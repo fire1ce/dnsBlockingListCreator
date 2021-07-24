@@ -8601,7 +8601,6 @@ eveaggravationloosen.com
 evemasoil.com
 evendividualita.com
 e-v-e-n.me
-event-analytics.yesware.com
 event-api.contactatonce.com
 event-api.contactatonce.com.au
 event-api.contactatonce.co.uk
@@ -8634,6 +8633,7 @@ events.il.fi
 events.ingatlan.com
 events.jokerly.com
 events.jotform.com
+events.mapbox.com
 events.matterport.com
 events.medio.com
 events.mywd.com
@@ -12100,7 +12100,6 @@ inpage-push.com
 inpagepush.com
 inpcut.com
 inqjal.dickssportinggoods.com
-inquiries.redhat.com
 insanestudiedrick.com
 inscriptionothernarcotic.com
 insectadvertisesecretly.com
@@ -12139,15 +12138,12 @@ instantresp.com
 instore.pagomeno.it
 instrumentatlasjacket.com
 inswebt.com
-intake-analytics.wikimedia.org
-intelli.ageuk.org.uk
 intelligenceadx.com
 intelligence.marykay.com
 intelligence.marykayintouch.com
 intendalinetang.com
 intendspatteremerald.com
 intentanalysis.com
-intent.cbsi.com
 inter1ads.com
 interceptstephen.com
 interclics.com
@@ -12207,7 +12203,6 @@ ip42.ip-146-59-188.eu
 ip43.ip-146-59-188.eu
 ip44.ip-146-59-188.eu
 ipapi.tmbi.com
-ip.breitbart.com
 ipcheck.blogsys.jp
 ipchinatelecom.com
 ip.cliphunter.com
@@ -13056,7 +13051,6 @@ kindblogs.com
 kindlyfeebleremembered.com
 kindznnd998.xyz
 kinemathek.ru
-kinesisproxy.hearstlabs.com
 kingalkylbe.fun
 kingpolo.com.cn
 kingshape.top
@@ -13326,7 +13320,6 @@ l8ea1nesmb0e.com
 l99l.org
 l9kfxu1c5x.com
 la1dwne9cn5c.com
-laas.americanexpress.com
 labadon.com
 labeldollars.com
 labloamyaim.icu
@@ -13703,7 +13696,6 @@ liknews.ru
 likondok.com
 likuysebe.ru
 lilacdefencelessroyal.com
-lilb2.shutterstock.com
 liliy9aydje10.com
 limbloyal.com
 limelightcopper.com
@@ -13774,7 +13766,6 @@ linkonclick.com
 link.orders.kodakmoments.com
 linkpage.cn
 linkpeoples.com
-linkpuls.idg.no
 linkredirect.cf
 link.resy.com
 link.ridewithvia.com
@@ -14005,7 +13996,6 @@ loaphour.com
 lobmoprob.com
 lobmuc.cn
 loboclick.com
-localads-statistics.maps.me
 local-hot-dates.com
 locallyrivalliberal.com
 locandito.com
@@ -14018,7 +14008,6 @@ lockingessay.com
 loclog.cn
 locoday.com
 locothet.com
-loc.rediff.com
 lodder6.biz
 loftsbaacad.com
 loftygreater.com
@@ -14047,12 +14036,9 @@ logger.uol.com.br
 logger.yp.ca
 loggingapi.spingo.com
 logging.carambo.la
-logging.goodgamestudios.com
 logging.prefixbox.com
 logging.wilmaa.com
 logg.kiwi.com
-loggly.cheatsheet.com
-log.go.com
 log.gs3.goo.ne.jp
 log.hiiir.com
 log.hypebeast.com
@@ -14064,13 +14050,11 @@ log.interest.mix.sina.com.cn
 log.invodo.com
 log.kibboko.com
 log.kuwo.cn
-loglady.publicbroadcasting.net
 loglady.skypicker.com
 log.mappy.net
 log.mediacategory.com
 log.medietall.no
 log.m.sm.cn
-log.newsvine.com
 log.olark.com
 log.optimizely.com
 log.outbrain.com
@@ -14078,16 +14062,13 @@ log.outbrainimg.com
 log.pinterest.com
 log.plinga.de
 log.popin.cc
-log.prezi.com
 logql.yahoo.co.jp
-log.quora.com
 logragdressy.com
 log.reformal.ru
 log.ren.tv
 logs.51cto.com
 logs-api.shoprunner.com
 logsbin.dantri.com.vn
-logs.dashlane.com
 log.seekda.com
 logservice1.hicloud.com
 logservice.hicloud.com
@@ -14232,7 +14213,6 @@ ls.e-cartecadeauleclerc.fr
 l.sharethis.com
 lshmjz.com
 lsjne.com
-lslmetrics.djlmgdigital.com
 lstay.com
 l.support.canva.com
 lsv5.belambra.fr
@@ -20267,6 +20247,7 @@ qzzljx.com
 r023m83skv5v.com
 r3adyt0download.com
 r3wd6.cn
+r42tag.com
 r4nds.absorba.com
 r4nwdude.com
 r5.dir.bg
