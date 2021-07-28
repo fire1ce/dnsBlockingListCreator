@@ -4420,6 +4420,7 @@ cil.isotope.com
 cilxili.top
 cimage.adobe.com
 c.imedia.cz
+cimg.co
 cimoghuk.net
 cinemapub.top
 cineplex.hb.omtrdc.net
@@ -4886,7 +4887,6 @@ collect.allianzdriveincinema.ch
 collect.cap.ch
 collect.elvia.ch
 collect.helsana.ch
-collect.igodigital.com
 collection-day.com
 collection.saga.co.uk
 collect.meilleurtaux.com
@@ -5071,7 +5071,6 @@ connect.tghgo.org
 connect.uofuhealth.org
 connect.zebra.com
 connees.com
-connexity.net
 connexplace.com
 connextra.com
 connexuscu.actonservice.com
@@ -5637,6 +5636,7 @@ c.x.oanda.com
 cxrbw.aquipelis.net
 cxrfns.gu-global.com
 cxt.deutsche-bank.de
+cxt.ms
 cxy88.friok.com
 cxzudwk.com
 cyacc.com
@@ -7651,6 +7651,7 @@ e18a97eee94d0f2519.com
 e1bl1t39c4.com
 e1c.curtisswrightds.com
 e1ed050f62.com
+e1e.io
 e21b1642db801b2a.com
 e2b9jbowv7.com
 e2ertt.com
@@ -9981,6 +9982,7 @@ geo.gorillanation.com
 geoinventory.com
 geoip.ativo.com
 geoip.boredpanda.com
+geoip.cookieyes.com
 geoip.hmageo.com
 geoip.ifunny.co
 geoip.nekudo.com
@@ -17842,7 +17844,6 @@ oddertabrhino.com
 oddhadchi.com
 oddsserve-wqps7yvkz.stackpathdns.com
 odinkod.ru
-odin.mic.com
 odiumdrawlip.com
 oebadu.com
 oedoxundnibwc.com
@@ -17911,7 +17912,6 @@ oicssiq.com
 oidaio.com
 oihudydlsvxsi.com
 oilwrypit.com
-oimg.m.cnbc.com
 oimg.mobile.cnbc.com
 oimg.nbcsports.com
 oimg.nbcuni.com
@@ -18215,7 +18215,6 @@ openew.ru
 opengam.com
 openmace.net
 openmindedisabella.com
-open.mkt1397.com
 openworksweb.actonservice.com
 openxt.cn
 operadistrib.ru
@@ -18284,9 +18283,7 @@ orgalso.com
 orgsales.ru
 originalcharactercausing.com
 original-empire.com
-origin.chron.com
 originhermichermicpros.com
-origin-tracking.trulia.com
 orionis.techradar.com
 orisapple.top
 orjzy.com
@@ -18506,10 +18503,8 @@ padssup.com
 page1monk.com
 pagead2.googlesyndication.com
 pageconditiongrub.com
-page-events-ustats.udemy.com
 page.evergage.com
 pagefair.com
-pageinfo.motorsport.com
 pagejunky.com
 pages.att.com
 pages.canon.com.au
@@ -18585,13 +18580,11 @@ partner.maxxim.de
 partnermktg.symantec.com
 partner.pladform.ru
 partner.premiumdomains.com
-partners.badongo.com
 partner.schalke04.de
 partners.cmptch.com
 partners.hostgator.com
 partner.simplytel.de
 partners.mobiguru.ru
-partners.mysavings.com
 partners.pmu.fr
 partners.pornerbros.com
 partners.rochen.com
@@ -18691,7 +18684,6 @@ pcdnlt.com
 pcdodues.com
 pcgamer-gb.pcgamer.com
 pc-games-torrent.ru
-pci3oo5mg4mn-a.akamaihd.net
 pciidk.shopee.vn
 p.classroombookings.com
 p.clvs7.com
@@ -18799,7 +18791,6 @@ perf-events.cloud.unity3d.com
 perf.mouser.com
 performanceonclick.com
 performanceplay.co.kr
-performances.bestofmedia.com
 performancetrustednetwork.com
 performantcorp.actonservice.com
 perfunctoryseathrilled.com
@@ -18871,7 +18862,6 @@ phaignoo.com
 phaihoaw.net
 phaikroo.net
 phaiksul.net
-phar.gu-web.net
 pharougn.com
 phastoag.com
 phaurtuh.net
@@ -18973,7 +18963,6 @@ ping.hungama.com
 pingjs.qq.com
 pingping888.com
 ping.richardtaylor.dev
-pings.blip.tv
 pings.conviva.com
 pingseli.com
 ping.smyte.com
@@ -18993,7 +18982,6 @@ pipagogmercy.com
 pipeaota.com
 pipe-collect.ebu.io
 pipedream.wistia.com
-pipeline.realtime.active.com
 piper.amocrm.ru
 pipeteesundid.com
 pipilida.com
@@ -19005,7 +18993,6 @@ pirtecho.net
 pisism.com
 pistentling.pro
 pistraving.co
-pistyll.bleacherreport.com
 pitatagata.com
 pi.technik3d.com
 pitegirlfridg.top
@@ -19022,6 +19009,9 @@ pixel6.wp.pl
 pixel-a.basis.net
 pixel.ampry.com
 pixel.anyclip.com
+pixel.archive.is
+pixel.archive.ph
+pixel.archive.vn
 pixel.augsburger-allgemeine.de
 pixel.bild.de
 pixel.blivenyc.com
@@ -19029,7 +19019,6 @@ pixel.cdnwidget.com
 pixel.condenastdigital.com
 pixel.cpex.cz
 pixel.digitalspy.co.uk
-pixel.dorehernowi.pro
 pixel.europapress.net
 pixel.facebook.com
 pixel.fanbridge.com
@@ -19040,13 +19029,8 @@ pixel.ionos.fr
 pixel.mathtag.com
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
-pixel.naij.com
-pixel.newscgp.com
 pixel.newscred.com
-pixel.newsdiscover.com.au
 pixel.nine.com.au
-pixel.pcworld.com
-pixel.propublica.org
 pixel.prosieben.de
 pixel.roymorgan.com
 pixel.s3xified.com
@@ -19054,15 +19038,11 @@ pixels.afcdn.com
 pixel.safe-installation.com
 pixels.boxberry.ru
 pixel-secure.solvemedia.com
-pixels.livingsocial.com
 pixel.smartmedia.tj
 pixel.snapsmedia.io
 pixel.solvemedia.com
-pixel.spotify.com
 pixel.sprinklr.com
 pixelsrvdmn.com
-pixel.staging.tree.com
-pixel-static.spotify.com
 pixel.tree.com
 pixel.tuko.co.ke
 pixel.videohub.tv
@@ -19072,9 +19052,7 @@ pixel.wp.pl
 pixel.yabidos.com
 pixel.yola.com
 pixel.zumby.io
-pix.gfycat.com
 pixiedust.buzzfeed.com
-pix.nbcuni.com
 pix.revjet.com
 pix.telekom.de
 pix.telekom-dienste.de
@@ -19493,7 +19471,7 @@ prioritybeforehand.com
 priorityinvaderinflation.com
 prism.pandora.tv
 privacy-api.9gag.com
-privacyfriendly.brainbits.in
+privacyfriendly.netlify.app
 privacyheelvest.com
 privacy.outdoorsg.com
 privacysearching.com
@@ -19502,7 +19480,6 @@ privatzone.biz
 prizepierceassort.com
 prizma.kz
 prjslxhtx005.top
-proac.nationwide.com
 proactive.base.de
 problogrus.ru
 probrabeuo.xyz
@@ -19515,7 +19492,6 @@ prod.one.lt
 prodownload.newbetakey.com
 producebreed.com
 producingsavourestablish.com
-production.airswap.io
 production.mcs.delve.cust.lldns.net
 production-mcs.lvp.llnw.net
 productorsy.pro
@@ -19628,7 +19604,6 @@ prowlenthusiasticcongest.com
 prownl.com
 proxy.dlf.lt
 proxy.dzeio.com
-proxypage.msn.com
 proxyreducing.com
 proxy.vidazoo.com
 prozapas.dn.ua
@@ -19658,7 +19633,6 @@ psaukrik.net
 psazamajy.pro
 psbiaf.converse.com
 psclicks.com
-ps.ecosia.org
 pseepsie.com
 psekesheva.pro
 psensuds.net
@@ -19891,7 +19865,6 @@ pv.pjtsu.com
 pvptwhhkfmog.com
 pvrugd.nieruchomosci-online.pl
 pv.sohu.com
-pvstat.china.cn
 pvtag.yahoo.co.jp
 pv.udn.com
 pv.xcar.com.cn
@@ -19914,7 +19887,6 @@ pxl2015x1.com
 pxlgnpgecom-a.akamaihd.net
 pxlqyrteuuh.com
 px.marchex.io
-px.mvfglobal.com
 pxmyjxebxgv.com
 px.owneriq.net
 pxptpv.jobup.ch
@@ -19922,7 +19894,6 @@ pxrbl.megafilms.me
 px.spiceworks.com
 px.staticfiles.at
 pxt.daz3d.com
-px.wayfair.com
 px.wp.pl
 pyblogs.xyz
 pyeditingpro.biz
@@ -22235,6 +22206,7 @@ sidebyx.com
 sidebyz.com
 sider.org.ru
 sidewaybeings.com
+sid.nordstrom.com
 siegemeg.com
 sielsmaats.com
 sierraclumsy.com
@@ -23729,6 +23701,7 @@ ssa.eurosport.ru
 ssa.food.com
 ssa.foodnetwork.com
 ssa.hgtv.com
+ssa.stepstone.com
 ssb.ah499.com
 ssc.api.bbc.com
 ssc.cc.com
@@ -25078,6 +25051,7 @@ targetan.com
 targeting.vdo.ai
 targeting.voxus.tv
 target.mirtesen.ru
+target.nationwide.com
 target.nejm.org
 target.smi2.net
 target.smi2.ru
@@ -25262,6 +25236,7 @@ tek-tek-trek.com
 telco-widget.s3.eu-south-1.amazonaws.com
 telegramspun.com
 telemetrics.klaviyo.com
+telemetry.api.playstation.com
 telemetry.art19.com
 telemetry.jivosite.com
 telemetry.reembed.com
@@ -25887,7 +25862,6 @@ tp.ackermann.ch
 t-pan.triodos.com
 tpatrongva.top
 t.paydirekt.de
-t.paypal.com
 tp.baur.de
 tpcdn.top
 tpc.googlesyndication.com
@@ -26963,6 +26937,7 @@ txyhadai.com
 txzs168.net
 ty229.com
 tyboyyli.xyz
+tygafso.com
 tyh887.com
 tylertonedwardsport.com
 tylll.com
@@ -27775,6 +27750,7 @@ vstats.digitaltrends.com
 vsteepo.com
 vsu2jbpvgx3m.com
 vsvihsib.com
+vswcdns.com
 vsyaiejmfooba.com
 vt863.cn
 vtf2f.banque-casino.fr
