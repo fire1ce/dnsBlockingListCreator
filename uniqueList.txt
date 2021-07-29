@@ -2420,6 +2420,7 @@ aumaupoy.net
 aunsajoa.com
 aurdeert.net
 aurdosti.com
+auriro.net
 aurjueeh.com
 ausoafab.net
 auspicealibis.com
@@ -2984,6 +2985,7 @@ beacons.brandads.net
 beacon.searchspring.io
 beacon.securestudies.com
 beacon.shazam.com
+beacon.shutterfly.com
 beacon.sina.com.cn
 beacons.mediamelon.com
 beacon.sojern.com
@@ -19157,6 +19159,7 @@ pixel.wp.com
 pixel.wp.pl
 pixel.yabidos.com
 pixel.yola.com
+pixelzirkus.gameforge.com
 pixel.zumby.io
 pixiedust.buzzfeed.com
 pix.revjet.com
@@ -19570,6 +19573,7 @@ pri12mel.com
 priceinfo.comuv.com
 pricessmall.com
 pricestern.top
+pricklydebt.com
 priesty.com
 primary.hasegawa.jp
 primevalcherries.com
@@ -19886,6 +19890,7 @@ puddlebooty.com
 pufagobs.com
 puffdifferent.com
 pulpsbarndomed.com
+pulse.delta.com
 pumpbead.com
 pumtaimp.com
 punchpeasspat.com
@@ -20017,6 +20022,7 @@ p.yotpo.com
 pyq6n.com
 pyreelsepipe.com
 pyroguanites.xyz
+python.jacksellwood.com
 pyvqoaoeeen.com
 pyxjwks.com
 pyzkk.com
@@ -22062,7 +22068,6 @@ serviceo.xfinity.com
 services.cmacgm-group.com
 services.hmhost.co.uk
 service-stat.tbn.ru
-servicetick.com
 servidormensseger.hotbox.ru
 serving.plexop.net
 serving-sys.com
@@ -22071,7 +22076,6 @@ servote.de
 servw.bid
 seskeu3zk7.com
 session.timecommerce.net
-session-tracker.badcreditloans.com
 setbackrelishdivine.com
 setbeat.com
 setemoump.com
@@ -22231,7 +22235,6 @@ shootoax.com
 shopblog.org
 shop-blogs.org
 shop.iwantclips.com
-shopmetric.rediff.com
 shoppers.instacartemail.com
 shoppers-test.instacartemail.com
 shoppingbox.leguide.com
@@ -22304,7 +22307,6 @@ sicas.ikea.net
 sicaurtu.net
 sicentlife.com
 sickmakes.com
-sidebar.issuu.com
 sidebyx.com
 sidebyz.com
 sider.org.ru
@@ -22470,7 +22472,6 @@ slim2disc.com
 slimelump.com
 slimyfertilisedinventor.com
 slipperyextremelyvast.com
-slipstream.skyscanner.net
 slivercommander.cn
 slivz.com
 sloeri.com
@@ -22634,7 +22635,6 @@ smetrics.atomic.com
 smetrics.atresmedia.com
 smetrics.atresplayer.com
 smetrics.atrieflimmer.com
-smetrics.att.com
 smetrics.au.com
 smetrics.audi.co.uk
 smetrics.autodesk.com
@@ -23507,7 +23507,6 @@ soundingexpulsioninspector.com
 soundshrillarduous.com
 sour1bare.com
 sourcepointcmp.bloomberg.com
-sourcepoint.dexerto.com
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
@@ -23599,7 +23598,6 @@ speedometergreatness.com
 speedsagesleepy.com
 speedsmoosruse.com
 speedtrap.shopdirect.com
-speed.wikia.net
 speee-ad.akamaized.net
 spellbeggarlygay.com
 spellingpigeonssecret.com
@@ -23608,17 +23606,14 @@ spentforearmprovenance.com
 sperans-beactor.com
 spermparticipation.com
 spewyelks.com
-sp.fanatical.com
 sp.fdlreporter.com
 sp.floridatoday.com
 sp.freep.com
 sp.fsunews.com
-sp.gametimepa.com
 sp.gosanangelo.com
 sp.greatfallstribune.com
 sp.greenbaypressgazette.com
 sp.greenvilleonline.com
-sp.guampdn.com
 sp.hattiesburgamerican.com
 spherediary.com
 sp.htrnews.com
@@ -23628,7 +23623,6 @@ spigte.shopee.tw
 spillsackterrified.com
 sp.independentmail.com
 sp.indystar.com
-sp.inyork.com
 spiralecrimble.com
 spiralstab.com
 spiritedirreparablemiscarriage.com
@@ -23653,7 +23647,6 @@ spmaeu.gumtree.com.au
 sp.mansfieldnewsjournal.com
 sp.marionstar.com
 sp.marshfieldnewsherald.com
-sp-mms.weather.com
 sp.montgomeryadvertiser.com
 sp.mycentraljersey.com
 sp.naplesnews.com
@@ -23676,7 +23669,6 @@ sports-streams-online.com
 sports-streams-online.xyz
 sportstreams.xyz
 spositidonm.biz
-spotlight.accuweather.com
 spotmix.libero.it
 spotofspawn.com
 spotsetcpar.com
@@ -23688,7 +23680,6 @@ sp.poughkeepsiejournal.com
 sp.press-citizen.com
 sp.pressconnects.com
 sp.publicopiniononline.com
-sp.pushsquare.com
 spr.bild.de
 spreadingmulticultural.com
 sp.redding.com
@@ -23728,7 +23719,6 @@ sp.thestarpress.com
 sp.thetimesherald.com
 sp.thetowntalk.com
 sp.timesrecordnews.com
-sp.tinymce.com
 spuezain.com
 sp.usatoday.com
 sp.vcstar.com
@@ -23779,7 +23769,6 @@ s.rosettastone.co.uk
 s.rosettastone.de
 s.rosettastone.fr
 srtb.msn.com
-srt.pch.com
 sruk.srglobal.com
 srv1010elan.com
 srv2020real.com
@@ -23812,7 +23801,6 @@ ssa.foodnetwork.com
 ssa.hgtv.com
 ssa.stepstone.com
 ssb.ah499.com
-ssc.api.bbc.com
 ssc.cc.com
 ssc.cmt.com
 ssc.cvent.com
@@ -24036,7 +24024,6 @@ starsvanslimpid.com
 start1999.com
 start3dd0wnload.com
 startappexchange.com
-st.arte.tv
 startmode.biz
 startrekk.flaconi.at
 startrekk.flaconi.de
@@ -24062,7 +24049,6 @@ stat.cncenter.cz
 stat.cuadernosdepedagogia.com
 statdb.pressflex.com
 stat.dbschenker.com
-stat.dealtime.com
 statdynamic.com
 stat.eagleplatform.com
 statementssupervisorthorough.com
@@ -24086,7 +24072,6 @@ static-ssp.yidianzixun.com
 static.terrhq.ru
 stat.ipsoa.it
 statistic.qzone.qq.com
-statistics.crowdynews.com
 statistics.csweapons.com
 statistics.fppressa.ru
 statistics.heatbeat.de
@@ -24103,7 +24088,6 @@ statistik.simaja.de
 stat.iteye.com
 stat.jetsetter.com
 stat.juridicas.com
-stat.kbs.co.kr
 stat.laley.es
 stat.laleynext.es
 stat.lamyetudiant.fr
@@ -24125,9 +24109,7 @@ stat.pubhtml5.com
 stat.ringier.sk
 stat.rum.cdnvideo.ru
 stat.russianfood.com
-stat.ruvr.ru
 stats01.20min.ch
-stats02.topix.com
 stats1.tune.pk
 stats1x1.kapaza.be
 stats2.architecturaldigest.com
@@ -24145,17 +24127,13 @@ stats.allaboutberlin.com
 stats.alleaktien.de
 stats.am.ai
 statsapi.screen9.com
-stats.aplus.com
-stats.articlesbase.com
 stats.asp24.pl
 stats.audiorelay.net
 stats.autohome.com.cn
 stats.autoscout24.ch
 stats.avedictionary.com
-stats.avg.com
 stats.barriestephenhair.co.uk
 stats.basecamp.com
-stats.bbc.co.uk
 stats.bcdtravel.com
 stats.benui.ca
 stats.bertwagner.com
@@ -24163,11 +24141,9 @@ stats.bestservers.co
 stats.bholmes.dev
 stats.biblionumericus.fr
 stats.big-boards.com
-stats.binki.es
 stats.bitdefender.com
 stats.bitgravity.com
 stats.bitpost.app
-stats.blogg.se
 stats.blogoscoop.net
 stats.blog.sean-wright.com
 stats.bluebillywig.com
@@ -24186,8 +24162,6 @@ stats.cassidyjames.com
 stats.changelog.com
 stats.cheapflightsomg.com
 stats.cheaphotelsomg.com
-stats.cheddar.com
-stats.christianpost.com
 stats.clear-media.com
 stats.clickability.com
 stats.clickforknowledge.com
@@ -24208,7 +24182,6 @@ stats.davestewart.co.uk
 stats.davidlms.com
 stats-dc1.frz.io
 stats.deutschlandsim.de
-stats.digg.com
 stats.digital-natives.de
 stats.dirtify.me
 stats.discotel.de
@@ -24231,7 +24204,6 @@ stats.engineering.freeagent.com
 stats.englishadam.com
 statse-omtrdc.deka.de
 stats.ericgregorich.com
-stats.extremetech.com
 stats-factory.digitregroup.io
 stats.familyvacationcritic.com
 stats.fd.nl
@@ -24254,12 +24226,10 @@ stats.gruporeforma.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
 stats.handyvertrag.de
-stats.harpercollins.com
 stats.hexdocs.pm
 stats.hex.pm
 stats.hey.com
 stats.heyoya.com
-stats.hfet.org
 stats.highwire.com
 stats.his-j.com
 stats.homestow.com
@@ -24267,7 +24237,6 @@ stats.htmlcsstoimage.com
 stats.htp.org
 stats.huysmanbouw.be
 stats.ibtimes.co.in
-stats.ibtimes.co.uk
 stats.igevia.com
 stats.immunefi.com
 stats.inergizedigitalmedia.com
@@ -24277,7 +24246,6 @@ stats.ipmgroup.be
 stats.iscc-system.org
 stats.itsol.it
 stats.itweb.co.za
-stats.jacksellwood.com
 stats.jackwhiting.co.uk
 stats.jdheyburn.co.uk
 stats.jerickson.net
@@ -24329,19 +24297,16 @@ stats.nebula.fi
 stats.netbopdev.co.uk
 stats-newyork1.bloxcms.com
 stats.nicklafferty.com
-stats.nimiq-network.com
 stats.nodehub.io
 stats.nota.md
 stats.nothingbutnylon.com
 stats.nrcaknights.com
 stats.ntietz.com
-stats.nymag.com
 stats.nytecomics.com
 stats.offthekerb.com
 stats.olark.com
 stats.onepagelove.com
 stats.onetime.com
-stats.opoloo.de
 stats.ortussolutions.com
 stats.oursky.com
 stats.oxygem.com
@@ -24356,12 +24321,10 @@ stats.paulbutler.org
 stats.paysagistes.pro
 stats.personalkollen.se
 stats.phoenix-widget.com
-stats.piaggio.com
 stats.pianoplanet.app
 stats.picci.app
 stats.pixify.net
 stats.plastbest.sk
-stats.podcastwebsites.com
 stats.poesieundgenuss.com
 stats.pointflottant.com
 stats.polekatfitness.com
@@ -24371,7 +24334,6 @@ stats.premiumsim.de
 stats.pri.org
 stats.proff.no
 stats.profilehunt.net
-stats.propublica.org
 stats.pstream.net
 stats.pusher.com
 stat.sputnik.ru
@@ -24393,7 +24355,6 @@ stats.safeway.com
 stats.sawlive.tv
 stats.scalgo.com
 stats.searchftps.net
-stats.searchftps.org
 stats.sec.telefonica.com
 stats.seedr.com
 stats.sexemodel.com
@@ -24401,7 +24362,6 @@ stats.shareup.app
 stats.shell-tips.com
 stats.shepherd.com
 stats.shopify.com
-stats.shoppydoo.com
 stats.shoutout.so
 statss.ia.ca
 stats.sim.de
@@ -24418,7 +24378,6 @@ stat-ssl.e-map.ne.jp
 stat-ssl.fx-rashinban.com
 stat-ssl.hitosara.com
 stat-ssl.icotto.jp
-stats.slideshare.net
 stat-ssl.idou.me
 stat-ssl.kaago.com
 stat-ssl.kakaku.com
@@ -24436,7 +24395,6 @@ stat-ssl.webcg.net
 stat-ssl.xn--pckua2a7gp15o89zb.com
 stats.smartclip.net
 stats.smartmobil.de
-stats.someecards.com
 stats.sommselect.com
 stats.southpetherwin.com
 stats.splinder.com
@@ -24463,8 +24421,6 @@ stats.tipser.com
 stats.toiletmap.org.uk
 statstools.porn.fr
 stats.topofblogs.com
-stats.townnews.com
-statstracker.celebrity-gossip.net
 stats.tresor.one
 stats.trimbles.ie
 stats.tubecalculator.co.uk
@@ -24478,23 +24434,18 @@ stat.super.cz
 stats.urbanfinn.com
 stats.urban-media.com
 stats.useeffect.dev
-stats.uswitch.com
 stats.uxtools.co
 stats.vanityprojects.com
 stats.varrando.com
 stats.vdsnow.ru
 stats.viddler.com
-stats.videodelivery.net
 stats.virtualoturist.com
 stats.virtualtoirist.com.au
 stats.virtualtourist.com
 stats.visa2egypt.fr
-stats.visistat.com
-stats.vk-portal.net
 stats.vliplatform.com
 stats.vngameden.com
 stats.voltamediahouse.com
-stats.vulture.com
 stats.walkiees.co.uk
 stats.webs.com
 stats.westswindon-pc.gov.uk
@@ -24506,16 +24457,12 @@ stats.wordpress.com
 stats.world.hey.com
 stats.wp.com
 stats.wpmucdn.com
-stats.wwd.com
 stats.wwdcscholars.com
 stats.wwitv.com
 stats.www.agirpourlenvironnement.org
 stats.yinyuetai.com
-stats.ynet.co.il
 stats.yourdallashandyman.com
 stats.yourfone.de
-stats.zeitimpuls.at
-stats.zmags.com
 stats.zotabox.com
 statt-collect.herokuapp.com
 stat.tianya.cn
@@ -24543,7 +24490,6 @@ st.azcardinals.com
 st.bahn.de
 st.bahnhof.de
 stb.eat.int.ru
-stbt.coupons.com
 st.cdnco.us
 stdate.ru
 stdirection.com
@@ -24732,7 +24678,6 @@ suedespadecomparatively.com
 sueencumberpiggy.com
 sufesj.shop4runners.com
 sufficient.cn
-sugar.gameforge.com
 sugarpuff.net
 sugar-traff2.com
 sugh8yami.com
@@ -24796,7 +24741,6 @@ surrendersonnygram.com
 survey.g.doubleclick.net
 surveyingaltitude.com
 survey.interquest.com
-surveys.cnet.com
 susandsoc.top
 susifhfh2d8ldn09.com
 susm0q6jys.com
@@ -25128,7 +25072,6 @@ taiwhups.net
 tajxgs.com
 takealldir.ru
 takeslobsgel.com
-t-ak.hulu.com
 tak.ru
 takru.com
 talenteq.intuit.com
@@ -27379,6 +27322,7 @@ ushooque.net
 usimonat.com
 usingirritatecordial.com
 uslioert.com
+usmetric.rediff.com
 usmrzcqkbz.com
 us.onkyo.actonservice.com
 usounoul.com
