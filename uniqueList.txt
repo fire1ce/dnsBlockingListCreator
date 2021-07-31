@@ -1639,6 +1639,7 @@ amenop.com
 americanmarketinggroup.actonservice.com
 americanroller.actonservice.com
 a.meteonova.ru
+amethyst.zappos.com
 ametrics.finn.no
 a.mfcad.net
 amghais.cn
@@ -7259,7 +7260,6 @@ dnskuu.com
 dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 dnsseed.emzy.de
-dns.whatleaks.com
 dnyjp3iys0r8o.cloudfront.net
 do67etikr7pwz.cloudfront.net
 do69ll745l27z.cloudfront.net
@@ -11119,6 +11119,7 @@ hhit.xyz
 hh.jiankang.com
 hhrhl.vip
 hhslbz.cn
+hhsoftinfo.com
 hhunvu.com
 hi760.com
 hiad.myweb.hinet.net
@@ -24688,6 +24689,7 @@ sultrycommiserate.com
 sumofainstuff.com
 suncanny.marvel.com
 sundayceremonytitanic.com
+sungong1987.com
 suning.fit
 sunlandspivey.com
 sunmixyaw.com
@@ -26701,6 +26703,7 @@ tr.offres.bfmtv.com
 tr.offres-professionnelles.fr
 trokemar.com
 trompaillames.xyz
+troncomelets.com
 tropicalos.com
 tr.orange-lease.fr
 trothko.com
@@ -29000,6 +29003,7 @@ xxe2.com
 xxhrd.com
 xxia.xyz
 xxjiqg.oysho.com
+xxjuefi.cn
 xxkio.com
 xxladu.com
 xxlargepop.com
@@ -29293,7 +29297,6 @@ ynjkkj.com
 ynjyhm.com
 ynlsgw.com
 ynudoo.shoeby.nl
-ynuf.alibaba.com
 ynwqls.com
 ynyyx168.com
 ynzby.cn
@@ -29614,7 +29617,6 @@ zetacom.actonservice.com
 zetamm.com
 zeulo.anime-extremo.com
 zeusopuh.com
-zeus.slader.com
 zeuuwb.com
 zewkj.com
 zexastize.pro
@@ -29718,7 +29720,6 @@ zincdatawipe.com
 zingtormanc.top
 zinhavnpak.com
 zinrora.pw
-zion.api.cnn.io
 zionismscarrow.com
 ziopemmjh3.com
 zio.xcar.com.cn
@@ -29847,6 +29848,7 @@ zswph.com
 zsxqjjobfb.com
 zt2088.com
 ztexhfznxvpr.com
+ztffac.com
 ztidu.com
 ztqnls.lojasrenner.com.br
 z.tudouxy01.com
