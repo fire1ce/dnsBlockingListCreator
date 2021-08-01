@@ -9506,6 +9506,7 @@ foxrevenue.com
 foxsports.hb.omtrdc.net
 foxypp.com
 foyilhardburly.com
+fpa-cdn.arstechnica.com
 fpb1.apple886.com
 fpb1.tabuzhe.com
 fpb8.esce.fr
@@ -11837,6 +11838,7 @@ image.sector.sk
 images.information.maileva.com
 imamby.ru
 im.aol.de
+imasdk.googleapis.com
 imd.petit.lv
 imeetcentral.pgi.com
 img1.126.net
@@ -19088,7 +19090,6 @@ pityneedsdads.com
 p.ivoberger.com
 pix.airbusgroup.com
 pix.eads.com
-pixel.4players.de
 pixel6.wp.pl
 pixel-a.basis.net
 pixel.ampry.com
@@ -19097,7 +19098,6 @@ pixel.archive.is
 pixel.archive.ph
 pixel.archive.vn
 pixel.augsburger-allgemeine.de
-pixel.bild.de
 pixel.blivenyc.com
 pixel.cdnwidget.com
 pixel.condenastdigital.com
@@ -19116,7 +19116,6 @@ pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
 pixel.nine.com.au
-pixel.prosieben.de
 pixel.roymorgan.com
 pixel.s3xified.com
 pixels.afcdn.com
@@ -19573,7 +19572,6 @@ privatzone.biz
 prizepierceassort.com
 prizma.kz
 prjslxhtx005.top
-proactive.base.de
 problemsroadsideparticularly.com
 problogrus.ru
 probrabeuo.xyz
@@ -19981,7 +19979,6 @@ p.wren.co
 px1alsry.com
 px3792.com
 pxbnou.ig.com.br
-pxc.otto.de
 px.derstandard.at
 px.excitedigitalmedia.com
 pxl2015x1.com
@@ -20867,7 +20864,6 @@ rkpecade.com
 rkyijdrys.com
 rl7944.ru
 rle.ru
-rl.heise.de
 rlinks.one.in
 rloddo.olx.bg
 rlog.popin.cc
@@ -21967,7 +21963,6 @@ secure.wiley.com
 securite.01net.com
 sedalianoctor.com
 sedativesandhandbook.com
-s.edeka.de
 sedigital.cloudseidor.com
 seducehandbookspecific.com
 seedallegation.com
@@ -24054,6 +24049,7 @@ static2.rutracker.org
 static.chartbeat.com
 static-cn.plista.com
 static.criteo.net
+static.gaomaer.cn
 static.ichehome.com
 static.jiaquyi.com
 static.mntzm.com
@@ -24067,7 +24063,6 @@ statistics.fppressa.ru
 statistics.heatbeat.de
 statistics.jfmedier.dk
 statistics.klicktel.de
-statistics.raiffeisen.ch
 statistics.rbi-nl.com
 statistics.riskommunal.net
 statistics.tattermedia.com
@@ -24099,7 +24094,6 @@ stat.pubhtml5.com
 stat.ringier.sk
 stat.rum.cdnvideo.ru
 stat.russianfood.com
-stats01.20min.ch
 stats1.tune.pk
 stats1x1.kapaza.be
 stats2.architecturaldigest.com
@@ -24138,7 +24132,6 @@ stats.blogoscoop.net
 stats.blog.sean-wright.com
 stats.bluebillywig.com
 stats.bluesabre.org
-stats.bmw.de
 stats.bookingbuddy.com
 stats.breadtube.tv
 stats.breathly.app
@@ -25217,7 +25210,6 @@ tdf1.easyvoyage.co.uk
 tdf1.easyvoyage.de
 tdf1.laredoute.fr
 tdf1.vente-unique.pt
-tdf.ringier.ch
 t.discover.kayosports.com.au
 tds-banner.do.am
 tdtsd.com
@@ -25690,7 +25682,6 @@ tlwl1.cn
 tlwl2.cn
 tm1-001.com
 tm-79.com
-tm.dl.dewezet.de
 tme2wrwzz3wh.com
 tmea116.oss-cn-beijing.aliyuncs.com
 t.mediacartel.ru
@@ -25906,7 +25897,6 @@ tp.baur.de
 tpcdn.top
 tpc.googlesyndication.com
 tpdads.com
-tp.deawm.com
 tpe163.com
 t.perigold.com
 tp.frankonia.com
@@ -25971,17 +25961,12 @@ track.adintend.com
 track.atom-data.io
 track.auckland.ac.nz
 track.bannedcelebs.com
-track.bazonline.ch
 track.bcvcmedia.com
-track.berliner-kurier.de
-track.bernerzeitung.ch
 track.cafu.com
 trackcapitalvane.com
 track.cedsdigital.it
-track.cinestar.de
 track.contently.com
 track.cordial.io
-track.derbund.ch
 track.dictionary.com
 track.digitalriver.com
 trackdiscovery.net
@@ -25995,6 +25980,7 @@ track.docusign.de
 track.docusign.fr
 track.docusign.jp
 track.docusign.mx
+track.dws.de
 track.e7r.com.br
 track.eadv.it
 tracker.520call.me
@@ -26034,7 +26020,6 @@ tracker.roitesting.com
 trackers.adtarget.me
 tracker.shopclues.com
 tracker.softcube.com
-trackerstatistik.init-ag.de
 tracker.stileo.it
 tracker.swedish.org
 tracker.thinkermail.com
@@ -26142,7 +26127,6 @@ tracking.hello.global.ntt
 tracking.hi-pi.com
 tracking.hivecloud.net
 tracking.houzz.com
-tracking.hrs.de
 tracking.hsn.com
 tracking.hyros.com
 tracking.info.ivanti.com
@@ -26161,7 +26145,6 @@ tracking.legacyoffers.com
 tracking.lengow.com
 tracking.lenovo.com
 tracking.lg.com
-tracking.linda.de
 tracking.listhub.net
 tracking.livingsocial.com
 tracking.lonnogpersonalabc.visma.no
@@ -26173,7 +26156,6 @@ tracking.menamarketplace.com
 tracking.mindshare.de
 tracking.miui.com
 trackingmms.accenture.com
-tracking.mobile.de
 tracking.monsido.com
 tracking.motorolasolutions.com
 tracking.musixmatch.com
@@ -26231,7 +26213,6 @@ tracking.sierrawireless.com
 tracking.smartbets.com
 tracking.smartmeapp.com
 tracking.sokrati.com
-tracking.sport1.de
 tracking.sp.sofi.com
 tracking.srv2.de
 tracking.ssab.com
@@ -26243,7 +26224,6 @@ tracking.ssab.ru
 tracking.ssab.se
 trackingssl.agemployeebenefits.be
 trackingssl.aginsurance.be
-tracking.statravel.de
 tracking.stihl.de
 tracking.synthasite.net
 tracking.target2sell.com
@@ -26285,7 +26265,6 @@ track.leady.cz
 track.lexico.com
 track.mailerlite.com
 track.mdsmatch.com
-track.mopo.de
 trackmundo.com
 track.mycliplister.com
 track.netzero.net
@@ -26452,7 +26431,6 @@ trccvt.dhc.co.jp
 trc.emv2.com
 trcka8net.irobot-jp.com
 trck.bdi-services.de
-trck.meinprospekt.de
 trckr.nordiskemedier.dk
 trck.spoteffects.net
 tr.clickstay.com
@@ -26759,7 +26737,6 @@ tr.ville.bordeaux.fr
 tr.votrealarme.securitasdirect.fr
 tr.vous.hellobank.fr
 trwbkkxk.com
-tr.werkenntwen.de
 trx3.famousfix.com
 try.abtasty.com
 tryanka.ru
@@ -26773,7 +26750,6 @@ ts.delfi.lt
 tsdlp.com
 t.seesaa.net
 t.service.thetimes.co.uk
-ts.faz.net
 t.sgc.io
 tsgyg.cn
 t.sharethis.com
@@ -26791,7 +26767,6 @@ ts.popsugar.com
 t.spot.im
 tsrc8.com
 tsr.cdns.com.ua
-ts.rtl.de
 tssandycateup.com
 tst16infra.com
 t-staging.powerreviews.com
@@ -27438,7 +27413,6 @@ vexwjr.marisa.com.br
 vezatagn.com
 vezetmne.ru
 vfbvcshnc.com
-vfd2dyn.vodafone.de
 vffvtxcykog.com
 vfghc.com
 vfhkljw5f6ss.com
@@ -27764,7 +27738,6 @@ vvcharuaxlsazx.com
 vvmblock.ru
 vvnna.com
 vvpcdke43x.com
-vv.ricardo.ch
 vvv.ieduw.com
 vvyhhrjigq.com
 vwb4p.cn
@@ -27999,7 +27972,6 @@ wco.crownpeak.com
 wcs.naver.com
 wcyrjlszoo.com
 wdeliv.net
-wdm.map24.com
 wdr9.inseec.com
 wdt9iaspfv3o.com
 wdukge.midwayusa.com
@@ -28092,7 +28064,6 @@ webtracking.becker.com
 webtracking.chamberlain.edu
 webtracking.medical.rossu.edu
 webtracking.oncourselearning.com
-web-track.telekom-dienste.de
 webtradehub.com
 webtraffic.mastercontrol.com
 webts.adac.de
@@ -29826,6 +29797,7 @@ zqibmiotpxfk.com
 zqsbnfh.top
 zqscript.com
 zqtizs.bonprix.ru
+zqtk.net
 zquotfuofx.com
 zqwjpxow7boc.ru
 zqwlkj.cn
