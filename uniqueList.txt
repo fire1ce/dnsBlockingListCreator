@@ -483,7 +483,6 @@ abackprostitute.com
 abadrease.top
 a.baidinet.com
 a.bake818.cn
-abakus.freenet.de
 abakys.ru
 a.baomihua.com
 abashcoppercocky.com
@@ -691,7 +690,6 @@ acaox.com
 acaoz.com
 ac.art456.com
 acasys88.cn
-ac.berlinonline.de
 acbp0020171456.page.tl
 acceleratesign.com
 accelerationirreproachabledonation.com
@@ -716,7 +714,6 @@ acecoincident.com
 acemetrics.aaa.com
 acendas.actonservice.com
 acertb.com
-ac.express.de
 achaithe.com
 achamm.doctolib.fr
 achcdn.com
@@ -730,8 +727,6 @@ acknowing.com
 acknowledgenightsabstain.com
 aclickads.com
 acloudvideos.com
-acl.stayfriends.de
-ac.mz-web.de
 acodes.b2b.cn
 acptkgp.com
 acq-hk.americanexpress.com
@@ -1708,7 +1703,6 @@ analytics-api.samsunghealthcn.com
 analytics.apnewsregistry.com
 analytics.archive.org
 analytics.arunraghavan.net
-analytics.arz.at
 analytics.asml.com
 analytics.atomiconline.com
 analytics.audioeye.com
@@ -1781,7 +1775,6 @@ analytics.hayneedle.com
 analytics.hermesworld.com
 analytics.hiome.com
 analytics.humanautomation.ai
-analytics.industriemagazin.net
 analytics.infobae.com
 analytics.inform.com
 analytics.itsnoahevans.co.uk
@@ -1850,7 +1843,6 @@ analytics.prod.aws.ecnext.net
 analytics.prod.ori.hayneedle.com
 analytics-production.hapyak.com
 analytics.productreview.com.au
-analytics.proxer.me
 analytics-proxy.springboard.com
 analytics.qualityunit.com
 analytics.radiatemedia.com
@@ -1886,7 +1878,6 @@ analytics.sixt.nl
 analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.snidigital.com
-analytics.solidbau.at
 analytics.sonymusic.com
 analytics.souazi.com
 analytics.spark.co.nz
@@ -2245,7 +2236,6 @@ asacdn.com
 asasfasdf.xyz
 as.autobild.de
 as.axelspringer.com
-as.base.de
 as.bild.de
 as.bz-berlin.de
 asccdn.com
@@ -2973,7 +2963,6 @@ beacon.aimtell.com
 beacon.errorception.com
 beacon.flow.io
 beacon.gcion.com
-beacon.gutefrage.net
 beacon.gu-web.net
 beacon.heliumnetwork.com
 beacon.indieclick.com
@@ -3044,7 +3033,6 @@ beginadvisor.com
 beginnertonemerit.com
 begunprescription.com
 behalfplead.com
-behave.noen.at
 behave.sn.at
 behybmunweid.com
 bei7.clewx.com
@@ -3651,7 +3639,6 @@ btblsyvqaxkkx.com
 b.telus.com
 btemegxbnalq.com
 bthwkw.bazarchic.com
-bt.mediaimpact.de
 btmp4.net
 btn.clickability.com
 btnldivewzzfso.com
@@ -3876,6 +3863,7 @@ cagkpu.suitdirect.co.uk
 caglaikr.net
 cagothie.net
 cahf4eed.mooo.com
+caicaiplay.cn
 caichenguang.cn
 caikouli.com
 caiteesh.net
@@ -4067,14 +4055,12 @@ ccmd.coveredca.com
 ccmdgg.com
 cc.pennstatehealth.org
 cc.swiftype.com
-cct2.o2online.de
 cctg.cc
 cctole.com
 ccumhss.com
 ccuyuna.cn
 cc.xiaodapei.com
 cc.xwscg.com
-cc.zeit.de
 cczuxie.com
 cd4348d1133.com
 cd490573c64f3f.com
@@ -5378,7 +5364,6 @@ cpays.com
 cpcc.xyz
 cpcmart.com
 cperformmedia-a.akamaihd.net
-c.perlentaucher.de
 cpgo.avatacar.com
 cphjydduuh.com
 cpiyz.com
@@ -19134,6 +19119,7 @@ pixel.fanbridge.com
 pixel.glimr.io
 pixel.homebook.pl
 pixel.honestjohn.co.uk
+pixel.inforsea.com
 pixel.ionos.fr
 pixel.mathtag.com
 pixel.mintigo.com
