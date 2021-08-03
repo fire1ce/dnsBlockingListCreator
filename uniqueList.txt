@@ -14140,6 +14140,7 @@ log.bitauto.com
 log.china.cn
 log.cizion.com
 log.cognex.com
+log.cpex.cz
 log.ecgh.dk
 log.etoday.co.kr
 log.flight.qunar.com
