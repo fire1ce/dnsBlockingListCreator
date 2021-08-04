@@ -3255,6 +3255,7 @@ biz1.kddi.com
 biz.gexing.com
 bizhixiang.cn
 bizsolutions.strands.com
+bjakku.com
 bj-bytsk.com
 bjcgbc.cn
 bjdianyue.com
@@ -11333,7 +11334,6 @@ holdspreoccupation.com
 hollandaleresaca.com
 hollinsmcalpin.com
 holysts.com
-homad-global-configs.schneevonmorgen.com
 homehardware.actonservice.com
 homelessfunkenclose.com
 homemadebarricadedialogue.com
