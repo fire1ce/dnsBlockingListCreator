@@ -913,7 +913,6 @@ adgamble.net
 ad.gameagregator.com
 ad.games.ch
 ad.genybet.fr
-adgeo.163.com
 adget.cn
 adgjl13.com
 ad.gmw.cn
@@ -1671,10 +1670,8 @@ amuseer.com
 amvecurt.cn
 am-vid-events.taboola.com
 analitica.webrpp.com
-analy.qq.com
 analyse.bcovery.com
 analyselog.dx.com
-analyse.weather.com.cn
 analysis.shinobi.jp
 analytic20.detik.com
 analytic.ae.com
@@ -1785,7 +1782,6 @@ analytics.ladmedia.fr
 analytics.laregione.ch
 analytics.liveact.cri-mw.jp
 analytics.live.com
-analytics.livehindustan.com
 analytics.livestream.com
 analytics.logsss.com
 analytics.lunge.de
@@ -1934,7 +1930,6 @@ analytics.yolacdn.net
 analytics.yola.net
 analytics.yomedia.vn
 analytics.yourbankcard.com
-analytics.zhihu.com
 analytics.ziftsolutions.com
 analytic.underarmour.com
 analyzeagg.com
@@ -1999,7 +1994,6 @@ antaraimedia.com
 antblz.mediaworld.it
 antecedentponderoverweight.com
 antiadblocksystems.com
-anti-bot.baidu.com
 anticipatedlying.com
 anticipationbelieved.com
 antidotefoepersecution.com
@@ -2112,6 +2106,7 @@ appleworldwidedeveloper-stage.hb-api.omtrdc.net
 apple.www.letv.com
 applieda.com
 applink.getbambu.com
+applog.yiche.com
 apply.bluetrustloans.com
 apply.maxlend.com
 app.marketizator.com
@@ -2699,6 +2694,7 @@ baltchd.net
 balvalur.com
 banalbjar.com
 ban.alukah.net
+banana.le.com
 bananastouching.com
 banbanfun.com
 banclip.com
@@ -3149,7 +3145,6 @@ bfp.capitalone.com
 bftrlhesrlfjp.com
 bg6s0.com
 bgiamericas.actonservice.com
-bglog.bitauto.com
 bgmtracker.com
 bgrndi.com
 bgtgag.com
@@ -3987,7 +3982,6 @@ caspionlog.appspot.com
 casseroleenvioustransgress.com
 casterpretic.com
 castplatform.com
-cast.ra.icast.cn
 catastrophetray.com
 catbeardx.com
 catchynerves.com
@@ -4327,6 +4321,7 @@ cherishdraggedinspired.com
 cherniy2sviter11j.com
 cherriesobituary.com
 cherrycake.org
+cherry.le.com
 chersoat.com
 ches5sort.com
 chestors.com
@@ -4561,7 +4556,6 @@ click4wm.ru
 click.aabacosmallbusiness.com
 click.aaptiv.com
 clickadin.com
-click.ali213.net
 click.amazingfacts.org
 click.appinthestore.com
 clickathere.com
@@ -4618,7 +4612,6 @@ clickmngr.com
 clicknano.com
 clicknerd.com
 click.official.nike.com
-click.oneplus.cn
 click.oneplus.com
 clickopop1000.com
 clickosmedia.com
@@ -4651,7 +4644,6 @@ clicks.staging.worldremit.com
 clicks.tableau.com
 clicks-test.info.theiconic.com.au
 clicks.traffictrader.net
-click.suning.cn
 clicksvenue.com
 clicktale.pantherssl.com
 clickterra.net
@@ -4691,7 +4683,6 @@ clknrtrg.pro
 clkrev.com
 clksecure.com
 clksite.com
-clkstat.qihoo.com
 cllckdomain.com
 clmbtech.com
 clmcom.com
@@ -4771,7 +4762,6 @@ cmp.telerama.fr
 cmp.vidcoin.com
 cmrdr.com
 cms.hardloopaanbiedingen.nl
-cmstool.youku.com
 cm-trk3.com
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
@@ -5308,7 +5298,6 @@ counter.pr-cy.ru
 counter.proxycrawl.com
 counter.rambler.ru
 counter.scribblelive.com
-counter.search.bg
 counters.freewebs.com
 counter.sibnet.ru
 counter.snackly.co
@@ -5323,17 +5312,13 @@ counter.ukr.net
 counter.wapstart.ru
 counter.webmart.de
 counter.yadro.ru
-count.kandian.com
 countly.stackvaults.com
 count.me.uk
 count.munhwa.com
 count.paycounter.com
 count.rin.ru
 country.yepshare.com
-count.taobao.com
 count.upc.rakuten.co.jp
-count.video.sina.com.cn
-count.vrs.sohu.com
 count.yandeg.ru
 coup7cold.com
 couponcashmerelining.com
@@ -6552,7 +6537,6 @@ dceni.com
 dcfkalvbcs.com
 dcfnihzg81pa.com
 dcjg1gv1px1h.cloudfront.net
-dc.letv.com
 dcop4khjxsmg.com
 dc.plussizetech.com
 dcqsvxuetj.com
@@ -7125,7 +7109,6 @@ djm080u34wfc5.cloudfront.net
 djmaza.in
 djpt33.com
 djr4k68f8n55o.cloudfront.net
-dj.renren.com
 djrvqpg.com
 djs.baomihua.com
 djsn888.com
@@ -7225,7 +7208,6 @@ dm.sg92.com
 dmsqzqvuapb.com
 dm.taobaojuhuasuan.cn
 dmtk.linternaute.com
-dmtracking.1688.com
 dmtw0i4zln92b.cloudfront.net
 dmvbdfblevxvx.com
 dm.wenshenxiu.com
@@ -7611,7 +7593,6 @@ dwnm2295blvjq.cloudfront.net
 dwp3ce9c.top
 dwq4do82y8xi7.cloudfront.net
 dwqe0j5428eu5.cloudfront.net
-dwtracking.sdo.com
 dwx1guhcvx8gs.cloudfront.net
 dx6uy6q3udhkj.cloudfront.net
 dx82u1pulx6jk.cloudfront.net
@@ -9450,7 +9431,6 @@ fooheety.com
 footar.com
 footlocker.hb-api.omtrdc.net
 footnote.com
-footprint.anetwork.ir
 foowafoa.com
 fopushegi.com
 forarchenchan.com
@@ -10473,6 +10453,7 @@ gotoaws.zaful.com
 goto.benchmarkeducation.com
 goto.dresslily.com
 gotoexp.dresslily.com
+gotoip.com.cn
 goto.newmarklearning.com
 gotooback.com
 gotoredr.com
@@ -16528,6 +16509,7 @@ mgsqbazssiq.com
 mgsue.cn
 mgt7.madeindesign.it
 mgtv-bbqn.oss-cn-beijing.aliyuncs.com
+mgtw.xyz
 mgvrst.mi-shop.com
 mgwcn.com
 mgzs.cdn.bcebos.com
@@ -17473,6 +17455,7 @@ newton.turbo-cdn.net
 new-trio.com
 newyiba.top
 newzmaker.me
+nex.163.com
 nexioniect.com
 nextgencounter.com
 nextwesst.xyz
@@ -19788,6 +19771,7 @@ psoaksoo.com
 psoanouy.net
 psoolree.net
 psoomeeg.com
+psootchu.net
 psoptopi.com
 psougrie.com
 psoumtou.net
@@ -20022,6 +20006,7 @@ px1alsry.com
 px3792.com
 pxbnou.ig.com.br
 px.derstandard.at
+px.effirst.com
 px.excitedigitalmedia.com
 pxl2015x1.com
 pxlgnpgecom-a.akamaihd.net
@@ -20241,6 +20226,7 @@ qqwwmm.com
 qractv.com
 qrclevrfjw.com
 qrdeom.com
+qreport.qunar.com
 qrezvwhtppiv.com
 qrirufliyj.com
 qrjsbn.flinndal.nl
@@ -20706,6 +20692,7 @@ report.mitsubishicars.com
 report.novinky.cz
 report.qq.com
 reports-api.sqreen.io
+reportsk.web.sdo.com
 reportsnakefill.com
 reports.pagesuite-professional.co.uk
 representationfighter.com
@@ -26965,6 +26952,7 @@ tywzyhfliwdbu.com
 tyyjzs.cn
 tz301.xyz
 tzh019.cn
+tzhqg.cn
 tzlchxdwreirbv.com
 tzovkp.aboutyou.at
 u05m.cn
