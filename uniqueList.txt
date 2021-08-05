@@ -1143,6 +1143,7 @@ ads.sportradar.com
 adstarget.net
 adstargets.com
 ad.starlightmedia.ua
+adstats.tencentmusic.com
 adst.biz
 adstock.ru
 ads-tracking.beopinion.com
@@ -3593,6 +3594,7 @@ bromigo.pw
 broomboxmain.com
 brothcorewearisome.com
 brotherhoodminims.com
+brownfox.top
 browser2018-lite.ru
 browser2018lite.ru
 browserextensions.net
@@ -5544,6 +5546,7 @@ csr.onet.pl
 cs-serva.net
 css.huvmi.com
 css.juqingba.cn
+cstats.sankakucomplex.com
 cstoa.com
 csvideos.ru
 csxsyp.cn
@@ -6539,6 +6542,7 @@ dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dc.allianz.de
 dc.audi.com
+dc.banggood.com
 dcclaa.bunte.de
 dcclaa.daskochrezept.de
 dcdz5xfv4nws.com
@@ -8693,6 +8697,7 @@ events.onet.pl
 events.practo.com
 events.privy.com
 events.realgravity.com
+events.reddit.com
 events.redditmedia.com
 events.santander.co.uk
 events.shareably.net
@@ -9418,6 +9423,7 @@ foastail.net
 foavistu.net
 foazasis.com
 focalex.com
+focusonus.top
 focusprolight.com
 fodlkf9d1p.com
 fofipsie.net
@@ -16856,6 +16862,7 @@ monimoni.top
 mon.ingservices.nl
 monitor.azure.com
 monitor.channel4.com
+monitor.music.qq.com
 monkeybroker.net
 monklerm.pro
 monotonousincessant.com
@@ -17783,6 +17790,7 @@ nta1vb6cdlrl.com
 ntadnddfgogpse.com
 ntdvjlvau.com
 nterbx.com
+ntfirstleap.cn
 n.thestar.com
 nthfundog.com
 nthtonnub.com
@@ -23353,6 +23361,7 @@ sneakystamp.com
 s.nerdfulmind.com
 snezynrzsz.com
 sngakyf.com
+sngmta.qq.com
 s.niagarafallsreview.ca
 snickgainfulmuch.com
 snippystowstool.com
@@ -24531,6 +24540,7 @@ stat.wolterskluwer.es
 stat.wolterskluwer.pl
 stat.ws.126.net
 stat.xiaomi.com
+stat.y.qq.com
 statystyki.panelek.com
 stat.zol.com.cn
 stawhoph.com
@@ -26058,6 +26068,7 @@ tracker.520call.me
 tracker.adbinead.com
 tracker.affiliate.iqoption.com
 tracker.affirm.com
+tracker.ai.xiaomi.com
 trackerapi.truste.com
 tracker.arc.io
 tracker.azet.sk
@@ -28169,6 +28180,7 @@ weewhaik.com
 wegetpaid.net
 wegnimal.com
 wegotmedia.com
+weiboyaya.cn
 weidehuagong.com
 weidenhammer.actonservice.com
 weifengtianxia.com
@@ -29707,6 +29719,7 @@ zgtcar.com
 zgunion.cn
 zgyemy.com
 zhaibei112.top
+zhaiqichao.top
 zhangbaochang.top
 zhangdujia.com
 zhangjunying.top
