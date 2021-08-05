@@ -4125,6 +4125,7 @@ cdnquality.com
 cdn.raygun.io
 cdnrl.com
 cdn-rtb.sape.ru
+cdn-rum.ngenix.net
 cdn.sendpulse.com
 cdn-server.top
 cdnspace.io
@@ -14192,6 +14193,7 @@ log.pinterest.com
 log.plinga.de
 log.popin.cc
 logql.yahoo.co.jp
+log.quora.com
 logragdressy.com
 log.reformal.ru
 log.ren.tv
@@ -28758,6 +28760,7 @@ xameleonads.com
 xamiqi.top
 xaogi.com
 xapa.xyz
+xapi.ozon.ru
 xatczs.cn
 xatech.com
 xavingtsun.com
