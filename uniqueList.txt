@@ -7256,6 +7256,7 @@ dnskuu.com
 dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 dnsseed.emzy.de
+dnved6ocs3pa4.cloudfront.net
 dnyjp3iys0r8o.cloudfront.net
 do67etikr7pwz.cloudfront.net
 do69ll745l27z.cloudfront.net
