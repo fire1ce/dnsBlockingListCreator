@@ -19923,7 +19923,6 @@ pub1.cope.es
 pub2.cdn.webmanagercenter.com
 pub2.webmanagercenter.com
 pubacca5mc.com
-pub.admedia.io
 pub.airweb.fr
 pubaka5.com
 pub.babygo.fr
@@ -19959,7 +19958,6 @@ pub.plan-dial.com
 pub.sabqpress.net
 pub.sexytools.be
 pub.sheknows.com
-pubs.hiddennetwork.com
 pubs.ouedkniss.com
 pubster.twitch.tv
 pubstr.acs.org
@@ -20449,7 +20447,6 @@ raceparent.com
 racesstuffing.com
 racialtuckedgrumble.com
 racistimitationbronze.com
-rack.bauermedia.co.uk
 radarconsultation.com
 radar.imgsmail.ru
 radiancethedevice.com
