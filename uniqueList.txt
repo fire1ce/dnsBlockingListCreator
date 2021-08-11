@@ -19967,6 +19967,7 @@ pub.sabqpress.net
 pub.sexytools.be
 pub.sheknows.com
 pubs.ouedkniss.com
+pubsrv.devhints.io
 pubster.twitch.tv
 pubstr.acs.org
 pubstr.acspubs.org
@@ -21831,6 +21832,7 @@ scientifichoaxfutile.com
 sci.intuit.ca
 sci.intuit.com
 sc.independent.co.uk
+scintillatingsilver.com
 sc.iombank.com
 sci.quickbooks.com
 scis.tbs.co.jp
