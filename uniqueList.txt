@@ -26213,7 +26213,6 @@ track.adintend.com
 track.atom-data.io
 track.auckland.ac.nz
 track.bannedcelebs.com
-track.bcvcmedia.com
 track.cafu.com
 trackcapitalvane.com
 track.cedsdigital.it
@@ -26235,6 +26234,7 @@ track.docusign.mx
 track.dws.de
 track.e7r.com.br
 track.eadv.it
+track.effiliation.com
 tracker.520call.me
 tracker.adbinead.com
 tracker.affiliate.iqoption.com
@@ -27117,7 +27117,6 @@ twentypassengerdiagram.com
 twfilnym.com
 twinadsrv.com
 twindiversity.com
-twinplan.com
 twinrdsrv.com
 twinsoflave.com
 twinwalnutthy.com
@@ -28516,13 +28515,14 @@ wicavozo.xyz
 widgetadvertising.biz
 widgetbucks.com
 widgethost.barnebys.com
+widget.imshopping.com
 widget.perfectmarket.com
 widget.promoqui.it
 widget.quantcast.com
 widgets.comcontent.net
 widget.searchschoolsnetwork.com
 widget.sellwild.com
-widget.shopstyle.com.au
+widget.shopstyle.com
 widgets.lendingtree.com
 widget.solarquotes.com.au
 widgets.prisjakt.nu
