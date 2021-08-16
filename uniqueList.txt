@@ -2899,7 +2899,6 @@ bd1.sosg.net
 bd1.szhk.com
 bd1.xiby.cn
 bd1.yidu.cc
-bd1-ys.km.com
 bd202457b.com
 bd2fbnfg.com
 bd3.chuiyue.com
@@ -3309,6 +3308,7 @@ bjxgw.top
 bjyc6868.com
 bjygfd.com
 bjytdqwx.com
+bjyyxywjm.cn
 bjzcbx.com
 bjzshy.cn
 bjzsyx.cn
@@ -29139,6 +29139,7 @@ xiaokeaiapp.com
 xiaopinwo.com
 xiaoshuoyun.cn
 xiarikui08.com
+xiayk.cn
 xieyanmin.com.cn
 xihashuale.com
 xihuangdushu.com
