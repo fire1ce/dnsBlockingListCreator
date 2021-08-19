@@ -2819,7 +2819,6 @@ banners.payserve.com
 banners.penthouse.com
 banners.toeto.com
 banner-storage.fo.ru
-banners.utilo.nl
 banners.videosecrets.com
 bannersweb.s3.amazonaws.com
 banners.zl.lv
@@ -3514,7 +3513,6 @@ bnmla.com
 bn.ohah.ru
 bn.orthodoxy.ru
 bnq86.com
-bnr.agf.nl
 bnr.alza.cz
 bnrdom.com
 bnr.playmagazines.com
@@ -10101,7 +10099,6 @@ gamesrevenue.com
 game-tester.ru
 gamezonenews.net
 gamingpartners.org
-ganaar.gertibaldi.com
 gangidance.com
 gangsstowapps.com
 ganjituiguang.ganji.com
@@ -17189,7 +17186,6 @@ monxserver.com
 mooantink.com
 moodretrieval.com
 moodysilkbleeding.com
-mooieplaatjes.bierdopje.com
 mookie1.com
 moolkv.cn
 moonads.net
