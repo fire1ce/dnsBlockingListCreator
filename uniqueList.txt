@@ -2817,7 +2817,6 @@ banner.chimeratool.com
 banner.click-tt.de
 bannerhost.ru
 banner.immowelt.de
-banner.klikklik.nl
 banner.lbs.km.ru
 banner-madai-com.s3.amazonaws.com
 bannerms54489.com
@@ -2835,7 +2834,6 @@ banners.outpersonals.com
 banners.passion.com
 banners.payserve.com
 banners.penthouse.com
-banners.toeto.com
 banner-storage.fo.ru
 banners.videosecrets.com
 bannersweb.s3.amazonaws.com
@@ -19802,6 +19800,7 @@ pixiedust.buzzfeed.com
 pix.revjet.com
 pix.telekom.de
 pix.telekom-dienste.de
+pizzaparty.cn
 pjbjzf.com
 pjfrsc.cn
 pjh7.us.chantelle.com
@@ -25920,6 +25919,7 @@ tags.sprizzy.com
 tagtracking.vibescm.com
 tag.triboomedia.it
 tag.yourupload.com
+taidi.net.cn
 taifouwo.com
 taigrooh.net
 taijiwhi.com
