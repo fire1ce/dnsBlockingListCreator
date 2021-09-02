@@ -799,6 +799,7 @@ adadmin.house365.com
 adagiobanner.s3.amazonaws.com
 adagropro.bid
 ad.aloodo.com
+ad.animehub.ac
 adaog.com
 ad.aorta-net.com
 ad-api.cnblogs.com
@@ -5921,6 +5922,7 @@ cyphersvalure.com
 cytcm.com
 cyto-biotherapy.com
 cytrkxfzkxrjv.com
+cytxt.com
 cyulewkqz.com
 cy-wz.com
 cyzdyiccpwx.com
