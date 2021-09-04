@@ -1825,7 +1825,6 @@ analytics.ecosia.org
 analytics.edgekey.net
 analytics.edgesuite.net
 analytics.eggoffer.com
-analyticsengine.s3.amazonaws.com
 analytics.erepublic.com
 analytics.explained-from-first-principles.com
 analytics.faceitanalytics.com
@@ -3436,6 +3435,7 @@ bladesthirst.com
 bladswetis.com
 blaghfpd.com
 blamads.com
+blammo.onrpg.com
 blamper-novosti.ru
 blamper-portal.ru
 blanketmemorize.com
@@ -4026,7 +4026,6 @@ cache.betweendigital.com
 ca.creditacceptance.com
 ca.cydp5.com
 cadaver.org
-cadreon.s3.amazonaws.com
 cadsabs.com
 cadsabz.com
 cadsans.com
@@ -4475,7 +4474,6 @@ charitablepausing.com
 charmeddipware.com
 charmssummitmerriment.com
 charnosygenus.com
-chartaca.com.s3.amazonaws.com
 chartec.actonservice.com
 chartercommunicationsoperatingllc.hb-api.omtrdc.net
 chasedeposition.com
@@ -6346,7 +6344,6 @@ d2zcblk8m9mzq5.cloudfront.net
 d2zjd612oq0w0l.cloudfront.net
 d2zur9cc2gf1tx.cloudfront.net
 d300c7cd7d0747f5e21.com
-d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d30gt5larl1k8h.cloudfront.net
 d30s0lx1onfwyh.cloudfront.net
 d30sxnvlkawtwa.cloudfront.net
@@ -7224,6 +7221,7 @@ digital.setpointis.com
 digitrevenue.com
 d.igra-prestoloff.cx
 digressremarkableconfide.com
+dig.ultimedia.com
 diguver.com
 dii2.bitiba.be
 dii2.bitiba.ch
@@ -8220,6 +8218,7 @@ ecma.bdimg.com
 ecmb.bdimg.com
 ecn-analytics.emc.com
 ecn-analytics-nssl.emc.com
+ecommstats.s3.amazonaws.com
 ecompics.power.oho.lv
 econday.top
 econdus.com
@@ -10312,6 +10311,7 @@ game4343.com
 game9time.com
 gameadnet.ru
 gameads.com
+gamer.mmohuts.com
 gamersad.com
 gamersbanner.com
 gamersterritory.com
@@ -15219,7 +15219,6 @@ magictreehouse.cn
 magiphone.cn
 magnet-ball.com
 magnificentmanlyyeast.com
-magnify360-cdn.s3.amazonaws.com
 magpiedbareges.com
 magrie.pw
 mahieutin.xyz
@@ -20683,6 +20682,7 @@ psychologicaltotalnumeric.com
 psychologywoman.com
 psydyrony.com
 psylefywha.pro
+psytupuny.com
 ptagnair.com
 ptaiksah.com
 ptairtug.net
@@ -21835,7 +21835,6 @@ ribrabache.xyz
 ribunews.com
 riccol.cn
 rich-adv-code.net
-rich-agent.s3.amazonaws.com
 richardenlightenfervent.com
 rich-banner.ru
 richcatis.com
@@ -22264,7 +22263,6 @@ s.360.cn
 s362693299.aon.com
 s3network1.com
 s3r.tut.by
-s3-tracking.synthasite.net.s3.amazonaws.com
 s4e8.cascades.com
 s4.parkeren-amsterdam.com
 s4.parkeren-haarlem.nl
@@ -26056,6 +26054,7 @@ sylotepu.xyz
 sylwenys.pw
 symad.cn
 symag.cn
+symrkwcn76.cn
 synacast.com
 sync.adap.tv
 sync.rambler.ru
@@ -29789,7 +29788,6 @@ wssgmstats.vibbo.com
 wsstats.coches.net
 wstats.e-wok.tv
 wstats.gameblog.fr
-wstat.wibiya.com
 wstztt.com
 ws.wenshenxiu.com
 wt2noay3fgjn.com
