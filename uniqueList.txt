@@ -6769,7 +6769,6 @@ data.adlermode.com
 data.alexa.com
 data.all-in.de
 data.avid.com
-data.beop.io
 databledieses.com
 data.campaign.prenatal.com
 data.campaign.toyscenter.it
@@ -13621,6 +13620,7 @@ js.bju888.com
 jsboom.cn
 jsb.qianzhan.com
 js.bulkhentai.com
+jscdn.yieldbird.com
 js.chetan.com
 jschuangnuo.com
 jscloud.org
