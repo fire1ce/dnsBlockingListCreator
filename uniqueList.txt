@@ -675,6 +675,7 @@ abs.ispsystem.com
 absorbinginject.com
 abs.proxistore.com
 abstinencecalculation.com
+abstractedauthority.com
 abteaser.com
 abtest.em.redmart.com
 abtest.redmart.com
@@ -1823,6 +1824,7 @@ analytics.cibc.com
 analytics.cibcrewards.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
+analytics.cmn.com
 analytics-cms.whitebeard.me
 analytics.cocolog-nifty.com
 analytics.codeforscience.org
@@ -2869,7 +2871,6 @@ bangtyranclank.com
 banicywan.com
 banjuanmao.com
 banma51.cn
-banner.101xp.com
 banneradsday.com
 banner.chimeratool.com
 banner.click-tt.de
@@ -2897,7 +2898,6 @@ banners.videosecrets.com
 bannersweb.s3.amazonaws.com
 banners.zl.lv
 banner.themediaplanets.com
-banner.titancasino.com
 banner.ua
 banner-viewers.com
 bannery.ccb.cz
@@ -3008,6 +3008,7 @@ bbwqcs.vidaxl.ee
 b.candy.vl.ru
 bcanl.bca-autoveiling.nl
 bcc-ltd.actonservice.com
+bc.coupons.com
 bccyyc.com
 bcdnfk.com
 bce97f29c40fc40.com
@@ -13533,6 +13534,7 @@ jintonghua.com
 jinxexaminesketch.com
 jinxiuzhilv.com
 jinxy.ru
+jinyingbaozhuang.com
 jinyinggroup.cn
 jinzpeng.cn
 jioeg.com
@@ -13585,6 +13587,7 @@ jlxzt.com
 jly24aw29n5m-a.akamaihd.net
 jlzebszkilcz.ru
 jm166.cn
+jmhai.com
 jmk1uttboek0.pro
 jmoiubqzzrsugm.com
 jmrnews.pro
@@ -21547,6 +21550,7 @@ qixour.com
 qiyebaopin.cn
 qiyeb.iaskbus.com
 qiyegongqiu1.qiyegongqiu.com
+qiyix.cn
 qizixsw.com
 qizltkyxlgua.com
 qjapso.r.pl
