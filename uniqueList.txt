@@ -3735,6 +3735,7 @@ bosiwangzi.cn
 bostonceltics.com.cn
 bostonwall.com
 bot-checker.com
+botdetection.hbrsd.com
 bottleguy.com
 boubeeth.com
 boudja.com
@@ -6489,6 +6490,8 @@ d35r45qhjmgs3g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d366o5iwycvbsk.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
+d36u3psykfwy91.cloudfront.net
+d36upaw912d02q.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
 d37abonb6ucrhx.cloudfront.net
 d37f9khcllt32v.cloudfront.net
@@ -6514,6 +6517,7 @@ d3b2hhehkqd158.cloudfront.net
 d3b4x0ran5qs0c.cloudfront.net
 d3b75cfc88a9.com
 d3beefy8kd1pr7.cloudfront.net
+d3bj8nkfly20uo.cloudfront.net
 d3c3uihon9kmp.cloudfront.net
 d3c8l61zd5ltf8.cloudfront.net
 d3cesrg5igdcgt.cloudfront.net
@@ -6594,6 +6598,7 @@ d3prygw1dnamj9.cloudfront.net
 d3pvcolmug0tz6.cloudfront.net
 d3q33rbmdkxzj.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
+d3qfdthu9f51gu.cloudfront.net
 d3qk9u6c2k2cid.cloudfront.net
 d3qrbrazsnzdog.cloudfront.net
 d3qu0b872n4q3x.cloudfront.net
@@ -12363,6 +12368,7 @@ hypothesisalternate.com
 hyrankhit.meldingcloud.com
 hysjm.cn
 hysntzdseidl.com
+hystericalcloth.com
 hystq.com
 hytcsh.cn
 hytgj.com
@@ -12992,6 +12998,7 @@ initiateplayed.com
 initiateshaky.com
 injuredcandy.com
 inkornesto.com
+innerskinresearch.com
 innpinhid.com
 innvitor.com
 innwizfoe.com
@@ -22601,6 +22608,7 @@ rum.ingress.layer0.co
 rum.kobo.com
 rum.layer0.co
 rum.marquardmedia.hu
+rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rum.perfops.net
 rumsey.actonservice.com
