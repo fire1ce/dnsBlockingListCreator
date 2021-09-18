@@ -997,6 +997,7 @@ ad.kisscartoon.sh
 adland.ru
 ad.leongaming.com
 adless.io
+adl-hunter.com
 ad.linksynergy.com
 ad.liveburst.com
 adlog.com.com
@@ -1995,6 +1996,7 @@ analytics.techdiary.dev
 analytics.themarketiq.com
 analytics.thingx.tv
 analytics.threedeepmarketing.com
+analytics.ticinolibero.ch
 analytics.tiktok.com
 analytics.tio.ch
 analytics.tooso.ai
@@ -4881,6 +4883,7 @@ click4wm.ru
 click.aabacosmallbusiness.com
 click.aaptiv.com
 clickadin.com
+click.alternate.de
 click.amazingfacts.org
 click.appinthestore.com
 clickaslu.com
@@ -5145,6 +5148,7 @@ cnstats.cdev.eu
 cnt2.stroeerdp.de
 cnt.3dmy.net
 cnt.iceporn.com
+cnt.iol.it
 cnt.krasland.ru
 cnt.logoslovo.ru
 cnt.mastorage.net
@@ -7655,6 +7659,7 @@ dmsqzqvuapb.com
 dms.vancss.com
 dms.xuexxing.com
 dm.taobaojuhuasuan.cn
+dmtgo.upc.biz
 dmtk.linternaute.com
 dmtw0i4zln92b.cloudfront.net
 dmvbdfblevxvx.com
@@ -7912,6 +7917,7 @@ dryhuhrep.com
 dryvit.actonservice.com
 dryzapsol.com
 ds02gfqy6io6i.cloudfront.net
+ds2.independer.nl
 ds88pc0kw6cvc.cloudfront.net
 ds-aksb-a.akamaihd.net
 dsandexpe.biz
@@ -16380,6 +16386,7 @@ mc.tvzhe.com
 mc.weather.com.cn
 mc.webvisor.com
 mc.webvisor.org
+mc.yandex.com
 mc.yandex.ru
 mczahprdql.com
 mczbf.com
@@ -20418,6 +20425,7 @@ pixel.yola.com
 pixelzirkus.gameforge.com
 pixel.zumby.io
 pixiedust.buzzfeed.com
+pixrealm.com
 pix.revjet.com
 pix.spot.im
 pix.telekom.de
@@ -28176,6 +28184,7 @@ tr.courrier.charentelibre.fr
 tr.courrier.larepubliquedespyrenees.fr
 tr.courrier.sudouest.fr
 trc.pushnami.com
+tr.datatrics.com
 tr.devis-companeo.com
 tr.devis-companeo.fr
 tr.devis-express.be
