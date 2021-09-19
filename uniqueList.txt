@@ -1235,6 +1235,7 @@ adsymptotic.com
 adsyst.biz
 adsyst.com
 adsyst.ru
+adt328.com
 ad.takasu.co.jp
 adtd.douglas.at
 adtd.douglas.ch
@@ -2727,7 +2728,6 @@ b8pfulzbyj7h.com
 b91vip.com
 b936c5932623f.com
 b96bcea4.cc
-b97beb2fed1c4f.com
 b9ba73f1cd9b6.com
 ba32365df2.com
 ba5ed55a0d56f15.com
@@ -2766,7 +2766,6 @@ badgirlz.org
 badjocks.com
 badruling.com
 badsabs.com
-badsamps.com
 badsans.com
 badsbads.com
 badsecs.com
@@ -2775,7 +2774,6 @@ badshores.com
 badsims.com
 badskates.com
 badskies.com
-badskis.com
 badslads.com
 badslopes.com
 badspads.com
@@ -3718,7 +3716,6 @@ boosirad.net
 boostclic.com
 boostcpm.su
 boost-next.co.jp
-boostshow.com
 bootstrap-framework.org
 bootstrap-js.com
 bootstraplugin.com
@@ -7275,7 +7272,6 @@ dhboldoduti.com
 dhc0r49tu1cem.cloudfront.net
 dhdgkj.com
 dhdtk67w1eua6.cloudfront.net
-d.heavyrnews.pro
 dhenr54m.com
 dhipc.cn
 dhlmy.com
@@ -7694,6 +7690,7 @@ dnskuu.com
 dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 dnsseed.emzy.de
+dnt-userreport.com
 dnved6ocs3pa4.cloudfront.net
 dnyjp3iys0r8o.cloudfront.net
 do67etikr7pwz.cloudfront.net
@@ -9709,7 +9706,6 @@ ff01s.cn
 ff5bd8d9f8df.com
 ffa9.cn
 ff.astv.ru
-ff.doubleclick.net
 ffe5bd4c787357c.com
 ffg34fg.877zw.com
 ff.guidaye.com
@@ -14718,6 +14714,7 @@ lflable.com
 lflili.com
 lflucky.com
 lfmhcb.sefamerve.com
+l.franceculture.fr
 lfsenmei.com
 lfstmedia.com
 lftqch650apz.com
@@ -16548,7 +16545,6 @@ measurementlay.com
 measure.refinery89.com
 meatspin.biz
 meawuerhvjmty.com
-meboayapb.com
 mechanicsearnestobjections.com
 mecostasenath.com
 med22iwqeq.ru
@@ -16588,6 +16584,7 @@ mediakeywords.com
 media-kod.net
 media.leftclick.ro
 mediametrics.mpsa.com
+media.netrefer.com
 mediaoaktree.com
 mediaonenetwork.net
 mediaonpro.com
@@ -25342,6 +25339,7 @@ squirrel.ethanelientz.com
 squirrelhissedintake.com
 squirrel.honeysqueeze.app
 squirrel.malaynahocker.com
+squirrels.getsquirrel.co
 squjvr.modamerve.com
 sqyueda.com
 s.renren.com
@@ -25372,6 +25370,7 @@ srtb.msn.com
 sruk.srglobal.com
 srv1010elan.com
 srv2020real.com
+srv.dynamicyield.com
 srv.mzcdn.com
 srvtrck.com
 srwiiu.cn
@@ -26388,7 +26387,6 @@ surrendersonnygram.com
 surv2you.net
 surveillancelandmorgue.com
 survey2you.org
-survey.g.doubleclick.net
 surveyingaltitude.com
 survey.interquest.com
 susandsoc.top
@@ -26590,7 +26588,7 @@ sync.teads.tv
 sync.ttlbd.net
 syncwowsails.com
 syndapop.com
-syndication.jsadapi.com
+syndicate.payloadz.com
 syndicpop.com
 syndopop.com
 syndromeseasidecontainer.com
@@ -29903,6 +29901,7 @@ web-01-gbl.com
 web0513.com
 web1.51.la
 web.900.la
+web.adblade.com
 webadv.co
 webair.com
 webanalytics.pgatour.com
@@ -29992,6 +29991,7 @@ webtraffic.mastercontrol.com
 webts.adac.de
 webweb.picforall.ru
 web.x.ilpost.it
+weby.aaas.org
 webytom.com
 web.zoominfo.com
 wecehydy.com
@@ -31247,6 +31247,7 @@ yieldbuild.com
 yieldlab.net
 yieldlove-ad-serving.net
 yieldmanager.com
+yieldmanager.edgesuite.net
 yieldmanager.net
 yield-op-idsync.live.streamtheworld.com
 yieldoptimizer.com
