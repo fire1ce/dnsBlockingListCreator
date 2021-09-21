@@ -1082,9 +1082,7 @@ ad.bwise.ch
 ad.byfuh.com
 adc.9news.com.au
 adcade.com
-adcalm.com
 adc.api.nine.com.au
-adcash.com
 adcastplus.net
 adcast.ru
 ad.ccement.com
@@ -1112,7 +1110,6 @@ adc.nine.com.au
 adcolo.com
 adcolony.com
 adcomplete.ru
-adconity.com
 adconjure.com
 adc-postback.com
 adcrax.com
@@ -1296,7 +1293,6 @@ ad.mox.tv
 admp-tc.delfi.ee
 admp-tc.delfi.lv
 admsapi.businessweekly.com.tw
-adm.shinobi.jp
 admulti.ru
 ad.munion.in
 ad.muyang888.top
@@ -1558,7 +1554,6 @@ adstargets.com
 ad.starlightmedia.ua
 adstats.tencentmusic.com
 adst.biz
-ad-stir.com
 adstock.ru
 ads-tracking.beopinion.com
 ads-tracking.beop.io
@@ -1578,7 +1573,6 @@ adsvolum.com
 adsvolume.com
 adswam.com
 ad.sweb.ru
-adswizz.com
 adsxyz.com
 ads.yahoo.com
 adsymptotic.com
@@ -1596,8 +1590,6 @@ adtd.douglas.ch
 adtd.douglas.de
 adtd.douglas.pl
 ad.tempstaff.co.jp
-adthrive.com
-adthurst.com
 adtidy.net
 adtime.ru
 adtival.com
@@ -1631,7 +1623,6 @@ aduic.com
 adulatoryraisegetaway.com
 adult-adv.com
 adultadvertising.net
-adultadworld.com
 adultcamchatfree.com
 adultcamfree.com
 adultcamliveweb.com
@@ -1658,7 +1649,6 @@ adv.drtuber.com
 adventory.com
 adversni.com
 advertbox.ru
-advertising.com
 advertising.oriel.io
 advertisingsex.com
 advertom.com
@@ -1717,7 +1707,6 @@ adyoulike.com
 ad.zanox.com
 adzchoice.com
 adz.co.zw
-adzerk.net
 adzfun.me
 adzhits.com
 adzhub.com
@@ -2053,6 +2042,7 @@ alibdm.xyz
 alibdn.xyz
 alicat.actonservice.com
 alicpd.top
+ali-crm.ru
 aliencesuffe.top
 alifafdlnjeruif.com
 alifixed.cn
@@ -3046,7 +3036,6 @@ attorney.findlaw.com
 attributiontrackingga.googlecode.com
 a.tuizhuti.com
 a.tvsou.com
-atwola.com
 atxqb.psychologies.com
 atxslk.galamart.ru
 a.typin.cn
@@ -3972,13 +3961,11 @@ bidiology.com
 bidrughu.com
 bids.concert.io
 bidswitch.net
-bidsxchange.com
 bidsystem.com
 bidtheatre.com
 bidtraffic.ru
 bidvance.com
 bidverdrd.com
-bidvertiser.com
 biebettude.xyz
 biemedia.com
 bigappboi.com
@@ -4453,7 +4440,6 @@ breakfastsinew.com
 breakingdeductrates.com
 breakingdigest.com
 breakingrubber.com
-brealtime.com
 breastfeedingdelightedtease.com
 breastfeedingfabricadorable.com
 breathebuds.com
@@ -6329,6 +6315,7 @@ count.rin.ru
 country.yepshare.com
 count.upc.rakuten.co.jp
 count.yandeg.ru
+coupleairplane.com
 couponcashmerelining.com
 couponcp-a.akamaihd.net
 couptoug.net
@@ -6669,7 +6656,6 @@ cwwzubqasdqayf.com
 cxb4.cn
 c.xbox.com
 cxcxt.com
-cxense.com
 cxepp.com
 cxfzw.cn
 cxgfq.pinlue.com
@@ -13834,7 +13820,6 @@ instore.pagomeno.it
 instraffic.com
 instrumentatlasjacket.com
 insumber.com
-insurads.com
 inswebt.com
 intake-analytics.wikimedia.org
 intangibleconcordant.com
@@ -15632,7 +15617,6 @@ lig.liberation.fr
 lihailin.vip
 liirhn.vanarama.com
 lijie1010.top
-lijit.com
 likaraoke.com
 likecontrol.com
 likefly.com.cn
@@ -19174,7 +19158,6 @@ nemewagro.com
 nenrk.us
 neoamwhdg.com
 neoban.su
-neobux.com
 neocounter.neoworx-blog-tools.net
 neogaeakasher.com
 neomion.com
@@ -21791,7 +21774,6 @@ promriftahead.com
 prom.x-lime.net
 pronunciationpreoccupyinconsistency.com
 propbigo.com
-propellerads.com
 propellerclick.com
 propellerpops.com
 propeller-tracking.com
@@ -22952,7 +22934,6 @@ repseudotisiez.xyz
 repsrowedpay.com
 reptilefightearn.com
 reptilesire.com
-republer.com
 reqssx.centerparcs.fr
 requested.cn
 requiresdetached.com
@@ -23040,14 +23021,12 @@ rev2pub.com
 rev4rtb.com
 revampcdn.com
 revbigo.com
-revcontent.com
 revdepo.com
 revelationneighbourly.com
 revengemeantjackpot.com
 revenue.com
 revenuecpmnetwork.com
 revenueenslave.com
-revenueflex.com
 revenuehits.com
 revenuemantra.com
 revenuenetwork.com
@@ -23417,7 +23396,6 @@ ruad.net
 ruamupr.com
 rubbishmilliondelightful.com
 rubcomplaintdimly.com
-rubiconproject.com
 rubylife.go2cloud.org
 rucegipti.com
 ruefulspanishresolute.com
