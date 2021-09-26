@@ -1681,15 +1681,12 @@ advertom.com
 advertpay.net
 advertpay.ru
 advertrtb.com
-advertstream.com
 advertte.com
 advfeeds.com
 adv-first.ru
-advg.jp
 advgoods.com
 ad-vice.biz
 advicethrew.com
-advinci.co
 advinci.uno
 adviralmedia.com
 advise.co
@@ -1724,7 +1721,6 @@ ad-wheel.com
 adwile.com
 ad.wsod.com
 ad.wurangxian.top
-adx1.com
 adxadserv.com
 adxat.com
 adxbid.me
@@ -1752,7 +1748,6 @@ adyoulike.com
 ad.zanox.com
 adzchoice.com
 adz.co.zw
-adzerk.net
 adzfun.me
 adzhits.com
 adzhub.com
@@ -3450,7 +3445,6 @@ baidu1.codejie.net
 baidu2img.com
 baiduace.com
 baiduada.babihu.com
-baidu.bxwx3.org
 baiduccdn1.com
 baiducom.bj.bcebos.com
 baidu-image-qqcom.com
@@ -7425,6 +7419,7 @@ daddywu.cn
 dadedaxue.com
 dadhuhram.com
 dadjia.com
+d.adlpo.com
 dadparty.com
 d.adrolays.de
 dadsabz.com
@@ -11357,6 +11352,7 @@ geobanner.adultfriendfinder.com
 geobanner.alt.com
 geobanner.hornywife.com
 geobar.ziffdavisinternational.com
+geobid.vip
 geoedge.be
 geo.emol.cl
 geo.ertya.com
@@ -12387,6 +12383,7 @@ hbhnwy.com
 hbhtbn.com
 hbhyc.cn
 hbid.ams3.cdn.digitaloceanspaces.com
+hbjkfu.com
 hbkhqc.com
 hblanghun.cn
 hblinwei.com
@@ -12755,6 +12752,7 @@ hnltcw.com
 hnlvld1crehqne.ru
 hnnuange.com
 hnpvnnhzazkl.com
+hnruisheng.cn
 hnsykly.cn
 hntiantai.cn
 hntymg.com
@@ -12765,6 +12763,7 @@ hnxinkejg.com
 hnylb8.cn
 hnyny.com
 hnyoufan.com
+hnzls8.cn
 hnzyzhy.cn
 hoaiig.com
 hoanoola.net
@@ -16046,6 +16045,7 @@ ljecur.com
 ljggc.com
 ljja3ef63g.com
 ljjyqv.gametrade.jp
+ljlxy.cn
 ljmei.com
 ljryik.bewithyou.jp
 ljteas.com
@@ -33568,6 +33568,7 @@ zhaibei112.top
 zhaiqichao.top
 zhangbaochang.top
 zhangdujia.com
+zhangjinfei.vip
 zhangjunying.top
 zhangkc.com
 zhangranfilm.com
@@ -33852,6 +33853,7 @@ zxjjzx.com
 zxlmnet.com
 zxptw.cn
 zxsmxt.com
+zxucii.com
 zxvttq.goldapple.ru
 zxxds.net
 zxxtkrkzfyy3.com
