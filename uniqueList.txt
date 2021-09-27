@@ -1349,7 +1349,6 @@ adobe.autoscout24.pl
 adobe.autoscout24.ro
 adobe.autoscout24.ru
 adobe.autoscout24.se
-adobedc.demdex.net
 adobe.dynamic.ca
 adobe.falabella.com.pe
 adobe-nonsecure.cjone.com
@@ -1554,7 +1553,6 @@ adstock.ru
 ads-tracking.beopinion.com
 ads-tracking.beop.io
 ads.tradeads.eu
-ads.tremorhub.com
 adstripe.net
 ads-trk.vidible.tv
 ads-twitter.com
@@ -2937,7 +2935,6 @@ asdnow.xyz
 asdpoi.com
 aseadnet.com
 asepurch.pro
-aserve.directorym.com
 asev.xyz
 asewlfjqwlflkew.com
 as-farm.com
@@ -3152,6 +3149,7 @@ austerityabruptnessall.com
 austinareahomeschoolers.com
 ausumtee.com
 auteboon.net
+auth1-eng.spankbang.com
 authcaptcha.com
 authentic3d.actonservice.com
 authornernsa.pro
@@ -3778,7 +3776,6 @@ beacon.flow.io
 beacon.nrholding.net
 beacon.riskified.com
 beacon.rum.dynapis.com
-beacons.brandads.net
 beacon.searchspring.io
 beacon.securestudies.com
 beacon.shazam.com
@@ -5096,7 +5093,6 @@ cdnfjz.com
 cdngain.com
 cdn.imvkan.com
 cdnjke.com
-cdn.mobicow.com
 cdnmr.net
 cdn.net.elogia.net
 cdn.omniconvert.com
@@ -8351,7 +8347,6 @@ dmtw0i4zln92b.cloudfront.net
 dmvbdfblevxvx.com
 dm.wenshenxiu.com
 dmxalb.winni.in
-dmx.districtm.io
 dmxftmoqz.com
 dmxleo.dailymotion.com
 dmxxa.com
@@ -12306,7 +12301,6 @@ hazelnutshighs.com
 hb-247.com
 hbaazk.bukalapak.com
 hbbww.com
-hb.emxdgt.com
 hbfpvm.comolib.com
 hbfqcy.com
 hbfxmcgazuail.com
@@ -12591,7 +12585,6 @@ hitserver.ibope.com.br
 hits.guardian.co.uk
 hits.informer.com
 hit.skrz.cz
-hits.sys.lv
 hit-star.ru
 hits.zdnet.co.kr
 hittoadv.com
@@ -14062,7 +14055,6 @@ itmamoswineer.com
 itnuzleafan.com
 itpatratr.com
 itp.phoebebeautyup.com
-itracking.fccinteractive.com
 itresource.vip
 itseedotor.com
 it.sharpmarketing.eu
@@ -19824,7 +19816,6 @@ nyrxcy.teslaweld.com
 nyt1.biosens-leanature.fr
 nytjyf.dholic.co.jp
 nytrng.com
-n.yunshipei.com
 nyyed.com
 nyyxyx.com.cn
 nzbnjdukgaco.com
@@ -21585,7 +21576,6 @@ poster.weather.com.cn
 postgraduate2.smu.edu.sg
 postgraduate.smu.edu.sg
 postlnk.com
-postpixel.vindicosuite.com
 postrelease.com
 post.rmbn.net
 postuler.bpost.be
@@ -21930,7 +21920,6 @@ pro-zdorovye.ru
 prpops.com
 prpopss.com
 prre.ru
-prstats.postrelease.com
 prtrackings.com
 prudencebonfireyowl.com
 prudencewiserelapse.com
@@ -22772,7 +22761,6 @@ rcgi.video.qq.com
 rc.ie13.com
 rcm.shinobi.jp
 rc.precisely.com
-rc.rlcdn.com
 rcurn.com
 rcvlink.com
 rcvlinks.com
@@ -24206,7 +24194,6 @@ secure.bait4role.com
 secure.bali6nora.com
 secure.benn8bord.com
 secure.bolt8snap.com
-secure.bred4tula.com
 secure.cage6west.com
 secure.care5alea.com
 secure.cart8draw.com
@@ -26994,7 +26981,6 @@ stats2.teenvogue.com
 stats2.tune.pk
 stats2.videonow.ru
 stats3.ferheng.co
-stats3.unrulymedia.com
 stats.4travel.jp
 stats.acadevor.com
 stats.adobe.com
@@ -29341,7 +29327,6 @@ track.mycliplister.com
 track.netzero.net
 track.noddus.com
 track.noz.de
-track.omg2.com
 track.omgpl.com
 track.postkodlotteriet.se
 track.pricespider.com
@@ -31662,7 +31647,6 @@ wicavozo.xyz
 widgetadvertising.biz
 widgetbucks.com
 widgethost.barnebys.com
-widget.perfectmarket.com
 widget.promoqui.it
 widget.quantcast.com
 widgets.comcontent.net
@@ -32139,7 +32123,6 @@ www.bali6nora.com
 www.bcaeurope.eu
 www.bis-dic15.com
 www.bosctrl32.com
-www.bred4tula.com
 www.care5alea.com
 www.cart8draw.com
 www.cavy9soho.com
@@ -32672,7 +32655,6 @@ xooplo.com
 xopcdnhjf.com
 xoredi.com
 xouzmvlt.com
-xoxo8-eng.spankbang.com
 xpbbyiqbcawamy.com
 xpctraffic.com
 xpollo.com
