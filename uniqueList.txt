@@ -1037,6 +1037,7 @@ adbit.co
 ad.bitmedia.io
 adb.kijk.nl
 adblockanalytics.com
+adblockervideo.com
 adbma.com
 adbmetrics.abc.es
 adbmetrics.blogasturias.com
@@ -2672,6 +2673,7 @@ ans.milb.com
 ans.mlb.com
 answeredfluency.com
 answers.teradata.pl
+antananarbdivu.com
 antaraimedia.com
 antblz.mediaworld.it
 antecedentponderoverweight.com
@@ -2948,6 +2950,7 @@ as.bz-berlin.de
 ascassociation.actonservice.com
 ascbdj.knivesandtools.de
 asccdn.com
+ascertaincrescenthandbag.com
 ascertainedfortnight.com
 asce.xyz
 as.chartsurfer.de
@@ -4938,6 +4941,7 @@ ca.mattamyhomes.com
 camel.headfarming.com
 camiocw.com
 camisado.actonservice.com
+camisagrieko.com
 camouque.net
 campaign.amadeus.com
 campaign.bbmbonnier.se
@@ -7113,6 +7117,7 @@ d25xkbr68qqtcn.cloudfront.net
 d261u4g5nqprix.cloudfront.net
 d262g11wze3cwd.cloudfront.net
 d269y12mnftu9c.cloudfront.net
+d26adrx9c3n0mq.cloudfront.net
 d26c6kzavi5zwd.cloudfront.net
 d26r15y2ken1t9.cloudfront.net
 d26us1doo6mh7f.cloudfront.net
@@ -7428,6 +7433,7 @@ d3vnm1492fpnm2.cloudfront.net
 d3vpf6i51y286p.cloudfront.net
 d3vt0rqt08ph1x.cloudfront.net
 d42tbok7l2bg1.cloudfront.net
+d4624d2bc2.com
 d49z64r3ud4kq.cloudfront.net
 d4a77d8bc81ae17.com
 d4ax0r5detcsu.cloudfront.net
@@ -7641,6 +7647,7 @@ data.campaign.toyscenter.it
 data.circulate.com
 data.cofinoga.fr
 data.collectandgo.be
+datacollector-dra.dt.hicloud.com
 data.collishop.be
 data.colruyt.be
 data.colruytgroup.com
@@ -8424,6 +8431,7 @@ dlrijiaele.com
 dl-rms.com
 dlsear.com
 dl-stage.zola.com
+dlswbr.baidu.com
 dltags.com
 dltinaozs.com
 dlvds9i67c60j.cloudfront.net
@@ -8462,6 +8470,7 @@ dmkt.solutions.cas.org
 dm.lianzhixiu.com
 dmm.aizhan.com
 dmmzkfd82wayn.cloudfront.net
+dmnprx.com
 dmpcdn.el-mundo.net
 dmpsj.cn
 dm.pw0.cn
@@ -11199,6 +11208,7 @@ fy4zb.cn
 fyhishushe.com
 fyjyhm.com
 fykmahfa.com
+fykqixiyyd.com
 fyrafi.ru
 fyrsbckgi-c.global.ssl.fastly.net
 fythavoshu.com
@@ -25393,6 +25403,7 @@ slychicks.com
 slymagical.com
 sm077.com
 smaato.net
+smac-ad.com
 smallentpation.pro
 smallmovieapp.com
 smalltiberbridge.com
@@ -30925,6 +30936,7 @@ uppyads.com
 uprimp.com
 uprivaladserver.net
 upro.me
+uprotectiehone.xyz
 upsaibou.net
 upsettingcrescentwig.com
 upsettommyvomit.com
@@ -33816,6 +33828,7 @@ ytbctyy.com
 ytbnm.cn
 ytcard.cn
 ytimm.com
+ytlkmy.cn
 ytmaitian.com
 ytmaksim.cn
 ytop8.com
@@ -34092,6 +34105,7 @@ zhanjiangletian.com
 zhanlan5.cn
 zhaosijie.cn
 zhaoyafang.cn
+zhcmuccccixz.com
 zhcps.cn
 zhcxvk.qvc.com
 zhduni.rizap.jp
