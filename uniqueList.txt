@@ -16599,6 +16599,7 @@ log.suumo.jp
 logs.vmixcore.com
 log.sv.pandora.tv
 log.tagtic.cn
+logtake.weidian.com
 log.targetpush.co.kr
 log.ttbc-hcm.gov.vn
 log.webnovel.com
