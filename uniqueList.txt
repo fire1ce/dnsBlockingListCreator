@@ -273,6 +273,7 @@ a2b3.tk
 a2c653c4d145fa5f96a.com
 a2put.chinaz.com
 a2.xinhuanet.com
+a2z.com
 a30667.actonservice.com
 a30668.actonservice.com
 a31734.actonservice.com
@@ -14434,7 +14435,6 @@ isebis.takamiclinic.or.jp
 isebis.yutoriform.com
 iseuaa.olx.pl
 isgow.com
-isgprivacy.cbsi.com
 isharemetric.rediff.com
 ishowms.com
 ishuoshuo.com
