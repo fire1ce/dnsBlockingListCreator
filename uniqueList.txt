@@ -2322,6 +2322,7 @@ analytics.deutscher-apotheker-verlag.de
 analytics.developer.riotgames.com
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
+analytics.digitalpfizer.com
 analytics.disneyinternational.com
 analytics.dogecoin.gg
 analytics.dvidshub.net
@@ -3237,6 +3238,7 @@ axcdt.cn
 axcdy.cn
 axeldivision.com
 axfrb.cn
+axfvc.cn
 axfvv.cn
 axhntisudyhmxjd.xyz
 axialivylow.com
@@ -6116,8 +6118,10 @@ collect.alipay.com
 collect.allianz.ch
 collect.allianzcinema.ch
 collect.allianzdriveincinema.ch
+collect-ap2.attraqt.io
 collect.cap.ch
 collect.elvia.ch
+collect-eu.attraqt.io
 collect.helsana.ch
 collection-day.com
 collection.saga.co.uk
@@ -13969,6 +13973,7 @@ igrid.org
 igvuw.com
 igvxnenqgu.com
 igyswj.sixt.it
+ih740.cn
 ihais.com
 ihc.cellmarque.com
 ihear123.com
@@ -20405,6 +20410,7 @@ nmctm.cn
 nmdlvg.5element.by
 nmentsce.top
 nmetrics.samsung.com
+nmgpd.com
 nmiodk.promiflash.de
 nmlhkj.com
 nmlkjid.carte-gr.total.fr
@@ -24740,6 +24746,7 @@ rsuuc.com
 rsviqjzhvubz.com
 rsyokbyvawav.com
 rszimg.com
+rt354.cn
 rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com
@@ -35419,6 +35426,7 @@ zjlovexb.xyz
 zjlv.top
 zjo0tjqpm1.com
 zjrbwb.markenschuhe.de
+zjwldq.cn
 zjwwbznpcqhk.com
 zjxkdq.cn
 zk.91post.com
