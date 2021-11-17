@@ -28202,7 +28202,6 @@ soundshrillarduous.com
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
-sourcepoint.theguardian.com
 sourceszomation.carte-gr.total.fr
 sourdi.com
 sourmath.com
@@ -33567,6 +33566,7 @@ web-rotation.net
 web-rotator.net
 webrotator.net
 webrotator.org
+websdk.appsflyer.com
 webseeds.com
 webservices.websitepros.com
 websitepromoserver.com
