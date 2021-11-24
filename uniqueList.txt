@@ -7489,6 +7489,7 @@ d1ckj42q07f9s3.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
 d1cr9zxt7u0sgu.cloudfront.net
 d1crt12zco2cvf.cloudfront.net
+d1cw0c50l8jv65.cloudfront.net
 d1czd1q73kbu32.cloudfront.net
 d1diqetif5itzx.cloudfront.net
 d1dli2tyorled9.cloudfront.net
@@ -11998,7 +11999,6 @@ friesel-mustin.com
 frightenedpotato.com
 frightfuljourney.com
 frmsafe.com
-froala.com
 frodalupri.xyz
 frofanvied.com
 frogadvert.ru
