@@ -2436,6 +2436,7 @@ analytics.gazeta.pl
 analytics.getshogun.com
 analytics.global.sky.com
 analytics.groupe-seb.com
+analytics-gw.games.wanmei.com
 analytics.hashnode.com
 analytics.hayneedle.com
 analytics.hermesworld.com
@@ -24847,6 +24848,7 @@ pxxhbz.apamanshop.com
 pyblogs.xyz
 pyeditingpro.biz
 pyerc.com
+pyhszs.cn
 pyhuiyu.com
 pyksf.com
 pyloic.com
