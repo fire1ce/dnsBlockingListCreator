@@ -7841,7 +7841,6 @@ d2850fafeb7.com
 d28g1fhp6rn9w3.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d28k9nkt2spnp.cloudfront.net
-d28n7yywqog3r7.cloudfront.net
 d28s7kbgrs6h2f.cloudfront.net
 d28wlxclbkz49x.cloudfront.net
 d29dbajta0the9.cloudfront.net
@@ -10258,6 +10257,7 @@ edxlewni.com
 edysn.cn
 ee6a35c1eeee.com
 ee8a4dd81b.com
+eec.crunchyroll.com
 eecd179r3b.com
 eee3a05c040fef3.com
 eefoathy.com
@@ -16210,6 +16210,7 @@ jl1130.com
 jldtlh.fashionnova.com
 jlhygy.com
 jljspx.com
+jljxwlkjw.com
 jlklnwmj.com
 jln3.clstudios.com
 jltzknvw.com
@@ -25321,6 +25322,7 @@ qutltjamq.com
 quxiandu.com
 quxiangkeji.cn
 quzhizhongye.top
+qv566.cn
 qvcwklhelpk.xyz
 qvnpxc.technopark.ru
 qvorcqfon.com
