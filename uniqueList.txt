@@ -7877,16 +7877,13 @@ d22sfab2t5o9bq.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d22xmn10vbouk4.cloudfront.net
 d22z575k8abudv.cloudfront.net
-d231vab146qzfb.cloudfront.net
 d23guct4biwna6.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
 d23pi6hvdpcc5i.cloudfront.net
 d23rdjhd16xqjq.cloudfront.net
 d23xhr62nxa8qo.cloudfront.net
-d2405b0jymm2dk.cloudfront.net
 d240937yockcdo.cloudfront.net
 d24a1q42xt7oz9.cloudfront.net
-d24afgsm39csxt.cloudfront.net
 d24ak3f2b.top
 d24cze5sab2jwg.cloudfront.net
 d24g87zbxr4yiz.cloudfront.net
@@ -7960,7 +7957,6 @@ d2is3w689nunba.cloudfront.net
 d2izezc8ujpkba.cloudfront.net
 d2j042cj1421wi.cloudfront.net
 d2j1fszo1axgmp.cloudfront.net
-d2jn12r3o7an7z.cloudfront.net
 d2k487jakgs1mb.cloudfront.net
 d2k4es4l94a3cv.cloudfront.net
 d2k7b1tjy36ro0.cloudfront.net
@@ -8389,7 +8385,6 @@ dalianruosen.com
 daliantong.com.cn
 dalingjia.ren
 dalita.org
-dalj98ktasppa.cloudfront.net
 dallavel.com
 dalseeds.net
 daltauth.net
