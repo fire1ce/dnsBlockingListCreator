@@ -1440,6 +1440,7 @@ ad.samsungadhub.com
 ads.audio.thisisdax.com
 ads.bid
 adsblockkpush.com
+adsb.pub
 adsbtrk.com
 adscale.de
 adscampaign.net
@@ -31544,6 +31545,7 @@ tbm09.com
 tbnmmjm.com
 t.brand-server.com
 tbv157xq.com
+tbxprvf.cn
 tc2.hometogo.net
 t.c4tw.net
 tc600.com
