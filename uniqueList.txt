@@ -697,7 +697,6 @@ aa.maxblue.de
 aamcompany.actonservice.com
 aamergrbdr.xyz
 aammbxlhyvefy.xyz
-aa.ninze.com
 aa.norisbank.de
 aanqylta.com
 aaoomqpaydap.com
@@ -9406,6 +9405,7 @@ dmxftmoqz.com
 dmxleo.dailymotion.com
 dmxxa.com
 dmym.aixyy.com
+dmz3nd5oywtsw.cloudfront.net
 dmzjmp.com
 dm.zuowenku.net
 dn34cbtcv9mef.cloudfront.net
@@ -13485,6 +13485,7 @@ govjieyang.cn
 govkunming.cn
 govnogames.com
 govqingdao.cn
+govshanxi.cn
 govshenzhen.cn
 govxian.cn
 govyunfu.cn
@@ -13825,6 +13826,7 @@ gxtytj.com
 gxxcbj.com
 gxymlqcnu.com
 gybdtg.com
+gybyxsy1588.com
 g.yccdn.com
 gyccdnydir.com
 gycy2.com
@@ -37124,6 +37126,7 @@ yipdankglib.com
 yiqima.xyz
 yiran686.cn
 yirendajiankang.com
+yishengad.com
 yishuifa.org
 yitai001.com
 yitcmu.com
