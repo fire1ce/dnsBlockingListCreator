@@ -2900,6 +2900,7 @@ api.getadx.com
 api-keks.com
 api-marketolog.mts.ru
 api.nobeta.com.br
+apio.ink
 apipub.oumma.com
 api.smartadv.ru
 api.wipmania.com
@@ -4795,6 +4796,7 @@ bngpt.com
 bngwlt.com
 bnhtml.com
 bnjxyqdvoegi.com
+bnkpgjw.cn
 bnlif.com
 bnmjjwinf292.com
 bnmla.com
@@ -5578,6 +5580,7 @@ capture-api.ap3prod.com
 capture.condenastdigital.com
 capultytrese.xyz
 capyestern.com
+capzo.cn
 carabidshooter.com
 caraganaarborescenspendula.com
 caragots.com
@@ -37788,6 +37791,7 @@ zgsxhx.com
 zgtcar.com
 zgunion.cn
 zgvcfridw.com
+zgwxt.vip
 zgxieshou.com
 zgyemy.com
 zgyso.cn
