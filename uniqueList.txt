@@ -108,6 +108,7 @@ a1.shusanqi.com
 a1.sumiaowang.com
 a1.syfj.net
 a1.twtym.com
+a1webstrategy.com
 a1.yaozui.com
 a1.zhanzhang.net
 a.20minutes.fr
@@ -8578,6 +8579,7 @@ data.decathlon.de
 data.decathlon.es
 data.decathlon.fr
 data.decathlon.it
+data.digitalks.az
 datadog-service.mvfglobal.com
 data.econa.com
 data.email-discovery.cjm.adobe.com
@@ -11761,6 +11763,7 @@ fd2e64b4c2e729.com
 fd555b2faf5a40c.com
 fd7c.com
 fd7qz88ckd.com
+fdasew.top
 fdbs.actonservice.com
 fdc5af731e.com
 fdd3ce7fc8.com
@@ -26106,6 +26109,7 @@ retargetadv.com
 retargetcore.com
 retargeter.com
 retargeting-data.eu
+retargeting.newsmanapp.com
 retargeting.vistaprint.com
 retcherruny.xyz
 retcode.taobao.com
@@ -31246,6 +31250,7 @@ t70123.com
 t7479e4d.com
 t800.org
 t8.mailperformance.com
+t.91syun.com
 t.9gag.com
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
@@ -32510,6 +32515,7 @@ track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
 track4ref.com
+track.91app.io
 track.99acres.com
 trackad2.com
 track.addevent.com
@@ -32892,10 +32898,12 @@ track.leady.cz
 track.lexico.com
 track.mailerlite.com
 track.mdsmatch.com
+track.mituo.cn
 trackmundo.com
 track.mycliplister.com
 track.netzero.net
 track.noddus.com
+track.nopaperforms.com
 track.noz.de
 track.omgpl.com
 track.pexi.nl
