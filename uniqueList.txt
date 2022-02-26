@@ -2691,6 +2691,7 @@ analytics-static.ugc.bazaarvoice.com
 analytics.stg.springboardvideo.com
 analytics.strangeloopnetworks.com
 analytics.styria.hr
+analytics.superstructure.ai
 analytics.supplyframe.com
 analytics.surfline.com
 analytics.sweep.net
@@ -8495,6 +8496,7 @@ daffices.com
 dafficha.com
 dafoljqjmlopaf.com
 dafthulksyams.com
+dafuhao918.com
 dagd0kz7sipfl.cloudfront.net
 d-agency.net
 daglatuw.com
@@ -25455,6 +25457,7 @@ qhzefk.drmartens.com
 qianb.ltd
 qianfengwang.top
 qianggou8.top
+qiangren.biz
 qianmeiby.com
 qian-tao.xyz
 qianyuntengyue.com
