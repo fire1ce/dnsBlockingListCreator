@@ -11022,7 +11022,6 @@ email.mail.floatme.io
 email.mail.primexbt.com
 email.mccoys.com
 email.member.theknot.com
-email.mg.everyonesocial.com
 email.mymandg.co.uk
 email.participaction.com
 email-particuliers.engie.fr
