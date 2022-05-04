@@ -8605,6 +8605,7 @@ d261u4g5nqprix.cloudfront.net
 d262g11wze3cwd.cloudfront.net
 d26adrx9c3n0mq.cloudfront.net
 d26c6kzavi5zwd.cloudfront.net
+d26p9ecwyy9zqv.cloudfront.net
 d26r15y2ken1t9.cloudfront.net
 d26us1doo6mh7f.cloudfront.net
 d26yfyk0ym2k1u.cloudfront.net
@@ -10811,6 +10812,7 @@ e39.xyz
 e40.xyz
 e41.xyz
 e47.xyz
+e48.xyz
 e4b65f2ef47fb0.com
 e4ea9cb229.com
 e4nglis56hcoo5nhou6nd.com
@@ -40192,6 +40194,7 @@ xelllwrite.com
 xel-xel-fie.com
 xemfrctctdnlhe.com
 xenaly.sozcu.com.tr
+xerhibx.cn
 xev2o.com
 xewoza.com
 xfb00.com
