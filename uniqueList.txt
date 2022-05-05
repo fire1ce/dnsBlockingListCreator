@@ -4438,6 +4438,7 @@ beacon.squixa.net
 beacon.statful.com
 beacon.thred.woven.com
 beacon.tingyun.com
+beacon.vertebrae-axis.com
 beacon.viewlift.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
@@ -9103,6 +9104,7 @@ dangrancha.com.cn
 danmeneldur.com
 dante2007.com
 dante.vl.ru
+danv01ao0kdr2.cloudfront.net
 danzabucks.com
 danzhallfes.com
 daochengwowo.top
@@ -9185,6 +9187,7 @@ data.mediaworld.it
 data.minute.ly
 data.nexxt.com
 datanoticias.prisasd.com
+dataose.top
 data.ouigo.com
 data.queryly.com
 data.reactandshare.com
@@ -12167,6 +12170,7 @@ event.jma.or.jp
 event-listener.air.tv
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
+event.mrtnsvr.com
 eventos.usj.es
 events.air.tv
 events.apester.com
@@ -15194,6 +15198,7 @@ h3a.t.r.vpath.net
 h3helgf2g7k8.com
 h3lw971ym6.com
 h41s.com
+h45pmx1.cn
 h4kdxs.com
 h559.stamfordadvocate.com
 h5log.zongheng.com
@@ -26694,6 +26699,7 @@ ppfrlfe.com
 ppgopjti.com
 ppgqvz.bigmotoringworld.co.uk
 ppj338.cn
+p.placed.com
 ppmakl.oscarcalcados.com.br
 p.pmu.fr
 ppnnqsqx.com
@@ -27984,6 +27990,7 @@ qvnpxc.technopark.ru
 qvohjjghjdgimr.xyz
 qvorcqfon.com
 qvpublish.com
+qvqcfau.cn
 qvqtga.barenecessities.com
 qvtlgvemqvipdf.xyz
 qvuehosxuzhagv.com
