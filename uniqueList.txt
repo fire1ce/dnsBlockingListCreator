@@ -8777,6 +8777,7 @@ d31mxuhvwrofft.cloudfront.net
 d31nb97nd8ha11.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d31vxm9ubutrmw.cloudfront.net
+d31y97ze264gaa.cloudfront.net
 d32bug9eb0g0bh.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d32r49xyei4vz6.cloudfront.net
@@ -10811,6 +10812,7 @@ dzwgbm.xyz
 dzxsqoh01i.com
 dzxwnews.com
 dzxzx.cn
+e05.xyz
 e0794b0bdf.com
 e07.xyz
 e09f3e4ceda.com
@@ -26195,6 +26197,7 @@ pixel.honestjohn.co.uk
 pixel.inforsea.com
 pixel.ionos.fr
 pixel.kknews.cc
+pixel.locker2.com
 pixel.mathtag.com
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
@@ -33068,6 +33071,7 @@ stat.matichon.co.th
 stat.moevideo.net
 statm.the-adult-company.com
 stat.mtv3.fi
+stat.mydaddy.cc
 stat.novinky.cz
 stat.nyheter24.se
 stat.ouedkniss.com
